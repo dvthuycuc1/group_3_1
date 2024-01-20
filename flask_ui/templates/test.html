@@ -1,0 +1,471 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>My Data</title>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script src="https://code.highcharts.com/modules/series-label.js"></script>
+    <script src="https://code.highcharts.com/modules/histogram-bellcurve.js"></script>
+    <script src="https://code.highcharts.com/modules/heatmap.js"></script>
+    <script type="text/javascript" src="https://code.highcharts.com/modules/stock.js"></script>
+    <script type="text/javascript" src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script type="text/javascript" src="https://code.highcharts.com/modules/accessibility.js"></script>
+  <script>
+    $(document).ready(async () => {
+      (async () => {
+        const usdeur = [{% for item in energy_data %}
+                            {{item|safe}},
+                        {% endfor %}];
+        Highcharts.stockChart('linechart', {
+
+          title: {
+            text: 'Line chart for target value'
+          },
+
+          navigator: {
+            maskInside: false
+          },
+
+          rangeSelector: {
+            selected: 4
+          },
+
+          scrollbar: { enabled: false },
+          navigator: { enabled: false },
+
+          series: [{
+            name: '{{val_col}}',
+            data: usdeur
+          }]
+        });
+      })();
+
+// HISTOGRAM chart
+      const data = [{% for item in histogram_data %}
+                            {{item|safe}},
+                        {% endfor %}];
+
+Highcharts.chart('chart3', {
+    title: {
+        text: 'Data Distribution'
+    },
+
+    xAxis: [{
+        title: { text: 'Data' },
+        alignTicks: false
+    }, {
+        title: { text: 'Histogram' },
+        alignTicks: false,
+        opposite: true
+    }],
+
+    yAxis: [{
+        title: { text: 'Data' }
+    }, {
+        title: { text: 'Histogram' },
+        opposite: true
+    }],
+
+    plotOptions: {
+        histogram: {
+            accessibility: {
+                point: {
+                    valueDescriptionFormat: '{index}. {point.x:.3f} to {point.x2:.3f}, {point.y}.'
+                }
+            }
+        }
+    },
+
+    series: [{
+        name: 'Histogram',
+        type: 'histogram',
+        xAxis: 1,
+        yAxis: 1,
+        baseSeries: 's1',
+        zIndex: -1
+    }, {
+        name: 'Data',
+        type: 'scatter',
+        data: data,
+        id: 's1',
+        marker: {
+            radius: 1.5
+        }
+    }]
+});
+
+   //HEATMAP chart
+    // Substring template helper for the responsive labels
+Highcharts.Templating.helpers.substr = (s, from, length) =>
+    s.substr(from, length);
+
+// Create the chart
+Highcharts.chart('heatmapchart', {
+
+    chart: {
+        type: 'heatmap',
+        marginTop: 40,
+        marginBottom: 80,
+        plotBorderWidth: 1
+    },
+
+
+    title: {
+        text: 'Attributes correlation',
+        style: {
+            fontSize: '1em'
+        }
+    },
+
+    xAxis: {
+        categories: ['price_actual_nom']
+    },
+
+    yAxis: {
+        categories: [{% for item in attr_values %}
+                            '{{item|safe}}',
+                        {% endfor %}],
+        title: null,
+        reversed: true
+    },
+
+    accessibility: {
+        point: {
+            descriptionFormat: '{(add index 1)}. ' +
+                '{series.xAxis.categories.(x)} has correlation value ' +
+                '{series.yAxis.categories.(y)}, {value}.'
+        }
+    },
+
+    colorAxis: {
+        min: 0,
+        minColor: '#FFFFFF',
+        maxColor: Highcharts.getOptions().colors[0]
+    },
+
+    legend: {
+        align: 'right',
+        layout: 'vertical',
+        margin: 0,
+        verticalAlign: 'top',
+        y: 12,
+        symbolHeight: 280
+    },
+
+    tooltip: {
+        format: '<b>{series.yAxis.categories.(point.y)}</b> has<br>' +
+            '<b>{point.value}</b> correlation value <br>'
+    },
+
+    series: [{
+        name: 'Correlation value',
+        borderWidth: 1,
+        data: [{% for item in corr_value %}
+                    [0, {{ loop.index0 }}, {{ item|safe}}],
+                {% endfor %}],
+        dataLabels: {
+            enabled: true,
+            color: '#000000'
+        }
+    }],
+
+    responsive: {
+        rules: [{
+            condition: {
+                maxWidth: 200
+            },
+            chartOptions: {
+                yAxis: {
+                    labels: {
+                        format: '{substr value 0 1}'
+                    }
+                }
+            }
+        }]
+    }
+
+});
+
+
+   //Multiple Line Chart for 24hours prediction
+    Highcharts.chart('mullinechart', {
+
+    title: {
+        text: 'Quantile prediction line on {{date_str}}',
+        align: 'left'
+    },
+
+    subtitle: {
+        text: '10 percentile to 90 percentile value',
+        align: 'left'
+    },
+
+    yAxis: {
+        title: {
+            text: '{{val_col}}'
+        }
+    },
+
+    xAxis: {
+        accessibility: {
+            rangeDescription: 'Range: 10 to 90'
+        }
+    },
+
+    legend: {
+        layout: 'vertical',
+        align: 'right',
+        verticalAlign: 'middle'
+    },
+
+    plotOptions: {
+        series: {
+            label: {
+                connectorAllowed: false
+            },
+            pointStart: 1
+        }
+    },
+
+    series: [{name: '{{hr_cols}}', data: [{% for item in date_hr_pred %}
+                            {{item|safe}},
+                        {% endfor %}]
+                        }]
+    ,
+
+    responsive: {
+        rules: [{
+            condition: {
+                maxWidth: 500
+            },
+            chartOptions: {
+                legend: {
+                    layout: 'horizontal',
+                    align: 'center',
+                    verticalAlign: 'bottom'
+                }
+            }
+        }]
+    }
+});
+
+
+// actual and range chart
+const ranges = [
+         {% for item in range_data %}
+                            {{item|safe}},
+                        {% endfor %}
+
+    ],
+    averages = [
+        {% for item in range_y_data %}
+                            [{{item|safe}}],
+                        {% endfor %}
+    ];
+
+Highcharts.chart('rangechart', {
+
+    title: {
+        text: 'Range chart of Targeted Value and Prediction Range',
+        align: 'left'
+    },
+
+    subtitle: {
+        text: 'Min is 10 percentile and max is 90 percentile',
+        align: 'left'
+    },
+
+    xAxis: {
+        type: 'datetime'
+    },
+
+    yAxis: {
+        title: {
+            text: '{{val_col}}'
+        }
+    },
+
+    tooltip: {
+        crosshairs: true,
+        shared: true
+    },
+
+    plotOptions: {
+        series: {
+            pointStart: {{start_point}},
+            pointIntervalUnit: 'day'
+        }
+    },
+
+    series: [{
+        name: '{{val_col}}',
+        data: averages,
+        zIndex: 1,
+        marker: {
+            fillColor: 'white',
+            lineWidth: 2,
+            lineColor: Highcharts.getOptions().colors[0]
+        }
+    }, {
+        name: 'Range',
+        data: ranges,
+        type: 'arearange',
+        lineWidth: 0,
+        linkedTo: ':previous',
+        color: Highcharts.getOptions().colors[0],
+        fillOpacity: 0.3,
+        zIndex: 0,
+        marker: {
+            enabled: false
+        }
+    }]
+});
+
+
+(async () => {
+
+        const names = ['actual_price', 'predict_price'];
+
+        function createChart(series) {
+
+          Highcharts.stockChart('2linechart', {
+
+            rangeSelector: {
+              selected: 4
+            },
+
+            yAxis: {
+
+              plotLines: [{
+                value: 0,
+                width: 2,
+                color: 'silver'
+              }]
+            },
+
+
+
+            tooltip: {
+              pointFormat: '<span style="color:{series.color}">{series.name}</span>: <b>{point.y}</b> <br/>',
+              valueDecimals: 2,
+              split: true
+            },
+
+            scrollbar: { enabled: false },
+            navigator: { enabled: false },
+
+            series
+          });
+
+        }
+
+        const series = [{name:'actual_price',
+        data: [
+        {% for item in energy_data %}
+         {{ item|safe}},
+        {% endfor %}
+        ]},
+        {name:'predict_price',
+        data: [
+        {% for item in predict_data %}
+         {{ item|safe}},
+        {% endfor %}
+        ]}];
+
+
+        createChart(series);
+
+      })();
+
+    });
+
+  </script>
+</head>
+<body>
+  <header class="site-header">
+        <h1> GROUP 3 QNN </h1>
+        <div style="display: flex; width: 100%;">
+            <div style="width: 60%;">
+                <h2> My Data Upload </h2>
+            </div>
+            <div align="right" style="width: 40%;">
+                <h3><a href="/">Go to Home Page</a></h3>
+            </div>
+        </div>
+  </header>
+
+  {% if error %}
+    <p style="color: red;">{{ error }}</p>
+  {% endif %}
+
+  <form method="post" enctype="multipart/form-data" id="uploadForm">
+    <input type="file" name="file" accept=".csv" onchange="submitForm()">
+  </form>
+
+  {% if success %}
+    <p style="color: green;">{{ success }}</p>
+    <form method="post" enctype="multipart/form-data" >
+      <label for="datecolumn">Select Date Column:</label>
+      <select name="datecolumn" id="datecolumn">
+        {% for header in headers %}
+<!--          <option value="{{ header }}" >{{ header }}</option>-->
+          <option value="{{ header }}" {% if date_col == header %}selected{% endif %}>{{ header }} </option>
+
+        {% endfor %}
+      </select>
+      <label for="valuecolumn">Value Column:</label>
+      <select name="valuecolumn" id="valuecolumn">
+        {% for header in headers %}
+<!--          <option value="{{ header }}">{{ header }}</option>-->
+          <option value="{{ header }}" {% if val_col == header %}selected{% endif %}>{{ header }} </option>
+        {% endfor %}
+      </select>
+      <button type="submit" name="button" value="predictiondata" >Prediction</button>
+    </form>
+  {% endif %}
+  <br>
+  <hr>
+  <h4> Input Insight</h4>
+
+  <div class="chart-container" style="display: flex; width: 100%;">
+    <div id="linechart" style="width: 40%;"></div>
+    <div id="chart3" style="width: 40%;"></div>
+      <div id="heatmapchart" style="width: 20%;"></div>
+  </div>
+
+  <h4> Output Insight</h4>
+    <div class="chart-container" style="display: flex; width: 100%;">
+        <div id="mullinechart" style="width: 50%;"></div>
+        <div id="rangechart" style="width: 50%;"></div>
+    </div>
+
+    <br>
+
+    <div class="chart-container" style="display: flex; width: 100%;">
+        <div id="2linechart" style="width: 50%;"></div>
+        <div align="center" style="width: 50%; height:400px">
+            <div align="center" style="width: 40%; height:100px; border: 2px solid #2196F3">
+                <h3> MSE Value: {{mae}}</h3>
+                <h3> RMSE Value: {{rmse}}</h3>
+            </div>
+        </div>
+
+    </div>
+  <table align="center" id="pred_hr">
+    {% for table in table_pred_data %}
+            {{table_pred_cols[loop.index]}}
+            {{ table|safe }}
+{% endfor %}
+        </table>
+  <script>
+    function submitForm() {
+      document.getElementById("uploadForm").submit();
+    }
+  </script>
+</body>
+
+
+</html>

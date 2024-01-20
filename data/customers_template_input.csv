@@ -1,0 +1,3702 @@
+industry,id,customer_name
+Technology,1023597,Reichmann
+Energy,1058556,Staude Höfig e.G.
+Education,1011801,Hauffer GmbH
+Retail,1062069,Klemt e.V.
+Retail,1071647,Gertz KG
+Healthcare,1027212,Holsten
+Food and Beverage,1025578,Ullmann GmbH
+Healthcare,1046081,Trüb OHG mbH
+Entertainment,1017598,Wesack KG
+Food and Beverage,1087139,Schuster
+Manufacturing,1067631,Kade Hendriks AG
+Healthcare,1035149,Börner Lange GmbH
+Healthcare,1073849,Kaul
+Technology,1092389,Bohlander Lindau AG & Co. OHG
+Healthcare,1068045,Seidel Reinhardt GbR
+Healthcare,1065436,Stiebitz
+Manufacturing,1040449,Mülichen AG & Co. OHG
+Transportation,1039071,Flantz Stiftung & Co. KGaA
+Transportation,1012122,Rörricht Löwer AG
+Food and Beverage,1098421,Schlosser
+Education,1066422,Schottin KG
+Education,1037543,Koch GmbH
+Energy,1034603,Jacob Etzold OHG mbH
+Retail,1095463,Vogt Döhn AG & Co. KG
+Retail,1034577,Vollbrecht
+Healthcare,1069915,Röhricht Förster GmbH
+Technology,1075067,Hoffmann Jessel AG & Co. KG
+Food and Beverage,1055178,Stroh
+Retail,1037261,Nette
+Transportation,1047267,Pölitz
+Transportation,1050123,Wirth Rudolph e.G.
+Entertainment,1023075,Reuter Seifert KG
+Manufacturing,1062795,Röhrdanz
+Food and Beverage,1094690,Kensy KG
+Healthcare,1032332,Eberhardt
+Technology,1026174,Pruschke Weitzel Stiftung & Co. KGaA
+Healthcare,1026231,Bolzmann AG
+Transportation,1019257,Weinhold Ernst GmbH
+Manufacturing,1074319,Fischer GmbH
+Retail,1033818,Karge
+Energy,1093893,Kraushaar Jungfer e.G.
+Food and Beverage,1022071,Rädel
+Manufacturing,1069223,Neuschäfer
+Technology,1012028,Boucsein Noack AG & Co. KGaA
+Education,1009683,Eberth Zobel GmbH
+Education,1041444,Karz Gude GmbH & Co. KG
+Healthcare,1044010,Kreusel Metz Stiftung & Co. KG
+Entertainment,1082007,Hübel Jäkel KG
+Entertainment,1042105,Ehlert Warmer AG
+Energy,1012016,Scheel
+Manufacturing,1062382,Scholl KGaA
+Transportation,1078430,Zimmer
+Energy,1095226,Metz KG
+Entertainment,1052863,Stiffel e.G.
+Entertainment,1018057,Niemeier Faust Stiftung & Co. KG
+Education,1078439,Jäntsch AG
+Technology,1076558,Mülichen GmbH
+Retail,1084013,Fritsch KG
+Education,1024509,Hahn
+Transportation,1040998,Stadelmann
+Technology,1030182,Weinhage Stiftung & Co. KG
+Education,1013879,Bärer
+Food and Beverage,1088405,Winkler KG
+Retail,1050792,Pechel
+Transportation,1051409,Trommler
+Energy,1067377,Sontag
+Healthcare,1003323,Hornig Scholl AG & Co. OHG
+Retail,1000258,Hering KG
+Food and Beverage,1021056,Stroh Kuhl e.V.
+Technology,1052537,Holsten Stiftung & Co. KGaA
+Transportation,1098123,Rogner Trubin OHG mbH
+Energy,1034694,Klingelhöfer Junitz GmbH & Co. KG
+Manufacturing,1009939,Hänel
+Manufacturing,1059185,Gerlach Lindner KG
+Education,1006067,Blümel Dörr GmbH & Co. KG
+Retail,1057654,Schacht Etzold KG
+Healthcare,1021858,Stumpf KG
+Retail,1010061,Trub
+Energy,1015609,Ritter Sölzer e.V.
+Transportation,1090824,Ernst Tschentscher GmbH
+Entertainment,1096436,Salz GmbH
+Food and Beverage,1006258,Binner AG
+Transportation,1047296,Rust Bonbach e.G.
+Education,1083217,Dobes KG
+Healthcare,1089452,Rosenow
+Retail,1057670,Hoffmann
+Education,1092802,Biggen Scholz e.V.
+Education,1055706,Schwital Mülichen KGaA
+Retail,1003903,Bolzmann Stumpf GmbH
+Entertainment,1017425,Gumprich
+Education,1028475,Zorbach GmbH & Co. KGaA
+Entertainment,1005774,Reichmann Müller GmbH & Co. KG
+Manufacturing,1036496,Lindner
+Healthcare,1083991,Textor Atzler GmbH & Co. KG
+Healthcare,1097992,Heß Wiek AG & Co. OHG
+Energy,1065522,Gröttner OHG mbH
+Technology,1039676,Geisler AG
+Healthcare,1099511,Gehringer
+Healthcare,1078960,Wesack Adolph KG
+Food and Beverage,1029170,Schinke e.G.
+Technology,1019996,Gutknecht Misicher KG
+Education,1032094,Scholtz
+Healthcare,1043086,Wulf GbR
+Entertainment,1072758,Kusch e.V.
+Healthcare,1010374,Ruppersberger
+Manufacturing,1055276,Peukert GmbH
+Entertainment,1072284,Thies Hölzenbecher e.V.
+Education,1096726,Ziegert
+Healthcare,1051637,Scheel KGaA
+Education,1082111,Staude Fechner KGaA
+Technology,1064728,Gutknecht Hentschel AG
+Healthcare,1067011,Hofmann
+Retail,1034058,Klotz AG & Co. OHG
+Energy,1010996,Schenk GbR
+Education,1057505,Scheibe Mosemann GmbH & Co. KG
+Technology,1017007,Bruder
+Entertainment,1058698,Rogner Rosemann GmbH & Co. KGaA
+Healthcare,1066092,Beckmann Mans KG
+Healthcare,1021083,Mans AG & Co. OHG
+Healthcare,1098993,Pieper
+Transportation,1010731,Käster Kostolzin GbR
+Transportation,1075333,Kranz AG
+Education,1013871,Trupp
+Healthcare,1070659,Reichmann Jüttner AG
+Healthcare,1045416,Schottin GmbH & Co. KGaA
+Energy,1081954,Boucsein Kade Stiftung & Co. KGaA
+Manufacturing,1009899,Henk
+Entertainment,1064311,Säuberlich Haase AG & Co. OHG
+Entertainment,1030797,Wirth
+Entertainment,1010222,Schottin Gehringer AG
+Entertainment,1014214,Gute Aumann GmbH
+Healthcare,1091643,Weimer
+Manufacturing,1008471,Budig GmbH & Co. OHG
+Healthcare,1042587,Bonbach
+Energy,1055862,Bohnbach AG
+Healthcare,1009180,Fliegner Klapp AG & Co. OHG
+Education,1033301,Heinrich Trommler GmbH
+Entertainment,1080333,Briemer
+Manufacturing,1043908,Rohleder Caspar Stiftung & Co. KGaA
+Entertainment,1036042,Reinhardt AG
+Energy,1005176,Rogner Drub KG
+Food and Beverage,1010474,Karz e.V.
+Retail,1062841,Losekann Jüttner Stiftung & Co. KG
+Retail,1017355,Zänker
+Entertainment,1013297,Gunpf GmbH & Co. OHG
+Food and Beverage,1023481,Käster
+Food and Beverage,1076545,Mangold
+Transportation,1046416,Eberhardt Jockel Stiftung & Co. KGaA
+Retail,1045864,Adler e.G.
+Transportation,1083124,Drub GmbH
+Manufacturing,1064160,Schönland Ritter e.V.
+Food and Beverage,1087624,Bähr
+Entertainment,1089334,Tröst Schmidtke GmbH & Co. OHG
+Technology,1058806,Löffler
+Entertainment,1003729,Jungfer Schweitzer GmbH
+Education,1034924,Gertz
+Food and Beverage,1050281,Tlustek
+Transportation,1009533,Graf GmbH
+Education,1083771,Wagner
+Food and Beverage,1045937,Jacobi Jäckel Barth AG & Co. KG
+Technology,1094131,Lorch
+Transportation,1048973,Rädel Bloch KG
+Healthcare,1027007,Klemm Stiftung & Co. KGaA
+Manufacturing,1039095,Beer
+Healthcare,1089611,Kuhl Jacobi Jäckel KG
+Energy,1017341,Neuschäfer Junken GmbH
+Transportation,1079288,Jopich Mans GmbH
+Education,1037196,Werner Zorbach AG & Co. OHG
+Healthcare,1069653,Junk
+Retail,1060581,Schulz Ruppersberger GmbH
+Education,1090673,Aumann GmbH
+Manufacturing,1040195,Röhricht
+Energy,1008483,Wohlgemut AG
+Education,1081227,Hoffmann Rogge AG
+Retail,1032252,Hiller Pechel GbR
+Healthcare,1038012,Kostolzin
+Manufacturing,1075889,Biggen GmbH
+Healthcare,1018542,Beier
+Healthcare,1013163,Bolzmann KG
+Healthcare,1089878,Carsten
+Transportation,1085799,Scheuermann Wohlgemut OHG mbH
+Healthcare,1059298,Tröst
+Healthcare,1009246,Rust
+Food and Beverage,1091521,Junitz AG & Co. OHG
+Technology,1088227,Hering AG
+Healthcare,1034985,Grein Groth Klingelhöfer AG & Co. KGaA
+Entertainment,1057972,Margraf Ruppersberger GmbH
+Transportation,1038202,Grein Groth Weiß AG
+Transportation,1017934,Schuchhardt
+Manufacturing,1055451,Hauffer Misicher GmbH & Co. KG
+Technology,1063783,Kusch Seip KG
+Healthcare,1086329,Metz Schwital GmbH & Co. KG
+Retail,1073351,Lachmann e.G.
+Healthcare,1034101,Ritter AG
+Food and Beverage,1044871,Hethur
+Education,1019616,Scholl
+Entertainment,1004418,Radisch GmbH
+Healthcare,1071001,Stadelmann Putz AG
+Retail,1087250,Killer AG & Co. KGaA
+Entertainment,1028597,Seifert Beier AG
+Energy,1060019,Hamann AG
+Technology,1069934,Schmiedt Pärtzelt OHG mbH
+Energy,1086132,Ruppersberger Hendriks AG & Co. KGaA
+Entertainment,1084126,Austermühle Fritsch OHG mbH
+Education,1015893,Ruppersberger AG & Co. OHG
+Retail,1066181,Mohaupt Lindau GbR
+Retail,1080344,Wohlgemut
+Manufacturing,1059054,Tintzmann
+Food and Beverage,1001571,Wernecke Trupp KG
+Manufacturing,1079972,Holt Dörr KG
+Technology,1008623,Schmidtke
+Technology,1097509,Thanel Köster GmbH
+Healthcare,1099995,Sölzer Austermühle GmbH
+Healthcare,1052029,Seip Gieß GbR
+Manufacturing,1020701,Heinrich GmbH
+Entertainment,1009258,Stoll AG & Co. KG
+Retail,1016902,Rohleder GmbH & Co. KG
+Healthcare,1082712,Koch Hendriks OHG mbH
+Manufacturing,1014581,Wulff Koch GmbH
+Retail,1027885,Dörr
+Energy,1054084,Pohl
+Education,1021182,Hering GbR
+Manufacturing,1013030,Martin AG & Co. OHG
+Entertainment,1025525,Dehmel Speer GmbH
+Energy,1094208,Losekann
+Entertainment,1083240,Gröttner GmbH & Co. KG
+Retail,1081252,Hölzenbecher Stiftung & Co. KGaA
+Healthcare,1053983,Kostolzin Scheuermann KG
+Healthcare,1071339,Barkholz AG
+Technology,1051597,Freudenberger e.V.
+Healthcare,1002900,Adler Koch II AG
+Energy,1067148,Steinberg Rosenow AG
+Healthcare,1056604,Renner
+Transportation,1068370,Berger
+Retail,1061035,Röhrdanz Sontag GmbH & Co. KGaA
+Technology,1039857,Gude Drub AG & Co. KG
+Technology,1040684,Schleich
+Energy,1084239,Margraf
+Healthcare,1061870,Kitzmann GmbH & Co. OHG
+Transportation,1087380,Dörschner
+Energy,1072422,Matthäi Franke GmbH
+Healthcare,1003741,Stey KG
+Healthcare,1060315,Rose GmbH
+Transportation,1043560,Ziegert Aumann GmbH & Co. OHG
+Transportation,1023842,Riehl KGaA
+Technology,1000766,Wirth Schomber AG
+Entertainment,1077658,Spieß GmbH & Co. OHG
+Retail,1016414,Weiß
+Healthcare,1017274,Geisel Stiftung & Co. KG
+Retail,1011465,Krein
+Energy,1084525,Drewes
+Retail,1082633,Sölzer GmbH & Co. KG
+Energy,1033788,Etzler Lorch Stiftung & Co. KGaA
+Retail,1022520,Scheibe Stiftung & Co. KG
+Healthcare,1008811,Stiebitz GmbH
+Education,1051137,Ebert Scheibe GmbH
+Food and Beverage,1076547,Noack
+Healthcare,1005659,Wulff Hertrampf Stiftung & Co. KGaA
+Healthcare,1027618,Wende Kabus GmbH & Co. KG
+Manufacturing,1003546,Hande
+Healthcare,1045562,Freudenberger GmbH
+Technology,1000201,Löchel Söding GmbH & Co. KG
+Energy,1005488,Förster GmbH & Co. OHG
+Technology,1014694,Kramer Hethur AG & Co. KG
+Healthcare,1020589,Heydrich Sauer GmbH & Co. KG
+Healthcare,1012101,Jacob
+Healthcare,1028044,Metz
+Food and Beverage,1060723,Gorlitz
+Healthcare,1041956,Hettner KG
+Transportation,1046978,Henk OHG mbH
+Healthcare,1093590,Schacht Heser GmbH
+Transportation,1099563,Hartung Zimmer KG
+Education,1084359,Lange
+Technology,1061181,Franke
+Food and Beverage,1045926,Ullmann AG
+Healthcare,1070926,Löwer
+Manufacturing,1081947,Ditschlerin Kreusel e.G.
+Retail,1058376,Hellwig
+Technology,1012278,Noack GmbH & Co. KGaA
+Education,1096125,Staude GmbH
+Entertainment,1011533,Bauer KG
+Healthcare,1044470,Johann
+Food and Beverage,1078145,Walter KG
+Retail,1035434,Heinz Weller Stiftung & Co. KG
+Entertainment,1044907,Austermühle
+Education,1039967,Mosemann KG
+Transportation,1079460,Segebahn
+Transportation,1025548,Ruppert
+Manufacturing,1059552,Finke AG
+Healthcare,1068571,Baum
+Food and Beverage,1087682,Cichorius Weinhage AG & Co. KG
+Education,1098735,Sölzer Jäkel OHG mbH
+Technology,1041420,Bruder Sager GmbH
+Healthcare,1098108,Kade Bender KG
+Healthcare,1034320,Hein Klotz GmbH
+Transportation,1016988,Lübs Nette GmbH
+Healthcare,1043917,Liebelt Hande AG
+Technology,1046721,Wulf
+Food and Beverage,1048196,Schinke Neuschäfer GmbH & Co. KGaA
+Food and Beverage,1017447,Loos Stiftung & Co. KGaA
+Technology,1016406,Binner Löffler KG
+Technology,1096862,Jüttner Sorgatz GmbH & Co. OHG
+Technology,1033340,Süßebier Hänel GmbH
+Healthcare,1023719,Reinhardt Binner KGaA
+Healthcare,1058591,Schönland OHG mbH
+Technology,1097553,Sauer Misicher AG
+Energy,1096969,Hering Geisel OHG mbH
+Entertainment,1085063,Wulf AG & Co. KG
+Technology,1077106,Trommler Meyer e.G.
+Retail,1000053,Stumpf
+Healthcare,1033922,Krein Striebitz GmbH
+Retail,1044963,Dehmel GmbH & Co. KG
+Food and Beverage,1057712,Rogge
+Technology,1030049,Trubin e.V.
+Food and Beverage,1054930,Margraf Gumprich KGaA
+Technology,1065248,Ortmann
+Transportation,1029320,Löwer GmbH & Co. KGaA
+Healthcare,1091308,Atzler Jäntsch AG & Co. OHG
+Entertainment,1047625,Nette GmbH & Co. OHG
+Technology,1059173,Ullrich Koch AG
+Energy,1062366,Flantz Nerger GmbH
+Healthcare,1023844,Scheuermann Stiftung & Co. KGaA
+Retail,1058236,Beyer KG
+Energy,1060103,Lübs
+Healthcare,1091334,Atzler GmbH
+Manufacturing,1038672,Ullrich GmbH & Co. OHG
+Entertainment,1079646,Mielcarek Eberth e.V.
+Transportation,1098823,Ebert
+Healthcare,1058778,Ernst Weinhage AG & Co. KG
+Transportation,1040935,Misicher OHG mbH
+Technology,1078975,Ritter Hartung AG & Co. OHG
+Energy,1097729,Karz Schwital GmbH & Co. KGaA
+Retail,1031649,Schacht Thies KG
+Manufacturing,1062230,Salz
+Education,1058508,Niemeier
+Education,1019484,Siering
+Healthcare,1068541,Schmiedt Löffler GmbH
+Technology,1028607,Beckmann GmbH
+Technology,1095164,Atzler
+Entertainment,1058735,Gnatz GmbH & Co. OHG
+Energy,1096681,Sölzer Hofmann GmbH & Co. KGaA
+Energy,1041336,Schaaf Dehmel GmbH
+Education,1008058,Zahn Trommler AG
+Manufacturing,1004806,Schönland KG
+Technology,1004963,Junitz Rädel GmbH
+Retail,1020644,Stroh Barth GmbH
+Transportation,1073372,Tintzmann GmbH & Co. KG
+Food and Beverage,1007581,Täsche
+Healthcare,1052183,Vollbrecht Stiftung & Co. KG
+Entertainment,1084596,Gute
+Education,1039738,Mühle AG
+Entertainment,1005328,Kohl AG
+Healthcare,1081740,Budig Renner AG
+Education,1004010,Hertrampf
+Manufacturing,1071527,Stahr
+Manufacturing,1007898,Baum Mälzer AG & Co. OHG
+Transportation,1060867,Trommler Heintze GmbH & Co. KGaA
+Transportation,1001980,Gute GmbH
+Technology,1044271,Vollbrecht GmbH
+Education,1067127,Schleich e.G.
+Manufacturing,1036886,Rohleder
+Food and Beverage,1027791,Kobelt GmbH
+Energy,1029019,Lehmann Klapp KG
+Healthcare,1081594,Seip
+Technology,1095989,Hellwig Anders GmbH & Co. OHG
+Entertainment,1065836,Plath
+Technology,1053771,Wohlgemut GmbH
+Retail,1043781,Patberg Schleich GbR
+Education,1012614,Stumpf GmbH
+Food and Beverage,1020733,Zänker Wagenknecht AG
+Energy,1015920,Gnatz Killer GbR
+Technology,1047223,Bloch Schmiedecke GmbH
+Transportation,1023369,Kohl Roht AG & Co. OHG
+Healthcare,1000102,Schaaf Lindau AG
+Technology,1021801,Schottin
+Education,1017144,Pechel GbR
+Transportation,1004483,Reuter GmbH
+Manufacturing,1072380,Rogner Baum e.G.
+Technology,1031702,Ladeck
+Healthcare,1096945,Henschel Wilms Stiftung & Co. KG
+Technology,1018528,Cichorius
+Energy,1009436,Heuser
+Entertainment,1025845,Dussen van GmbH & Co. KG
+Education,1004143,Jüttner
+Energy,1002777,Sölzer Faust GbR
+Energy,1007881,Hartmann Etzler GbR
+Healthcare,1004435,Heinz
+Technology,1016508,Hering
+Energy,1015377,Trüb
+Food and Beverage,1056152,Warmer GbR
+Healthcare,1003336,Reinhardt
+Manufacturing,1028030,Fiebig Henschel AG
+Energy,1039098,Fröhlich Geisler AG
+Manufacturing,1048960,Scholl Geißler GmbH
+Transportation,1032942,Hornig
+Food and Beverage,1007382,Bien Tschentscher GbR
+Manufacturing,1087771,Karz
+Entertainment,1023390,Dörschner Fiebig GmbH
+Technology,1015970,Wiek Mülichen KGaA
+Healthcare,1014076,Sölzer
+Entertainment,1024961,Heinrich
+Transportation,1056372,Steinberg AG
+Technology,1030556,Gotthard
+Manufacturing,1020002,Mülichen Schaaf AG
+Retail,1005601,Graf e.V.
+Retail,1003311,Täsche Kühnert Stiftung & Co. KG
+Retail,1091863,Rosemann Bruder Stiftung & Co. KG
+Technology,1059592,Hesse e.G.
+Healthcare,1043707,Lachmann
+Healthcare,1091764,Jopich Rädel GmbH
+Education,1017436,Jäkel
+Energy,1029467,Weimer GmbH & Co. OHG
+Retail,1038918,Vogt AG
+Technology,1059659,Seifert
+Education,1075213,Beer GbR
+Manufacturing,1067131,Säuberlich GmbH & Co. KG
+Education,1010522,Reichmann AG
+Food and Beverage,1091937,Krein Boucsein GmbH & Co. KG
+Retail,1032187,Renner Austermühle GmbH
+Food and Beverage,1012694,Stey OHG mbH
+Retail,1051266,Kranz GbR
+Manufacturing,1013116,Pieper Rogner AG
+Food and Beverage,1083181,Trubin
+Healthcare,1023849,Conradi
+Education,1046391,Bärer e.G.
+Healthcare,1065613,Steckel
+Transportation,1045572,Linke Stiftung & Co. KGaA
+Entertainment,1013283,Schulz Heinz Stiftung & Co. KG
+Technology,1046696,Koch
+Entertainment,1047507,Zirme KG
+Healthcare,1002432,Langern
+Retail,1022373,Kobelt
+Energy,1088855,Scholl Schmiedt GmbH & Co. OHG
+Technology,1014757,Matthäi e.G.
+Manufacturing,1061000,Zobel
+Transportation,1067528,Pechel Schulz GmbH
+Food and Beverage,1038633,Beyer Tlustek AG
+Technology,1072261,Carsten Schottin GmbH & Co. KGaA
+Entertainment,1075160,Söding
+Entertainment,1034480,Trüb Häring e.G.
+Healthcare,1031706,Losekann Lehmann GmbH
+Education,1025740,Schüler Wähner GbR
+Manufacturing,1025796,Otto
+Technology,1068503,Sorgatz
+Retail,1094888,Dippel AG & Co. KG
+Healthcare,1054348,Stadelmann KG
+Education,1044976,Renner AG
+Healthcare,1036188,Peukert e.V.
+Entertainment,1090868,Mangold KG
+Healthcare,1071354,Pruschke
+Food and Beverage,1038199,Wähner GmbH
+Education,1042342,Steinberg GmbH
+Energy,1073900,Bonbach GmbH
+Healthcare,1009141,Gerlach Ruppert GmbH
+Manufacturing,1092174,Weller Faust GmbH
+Retail,1033503,Trubin AG
+Food and Beverage,1087535,Haase KG
+Healthcare,1009986,Henck Krause e.G.
+Entertainment,1020151,Margraf KG
+Technology,1027558,Scholl Junken GmbH
+Education,1028098,Dowerg
+Retail,1009083,Scheuermann Sölzer GmbH
+Energy,1041807,Harloff
+Food and Beverage,1092177,Vollbrecht Steckel Stiftung & Co. KG
+Food and Beverage,1016102,Knappe
+Food and Beverage,1023921,Fliegner Fliegner GmbH & Co. KG
+Technology,1090405,Caspar AG & Co. KGaA
+Healthcare,1028626,Förster Jäntsch GmbH
+Healthcare,1008190,Stumpf KGaA
+Technology,1023048,Rudolph Börner AG & Co. OHG
+Food and Beverage,1053078,Losekann GmbH & Co. OHG
+Healthcare,1043905,Gröttner GmbH & Co. KGaA
+Food and Beverage,1000880,Haase AG & Co. KG
+Transportation,1027100,Thies Gnatz AG
+Retail,1076505,Seip GmbH & Co. KG
+Food and Beverage,1047167,Langern Keudel AG
+Food and Beverage,1092166,Christoph GbR
+Food and Beverage,1036336,Buchholz e.G.
+Manufacturing,1057325,Bloch Kabus Stiftung & Co. KGaA
+Healthcare,1043588,Drub
+Technology,1099363,Stey Schmiedt GmbH & Co. KG
+Manufacturing,1023634,Mentzel Plath GmbH & Co. OHG
+Energy,1008477,Haase
+Food and Beverage,1095243,Ruppersberger Gumprich GmbH & Co. KG
+Healthcare,1091224,Sager
+Technology,1011159,Nohlmans AG & Co. KGaA
+Energy,1047863,Kambs
+Transportation,1015544,Kramer
+Transportation,1050383,Bender Stiftung & Co. KG
+Transportation,1067339,Bolnbach AG
+Entertainment,1041835,Gerlach KG
+Transportation,1072919,Seifert Karge AG
+Education,1043814,Etzold
+Healthcare,1018426,Weihmann KG
+Entertainment,1045212,Zimmer GmbH & Co. OHG
+Education,1060125,Junck Thies GmbH
+Transportation,1048187,Krause GbR
+Food and Beverage,1098340,Weihmann
+Technology,1056197,Kambs Bloch KG
+Healthcare,1036977,Eckbauer AG
+Manufacturing,1015971,Dussen van Seifert Stiftung & Co. KGaA
+Healthcare,1093165,Heinz Mülichen GmbH
+Education,1016098,Tschentscher GbR
+Energy,1034607,Bähr Baum AG
+Healthcare,1077203,Plath GmbH & Co. KG
+Manufacturing,1089930,Bien GmbH & Co. KG
+Energy,1006167,Scholtz GmbH
+Entertainment,1002644,Mielcarek Trapp AG
+Food and Beverage,1080581,Gertz Scholz AG & Co. KGaA
+Healthcare,1040319,Schenk
+Healthcare,1090784,Röhricht Bolnbach Stiftung & Co. KG
+Healthcare,1018479,Jähn Stiftung & Co. KG
+Energy,1059697,Butte Pohl OHG mbH
+Healthcare,1070119,Pieper GmbH & Co. OHG
+Education,1077422,Häring KGaA
+Entertainment,1062389,Jäntsch
+Healthcare,1043874,Wiek
+Retail,1088739,Schacht Seidel KG
+Energy,1024953,Sölzer e.V.
+Education,1019704,Zorbach Schüler Stiftung & Co. KGaA
+Transportation,1087086,Reising
+Manufacturing,1059414,Fliegner e.V.
+Energy,1064984,Dussen van
+Retail,1033000,Linke Steckel AG
+Transportation,1087123,Benthin
+Entertainment,1048485,Schmiedt
+Retail,1009734,Eigenwillig Wende GmbH
+Transportation,1016285,Oderwald GmbH & Co. OHG
+Healthcare,1039168,Ziegert Linke AG & Co. OHG
+Transportation,1018159,Schäfer
+Manufacturing,1071988,Zahn Wagner GbR
+Energy,1030527,Kraushaar AG
+Education,1042764,Hauffer e.G.
+Healthcare,1008629,Wagenknecht AG
+Healthcare,1075941,Gumprich KG
+Transportation,1096029,Geißler GmbH & Co. KG
+Retail,1022957,Hövel
+Entertainment,1027587,Rose Stiftung & Co. KG
+Transportation,1055328,Reising Rohleder GmbH & Co. OHG
+Education,1056765,Bohnbach Stolze KG
+Healthcare,1058008,Gorlitz GmbH & Co. OHG
+Technology,1058183,Bien Kade KGaA
+Retail,1055392,Stahr KG
+Technology,1077847,Stumpf Schuchhardt GbR
+Energy,1012005,Mangold Trapp GmbH & Co. KGaA
+Energy,1058228,Reuter
+Energy,1043173,Bärer GmbH & Co. OHG
+Education,1017914,Koch KG
+Healthcare,1037192,Schlosser AG & Co. OHG
+Energy,1013023,Berger GmbH
+Healthcare,1063711,Reichmann Mühle GbR
+Energy,1028433,Hoffmann Kranz AG & Co. KGaA
+Food and Beverage,1070858,Mies KG
+Education,1000697,Hübel GmbH
+Healthcare,1042065,Stey Bruder GmbH & Co. KG
+Retail,1060541,Kuhl
+Food and Beverage,1036979,Hettner e.G.
+Energy,1002388,Kroker Wiek AG
+Healthcare,1024102,Thies KG
+Transportation,1064896,Junitz Trommler KG
+Transportation,1016645,Mies KGaA
+Technology,1034809,Staude
+Technology,1007352,Jungfer GmbH
+Entertainment,1046450,Ritter KG
+Technology,1018678,Säuberlich KG
+Energy,1003748,Bolnbach
+Healthcare,1030340,Wähner GmbH & Co. KG
+Education,1081567,Hölzenbecher
+Healthcare,1065870,Riehl
+Entertainment,1064582,Gerlach GmbH
+Energy,1046863,Rosenow GmbH
+Education,1065542,Johann OHG mbH
+Entertainment,1030723,Hiller AG & Co. OHG
+Healthcare,1020675,Heser
+Education,1074703,Pieper e.V.
+Energy,1070796,Siering Drub OHG mbH
+Manufacturing,1004914,Bärer Reinhardt e.G.
+Transportation,1026802,Gutknecht Scheel AG & Co. KGaA
+Manufacturing,1072101,Sontag Kranz e.V.
+Energy,1070517,Holzapfel e.V.
+Food and Beverage,1069736,Pärtzelt Drub GmbH
+Technology,1008714,Kallert Etzold KG
+Food and Beverage,1015913,Kühnert
+Technology,1084220,Lübs OHG mbH
+Food and Beverage,1098642,Dippel
+Manufacturing,1029674,Junitz Stiftung & Co. KG
+Technology,1068100,Klemm KGaA
+Retail,1042670,Losekann Lachmann AG
+Food and Beverage,1053159,Weinhold Bolander e.G.
+Transportation,1063640,Johann Krein GmbH & Co. OHG
+Retail,1008401,Stoll GmbH
+Retail,1013597,Hamann Kreusel AG
+Education,1089008,Becker Pechel KG
+Energy,1030199,Zirme
+Technology,1027032,Becker AG & Co. OHG
+Retail,1031349,Koch II Schmidt KGaA
+Education,1030433,Wiek e.G.
+Food and Beverage,1026986,Eimer AG & Co. KG
+Healthcare,1094175,Koch II KGaA
+Healthcare,1054604,Gumprich Kranz AG
+Healthcare,1095729,Peukert Schacht KG
+Healthcare,1032805,Wieloch Thanel e.G.
+Technology,1073343,Reichmann Fiebig KG
+Technology,1054341,Flantz Stiftung & Co. KG
+Transportation,1005141,Henschel Margraf GmbH
+Energy,1014219,Lehmann
+Energy,1047548,Holt Mälzer AG & Co. OHG
+Food and Beverage,1042214,Ladeck e.G.
+Technology,1039166,Eimer
+Manufacturing,1095044,Gute AG
+Entertainment,1057054,Schmiedecke AG
+Healthcare,1024037,Förster AG
+Healthcare,1083140,Jäntsch Bien AG
+Education,1098681,Seip AG
+Healthcare,1063558,Heinz GmbH
+Entertainment,1029396,Weller Schottin AG & Co. OHG
+Education,1054501,Zorbach AG & Co. OHG
+Entertainment,1049840,Hahn Schulz KGaA
+Transportation,1094269,Steckel Wulff GbR
+Technology,1018060,Koch II
+Energy,1030248,Wilmsen
+Food and Beverage,1060333,Grein Groth AG & Co. OHG
+Energy,1002759,Schmiedecke GbR
+Entertainment,1000410,Eckbauer AG & Co. OHG
+Manufacturing,1051847,Niemeier Döhn KGaA
+Education,1018828,Junken Hertrampf AG
+Education,1014001,Henk Hövel GmbH & Co. KG
+Energy,1093122,Nette Rädel GmbH
+Retail,1099281,Krein GbR
+Healthcare,1043698,Klemm Karz e.V.
+Technology,1017897,Drub GmbH & Co. KG
+Entertainment,1035242,Noack Löchel AG
+Food and Beverage,1052897,Grein Groth
+Transportation,1058637,Röhricht GbR
+Transportation,1059266,Förster
+Education,1046315,Kensy GmbH
+Transportation,1022956,Hauffer
+Education,1045527,Fechner KG
+Energy,1049869,Römer Wilmsen KG
+Education,1051775,Paffrath GmbH
+Transportation,1072736,Bruder Möchlichen GmbH & Co. OHG
+Entertainment,1072782,Franke AG & Co. OHG
+Healthcare,1063766,Jungfer
+Food and Beverage,1077738,Käster Oestrovsky e.G.
+Entertainment,1076463,Mühle GmbH
+Technology,1018101,Kruschwitz e.V.
+Retail,1062086,Mans Heser KG
+Manufacturing,1028894,Kohl Bloch AG & Co. KG
+Energy,1002487,Kraushaar Dörr AG
+Entertainment,1065603,Schuchhardt e.G.
+Healthcare,1069989,Holsten AG & Co. KG
+Food and Beverage,1081330,Roht AG & Co. KGaA
+Manufacturing,1071374,Barth
+Energy,1006621,Wähner
+Food and Beverage,1088249,Trapp GmbH & Co. KGaA
+Entertainment,1020722,Kraushaar
+Transportation,1005657,Hahn KG
+Food and Beverage,1034988,Zobel GmbH & Co. KGaA
+Food and Beverage,1054009,Schüler
+Technology,1019983,Meyer GmbH
+Transportation,1036205,Koch II AG
+Manufacturing,1016943,Rose
+Technology,1019815,Häring Hornich AG
+Transportation,1089888,Köster Stiftung & Co. KG
+Food and Beverage,1077081,Hesse Süßebier KGaA
+Education,1009669,Mälzer Barth GbR
+Technology,1003322,Aumann Bolzmann GbR
+Manufacturing,1032734,Jockel Schwital KG
+Transportation,1084432,Thies AG & Co. KG
+Food and Beverage,1036860,Heidrich
+Education,1049227,Rogner AG
+Technology,1047731,Trub Junitz GbR
+Energy,1096009,Köhler Jäkel GmbH
+Healthcare,1025469,Huhn Adolph e.G.
+Education,1058326,Lübs Hellwig AG & Co. KG
+Transportation,1057636,Girschner
+Healthcare,1083314,Rogner e.V.
+Entertainment,1072229,Bolzmann
+Technology,1038363,Schönland
+Entertainment,1016355,Möchlichen AG
+Education,1032008,Stahr Peukert AG & Co. KGaA
+Retail,1091058,Etzold Henk KG
+Healthcare,1039524,Gehringer Hecker e.V.
+Education,1065752,Ziegert GmbH
+Retail,1022309,Nohlmans Pruschke GmbH
+Healthcare,1024983,Nohlmans KG
+Energy,1011375,Bachmann Hiller GbR
+Transportation,1001805,Geisel Stiftung & Co. KGaA
+Food and Beverage,1009999,Thanel AG & Co. KGaA
+Manufacturing,1022727,Blümel Steckel AG
+Healthcare,1078065,Möchlichen
+Retail,1056879,Täsche Pruschke AG
+Manufacturing,1063009,Eimer OHG mbH
+Education,1046388,Nohlmans Gotthard Stiftung & Co. KG
+Transportation,1059115,Birnbaum GmbH & Co. KGaA
+Retail,1018258,Häring GmbH & Co. KGaA
+Healthcare,1086274,van der Dussen
+Energy,1064987,Zahn
+Manufacturing,1035825,Knappe KG
+Healthcare,1086377,Heß Ullrich GmbH
+Entertainment,1045437,Ruppersberger GmbH & Co. KGaA
+Food and Beverage,1024682,Zorbach
+Education,1035188,Tschentscher KGaA
+Technology,1067229,Hornig AG & Co. OHG
+Transportation,1097000,Oderwald
+Food and Beverage,1094786,Heydrich
+Healthcare,1022788,Meyer Lange GmbH
+Retail,1050623,Bonbach GmbH & Co. KGaA
+Transportation,1037181,Sauer
+Entertainment,1011441,Geißler Weiß GmbH & Co. KG
+Energy,1068423,Heintze AG
+Manufacturing,1085561,Hoffmann Winkler AG
+Manufacturing,1071394,Hornig Stumpf AG
+Entertainment,1078898,Gumprich Kobelt Stiftung & Co. KG
+Energy,1015419,Römer
+Technology,1026806,Koch II GbR
+Entertainment,1089743,Klemt Röhrdanz KG
+Healthcare,1026402,Jungfer Rohleder AG
+Healthcare,1059111,Etzler Römer Stiftung & Co. KGaA
+Education,1065503,Bolzmann OHG mbH
+Technology,1039131,Roht
+Manufacturing,1080531,Roskoth GmbH
+Entertainment,1019328,Wieloch Walter GbR
+Healthcare,1047010,Kühnert Werner GmbH & Co. KGaA
+Technology,1082721,Eberth Schweitzer GmbH & Co. KG
+Energy,1063587,Matthäi OHG mbH
+Retail,1061622,Mülichen
+Healthcare,1036216,Kostolzin Pergande AG
+Manufacturing,1051287,Ladeck Stumpf KGaA
+Food and Beverage,1017691,Ortmann e.V.
+Education,1030810,Seifert Stiftung & Co. KG
+Education,1051593,Franke AG
+Healthcare,1032825,Scheel Hahn AG
+Healthcare,1016084,Junken Kranz GmbH
+Food and Beverage,1094010,Holzapfel Hänel AG
+Transportation,1089898,auch Schlauchin Jäkel AG
+Transportation,1003165,Mühle
+Retail,1043024,Meister Reising GbR
+Food and Beverage,1093451,Döring Pieper Stiftung & Co. KG
+Transportation,1000583,Höfig AG & Co. KG
+Retail,1013016,Bärer Cichorius GmbH & Co. KGaA
+Retail,1067222,Davids Pruschke GmbH
+Entertainment,1003715,Bolander Säuberlich KG
+Technology,1044481,Jähn KG
+Retail,1089994,Wilms
+Manufacturing,1084165,Stadelmann GmbH & Co. OHG
+Manufacturing,1034252,Otto Mangold GmbH
+Education,1004670,Geisel Stumpf KGaA
+Energy,1038900,Butte AG & Co. KG
+Education,1041686,Hamann KGaA
+Entertainment,1059470,Schacht Stiftung & Co. KG
+Food and Beverage,1019769,Hofmann GmbH & Co. KG
+Entertainment,1021366,Schomber Gude AG
+Healthcare,1084496,Stoll Schwital GmbH & Co. KG
+Education,1032218,Seidel Röhricht AG & Co. OHG
+Entertainment,1071398,Döhn Kade KG
+Manufacturing,1000081,Hein AG
+Energy,1024142,Salz GbR
+Education,1097757,Pechel Gertz GmbH & Co. OHG
+Transportation,1043760,Anders
+Energy,1098817,Hellwig Stiftung & Co. KGaA
+Energy,1081152,Wilmsen Dietz Stiftung & Co. KG
+Healthcare,1041569,Winkler Döhn OHG mbH
+Healthcare,1042494,Schmiedecke Kallert AG
+Healthcare,1065732,Pölitz Girschner AG
+Retail,1098466,Trapp AG
+Retail,1039362,Gorlitz OHG mbH
+Energy,1041929,Lübs GmbH & Co. KGaA
+Technology,1041501,Lachmann AG
+Technology,1096846,Fröhlich GmbH & Co. OHG
+Transportation,1083420,Berger e.V.
+Healthcare,1000604,Mans Thanel AG & Co. KG
+Education,1059775,Mosemann Stiftung & Co. KG
+Education,1058899,Freudenberger Tschentscher GmbH
+Entertainment,1056537,Karge Jockel AG & Co. OHG
+Manufacturing,1014197,Klapp
+Energy,1074554,Kostolzin AG
+Energy,1089591,Segebahn GmbH
+Technology,1026213,Jopich GbR
+Retail,1003420,Pärtzelt Wulf AG
+Energy,1006429,Lübs Stiftung & Co. KG
+Retail,1039157,Gutknecht Schmiedt AG & Co. KGaA
+Retail,1076901,Jüttner GbR
+Healthcare,1057869,Drub Häring Stiftung & Co. KGaA
+Transportation,1045080,Schmidtke GbR
+Healthcare,1074767,Zimmer AG & Co. KG
+Entertainment,1056519,Schleich Christoph GmbH
+Food and Beverage,1011735,Matthäi
+Retail,1030971,Budig
+Food and Beverage,1042611,Henk Wagenknecht KGaA
+Retail,1089157,Bolzmann GbR
+Retail,1094692,Zorbach AG
+Entertainment,1085092,Linke GmbH
+Transportation,1085469,Schwital Börner e.V.
+Technology,1097720,Thanel Karz GmbH
+Food and Beverage,1036300,Schaaf Hermann GmbH
+Food and Beverage,1015093,Seidel
+Food and Beverage,1019480,Mans OHG mbH
+Food and Beverage,1070874,Reinhardt Pechel e.V.
+Manufacturing,1079373,Budig Hettner e.V.
+Energy,1022802,Pechel GmbH
+Healthcare,1059695,Schwital Bachmann Stiftung & Co. KGaA
+Entertainment,1037644,Krause Franke GbR
+Healthcare,1035291,Trommler e.G.
+Manufacturing,1076215,Möchlichen e.V.
+Transportation,1024399,Scholl GmbH & Co. KG
+Education,1013225,Schmidt GbR
+Food and Beverage,1023724,Döring
+Energy,1042557,Trommler Scheel Stiftung & Co. KG
+Healthcare,1028574,Drub Zirme KG
+Retail,1005554,Wilms Döhn AG
+Technology,1008310,Krause
+Technology,1033936,Harloff Speer AG
+Healthcare,1098344,Stey
+Technology,1036170,Hamann GmbH
+Entertainment,1091938,Putz
+Education,1071325,Weller Adler KG
+Entertainment,1041792,Rose KG
+Education,1074933,Beier Stiftung & Co. KG
+Manufacturing,1002618,Tschentscher Linke AG
+Energy,1082711,Jessel Gierschner KG
+Manufacturing,1082279,Wende Mentzel GbR
+Healthcare,1002811,Ullmann AG & Co. KGaA
+Healthcare,1049724,Gotthard Stiftung & Co. KGaA
+Technology,1060417,Pergande
+Food and Beverage,1039027,Wernecke
+Healthcare,1019688,Hesse KG
+Food and Beverage,1036627,Pohl AG & Co. KGaA
+Transportation,1034294,Haase GmbH
+Healthcare,1021263,Hettner AG
+Food and Beverage,1096248,Jüttner Matthäi KG
+Education,1091348,Hänel Albers Stiftung & Co. KG
+Manufacturing,1052538,Linke
+Retail,1060691,Hein GmbH & Co. OHG
+Energy,1092503,Binner e.V.
+Retail,1096387,Kruschwitz AG & Co. KG
+Manufacturing,1093237,Lachmann Schulz e.G.
+Retail,1037188,Wieloch Ortmann AG
+Education,1030066,Adolph
+Transportation,1036071,Eberth KGaA
+Retail,1005719,Pruschke KG
+Healthcare,1076536,Ullmann
+Retail,1082415,Mude
+Retail,1081593,Gehringer GmbH & Co. OHG
+Healthcare,1024632,Hermighausen KG
+Food and Beverage,1090876,Dietz AG & Co. OHG
+Manufacturing,1054915,Schmidt Paffrath AG & Co. KG
+Transportation,1004069,Drewes AG
+Healthcare,1035075,Gorlitz Mude GmbH & Co. OHG
+Food and Beverage,1091668,Siering Bolnbach e.V.
+Energy,1042658,Gutknecht
+Healthcare,1037201,Henk AG
+Education,1011135,Seip Freudenberger KG
+Healthcare,1054790,Hörle Kade AG
+Energy,1047271,Wirth GmbH & Co. KGaA
+Healthcare,1089273,Wende AG
+Entertainment,1086497,Werner GbR
+Energy,1013551,Löffler GmbH & Co. KG
+Manufacturing,1011612,Seifert AG
+Education,1002607,Blümel
+Entertainment,1074379,Pieper Vollbrecht GbR
+Transportation,1059608,Holzapfel
+Energy,1029071,Otto KGaA
+Food and Beverage,1074087,Wilmsen Caspar KG
+Entertainment,1038911,Zahn GbR
+Healthcare,1093827,Heinrich KGaA
+Education,1063838,Wulff
+Education,1047084,Ziegert AG & Co. KGaA
+Retail,1069695,Kusch Huhn GbR
+Food and Beverage,1014895,Röhricht GmbH & Co. OHG
+Transportation,1058447,Gorlitz AG
+Retail,1062712,van der Dussen KG
+Energy,1002335,Hahn Klingelhöfer Stiftung & Co. KG
+Technology,1003570,Süßebier AG
+Healthcare,1010359,Matthäi GmbH & Co. KGaA
+Technology,1040457,Bonbach Herrmann KG
+Education,1030159,Faust
+Transportation,1022914,Metz AG
+Retail,1099030,Mans Jacob AG & Co. OHG
+Healthcare,1040519,Eckbauer KG
+Healthcare,1078584,Reichmann GbR
+Healthcare,1078457,Heß
+Entertainment,1022595,Etzler AG & Co. KGaA
+Manufacturing,1082750,Hentschel
+Retail,1012809,Gnatz
+Manufacturing,1043188,Roht Bonbach AG & Co. KGaA
+Healthcare,1047995,Rohleder Röhrdanz AG & Co. OHG
+Technology,1071362,Bien Weimer GmbH
+Food and Beverage,1034401,Jessel
+Food and Beverage,1063751,Staude Mangold KGaA
+Education,1086559,Henschel AG
+Manufacturing,1082425,Textor Werner AG
+Food and Beverage,1082549,Schottin Boucsein KG
+Transportation,1088781,Aumann
+Healthcare,1012615,Wagenknecht
+Healthcare,1021687,Trommler OHG mbH
+Transportation,1001019,Heser GmbH & Co. KG
+Manufacturing,1027494,Kensy
+Transportation,1038914,Ullrich Matthäi GmbH & Co. KGaA
+Education,1002969,Atzler AG
+Manufacturing,1038882,Pechel KG
+Retail,1018880,Zobel Hiller GmbH & Co. OHG
+Entertainment,1030401,Dussen van AG
+Healthcare,1013339,Kohl
+Transportation,1068671,Löchel
+Energy,1079532,Misicher Stiftung & Co. KG
+Food and Beverage,1003537,Etzler GmbH
+Food and Beverage,1032358,Schomber
+Food and Beverage,1020107,Stadelmann Schomber AG & Co. KGaA
+Food and Beverage,1000214,Hendriks Scheuermann GmbH
+Healthcare,1031487,Jockel Fritsch GmbH
+Technology,1025157,Riehl KG
+Retail,1052066,Rädel Bähr AG & Co. KGaA
+Education,1002385,Aumann Tröst KG
+Healthcare,1000354,Harloff AG
+Education,1025208,Hethur GmbH
+Entertainment,1059903,Trapp Bähr AG
+Energy,1086031,Rudolph KGaA
+Entertainment,1027543,Bender Schaaf KGaA
+Transportation,1054078,Hörle OHG mbH
+Entertainment,1088950,Pärtzelt Steckel GmbH
+Food and Beverage,1028784,Segebahn e.V.
+Retail,1083323,Stolze
+Retail,1076138,Gehringer KG
+Healthcare,1011521,Renner Weitzel AG & Co. KG
+Energy,1023202,Karz Kobelt AG
+Education,1041058,Boucsein Sölzer GmbH & Co. KGaA
+Retail,1030825,Thies
+Manufacturing,1011086,Matthäi Rogge AG
+Retail,1072063,Gorlitz AG & Co. KG
+Transportation,1083218,Klotz
+Manufacturing,1021169,Schaaf Riehl GmbH
+Retail,1044374,Geisel Weitzel GmbH
+Food and Beverage,1097702,Davids
+Energy,1073141,Adler
+Energy,1074824,Pärtzelt
+Manufacturing,1018864,Sager OHG mbH
+Education,1054746,Albers
+Healthcare,1071078,Conradi GmbH & Co. KG
+Retail,1066410,Oderwald Noack GbR
+Retail,1069347,Schleich Ruppert e.V.
+Healthcare,1014591,Kitzmann Stiftung & Co. KG
+Education,1008497,Scheibe Dussen van AG & Co. KG
+Retail,1038604,Mende Mude GbR
+Manufacturing,1039659,Mentzel e.V.
+Healthcare,1097555,Kabus
+Manufacturing,1055563,Gröttner
+Technology,1001925,Hande Boucsein GmbH
+Healthcare,1072924,Buchholz
+Manufacturing,1071433,Junitz AG & Co. KGaA
+Healthcare,1026838,Rädel Bärer GmbH & Co. KG
+Education,1014217,Huhn
+Transportation,1022036,Gierschner AG & Co. KG
+Healthcare,1017250,Budig Flantz GmbH & Co. KGaA
+Energy,1053259,Mies Süßebier GbR
+Healthcare,1019830,Putz e.V.
+Food and Beverage,1081186,Martin KG
+Technology,1057385,Bachmann
+Manufacturing,1025809,Fritsch
+Manufacturing,1029431,Klemm Häring GbR
+Entertainment,1004339,Börner GmbH
+Transportation,1061519,Wende OHG mbH
+Entertainment,1091004,Wiek Matthäi OHG mbH
+Entertainment,1047034,Oestrovsky
+Retail,1085589,Drewes GbR
+Manufacturing,1057149,Jockel Stiftung & Co. KGaA
+Transportation,1066106,Biggen
+Healthcare,1091084,Ritter GmbH & Co. KGaA
+Transportation,1057335,Birnbaum Biggen GmbH & Co. KG
+Healthcare,1050519,Mangold OHG mbH
+Food and Beverage,1081262,Bender Sontag KG
+Energy,1070805,Hölzenbecher KG
+Manufacturing,1059915,Mangold Zobel AG
+Retail,1030474,Rosemann
+Healthcare,1099991,Finke Naser Stiftung & Co. KGaA
+Entertainment,1062305,Ackermann
+Retail,1062369,Mende
+Energy,1074311,Lindau AG & Co. KG
+Food and Beverage,1085198,Davids Binner GmbH
+Energy,1039686,Zahn Bonbach GmbH
+Healthcare,1000720,Käster Stiftung & Co. KGaA
+Energy,1029254,Heuser GmbH
+Retail,1090691,Stey GmbH & Co. KG
+Entertainment,1040994,Gieß AG & Co. OHG
+Energy,1079002,Weller
+Healthcare,1002417,Gute GmbH & Co. KG
+Manufacturing,1042569,Kruschwitz Beier GmbH
+Manufacturing,1073171,Kensy Schuchhardt GmbH & Co. KG
+Energy,1080030,Beier KG
+Healthcare,1081097,Nerger KG
+Entertainment,1013245,Mans GmbH & Co. KGaA
+Retail,1091235,Noack OHG mbH
+Technology,1064161,Henk KGaA
+Technology,1038260,Dörr KG
+Entertainment,1061873,Niemeier GmbH & Co. KG
+Education,1044347,Hentschel Röhrdanz GmbH
+Healthcare,1069575,Scheuermann
+Healthcare,1010193,Wiek OHG mbH
+Food and Beverage,1020251,Eckbauer
+Technology,1074709,Käster KGaA
+Entertainment,1072300,Guggenberger Ltd
+Energy,1072201,"Adam, Höfler and Penz"
+Technology,1015865,"Pohl, Hirschmann and Holzknecht"
+Food and Beverage,1052806,Heller PLC
+Manufacturing,1015592,Graf Ltd
+Healthcare,1048850,"Maurer, Scharinger and Hechenberger"
+Healthcare,1084647,"Gärtner, Graf and Thurner"
+Manufacturing,1048473,"Haindl, Uhl and Frisch"
+Food and Beverage,1080360,"Karrer, Bräuer and Bräuer"
+Education,1014616,"Pokorny, Schaller and Kremser"
+Manufacturing,1098867,Schön Ltd
+Healthcare,1088323,Pichler-Stifter
+Healthcare,1049481,Klug-Haslinger
+Healthcare,1077950,Lamprecht Ltd
+Food and Beverage,1043692,"Engl, Neuhauser and Paier"
+Healthcare,1089967,Pfeifer Group
+Technology,1009232,Meusburger-Edlinger
+Manufacturing,1014733,"Rudolf, Berchtold and Heinzl"
+Manufacturing,1079231,Hirsch Group
+Education,1052653,Petz and Sons
+Healthcare,1063848,"Schindler, Hofinger and Eberhard"
+Food and Beverage,1066311,"Postl, Schmid and Blümel"
+Entertainment,1080058,Schwarz-Kaindl
+Energy,1028297,"Wieser, Grabner and Kaiser"
+Healthcare,1056963,Schmid and Sons
+Manufacturing,1024376,"Schäfer, Geier and Lechner"
+Entertainment,1046769,"Ott, Haas and Trauner"
+Food and Beverage,1083843,Eisl-Bock
+Healthcare,1003341,Fritsch-Wiener
+Energy,1036144,Buchberger Ltd
+Manufacturing,1079727,Wurzinger PLC
+Manufacturing,1061512,Frey-Dengg
+Healthcare,1007070,Schaffer-Aichholzer
+Healthcare,1051729,"Klingler, Wieland and Hartl"
+Education,1039981,Lagler Inc
+Energy,1038647,Stoiber LLC
+Manufacturing,1062405,"Kugler, Bacher and Schulz"
+Education,1000004,"Karner, Rettenbacher and Mayrhofer"
+Retail,1044886,Postl and Sons
+Healthcare,1071757,Baier LLC
+Manufacturing,1052360,Scheidl and Sons
+Entertainment,1097673,"Steinwender, Klein and Steinlechner"
+Food and Beverage,1018167,Santner PLC
+Food and Beverage,1098051,"Rössler, Keller and Schwendinger"
+Healthcare,1012766,"Juen, Neuhauser and Heinzl"
+Healthcare,1083796,Klingler Inc
+Energy,1038440,Schwab-Hofstetter
+Energy,1051732,Luttenberger LLC
+Healthcare,1070147,Schöller Ltd
+Education,1025347,Rauter and Sons
+Technology,1071474,"Köck, Reif and Bitschnau"
+Entertainment,1006102,Müllner LLC
+Healthcare,1027133,Scherer-Stifter
+Transportation,1099917,Glaser-Feichtner
+Retail,1044764,Feichtner-Haas
+Entertainment,1039547,Muhr-Hauer
+Healthcare,1073008,Sauer LLC
+Manufacturing,1029917,Zöchling LLC
+Healthcare,1038224,Galler Group
+Manufacturing,1076897,Berger Ltd
+Retail,1055114,Hütter-Haslinger
+Education,1033112,"Wöhrer, Krainz and Steiner"
+Retail,1084849,Neumayr-Luger
+Technology,1087358,"Leber, Harrer and Hammer"
+Energy,1004125,Urban and Sons
+Transportation,1017584,Hosp-Jahn
+Entertainment,1034668,"Pfeiffer, Bösch and Ringhofer"
+Manufacturing,1011517,Hämmerle-Huter
+Retail,1080353,Kröll and Sons
+Technology,1028390,"Buchegger, Galler and Mayerhofer"
+Healthcare,1077053,"Wilhelm, Hattinger and Frick"
+Energy,1083912,"Baier, Kreiner and Mark"
+Healthcare,1080794,Kaltenbrunner PLC
+Transportation,1013365,"Oswald, Burtscher and Leber"
+Healthcare,1021347,Himmelbauer LLC
+Manufacturing,1045146,Horn-Rausch
+Entertainment,1093612,Fleischhacker LLC
+Technology,1053236,Prenner-Fuhrmann
+Technology,1078058,"Farkas, Lederer and Obermüller"
+Retail,1086149,Wurm and Sons
+Retail,1011488,"Erber, Muhr and Keller"
+Healthcare,1059406,Burgstaller-Gratz
+Entertainment,1078114,Hubmann PLC
+Entertainment,1012689,Strohmaier Inc
+Food and Beverage,1051659,"Feichtenschlager, Gangl and Fasching"
+Entertainment,1030150,Santner Inc
+Transportation,1024803,"Janisch, Eder and Berner"
+Food and Beverage,1023139,Bucher Inc
+Energy,1002149,"Steinberger, Schmuck and Grassl"
+Manufacturing,1043886,Strohmaier-Schuller
+Entertainment,1024432,"Hämmerle, Harrer and Salcher"
+Manufacturing,1036107,"Löffler, Lengauer and Egger"
+Entertainment,1010966,Pinter-Gärtner
+Healthcare,1066057,"Steininger, Maier and Ackerl"
+Retail,1035239,Handler LLC
+Education,1072090,Pinter-Rauter
+Energy,1060662,"Kirchmair, Felder and Haindl"
+Transportation,1081465,Riedler Inc
+Technology,1094239,"Burgstaller, Klotz and Gasser"
+Technology,1083075,Löffler-Haas
+Education,1001878,"Karrer, Bösch and Stöckl"
+Technology,1023011,"Paul, Hauer and Thalhammer"
+Healthcare,1004121,Riedl Group
+Retail,1023131,Oberndorfer PLC
+Entertainment,1050809,Postl PLC
+Technology,1041459,Fritsch and Sons
+Energy,1067657,Herbst-Kahr
+Energy,1080071,Schaller PLC
+Energy,1039582,Rath Group
+Education,1035943,Kellner-Krug
+Technology,1042376,Kellner-Ritter
+Transportation,1033501,Günther LLC
+Manufacturing,1030351,"Pirker, Schubert and Wögerbauer"
+Education,1045542,Kral-Lindorfer
+Education,1091203,Kaiser-Stütz
+Entertainment,1087378,Eder Inc
+Technology,1050455,"Steinwender, Grabher and Wurm"
+Energy,1030260,Sailer-Heim
+Education,1027890,Zimmermann-Köll
+Healthcare,1072457,"Edlinger, Meindl and Steinbauer"
+Entertainment,1031217,"Neulinger, Vogel and Reichl"
+Technology,1042145,"Gross, Kaindl and Taucher"
+Manufacturing,1030594,Beer-Bader
+Food and Beverage,1060752,Moritz LLC
+Healthcare,1017985,Schrittwieser and Sons
+Manufacturing,1087254,Schüller-Schrittwieser
+Entertainment,1065627,Jost PLC
+Technology,1042869,"Zimmermann, Knoll and Sagmeister"
+Technology,1064623,Heim LLC
+Retail,1070741,Schön-Renner
+Manufacturing,1017381,"Stefan, Kain and Ackerl"
+Healthcare,1043674,Kreiner-Hainzl
+Healthcare,1082698,Sieberer-Buchinger
+Transportation,1060549,Pammer-Hubmann
+Healthcare,1036819,Berthold Group
+Transportation,1092210,Steurer-Steiger
+Retail,1010827,"Zechmeister, Zeller and Schrammel"
+Healthcare,1014896,"Pfeifer, Feichtenschlager and Koppensteiner"
+Entertainment,1042112,Siegl LLC
+Technology,1003611,Gratzer-Eibl
+Transportation,1000167,Bachler LLC
+Retail,1086589,Draxler-Reiter
+Manufacturing,1033525,Mandl Ltd
+Food and Beverage,1051520,Herzog-Reithofer
+Energy,1073215,"Stockinger, Rosenberger and Auer"
+Energy,1026854,Haberl-Gärtner
+Energy,1022032,Gschwandtner-Lichtenegger
+Education,1057680,Heindl-Kirschner
+Manufacturing,1064768,"Schiefer, Resch and Ecker"
+Entertainment,1040580,"Pichler, Heigl and Prenner"
+Healthcare,1047780,"Hufnagl, Traxler and Sigl"
+Manufacturing,1065246,Kohler PLC
+Food and Beverage,1034567,Karner Ltd
+Food and Beverage,1041951,"Schrittwieser, Kocher and Schinnerl"
+Healthcare,1025055,Lindorfer-Denk
+Entertainment,1009517,Jungwirth-Heger
+Healthcare,1096056,Auinger-Fleck
+Entertainment,1052067,"Scherer, Bischof and Trattner"
+Energy,1000291,Fiedler-Plank
+Food and Beverage,1095543,"Kölbl, Scherzer and Galler"
+Healthcare,1067827,"Sattler, Reif and Rieser"
+Healthcare,1087553,Lipp-Stelzl
+Transportation,1008643,Lipp-Salzer
+Transportation,1015647,Kremser LLC
+Entertainment,1035087,Macher-Ferstl
+Retail,1094307,Langer LLC
+Manufacturing,1033660,"Hummer, Neuhold and Prinz"
+Healthcare,1050726,"Leutgeb, Dobler and Stefan"
+Manufacturing,1029328,Hemetsberger and Sons
+Transportation,1055814,"Schachinger, Schmölzer and Fleischhacker"
+Manufacturing,1095930,Obermayr-Lampert
+Healthcare,1004455,"Kölbl, Trauner and Hell"
+Energy,1047442,"Oberleitner, Schneeberger and Pacher"
+Retail,1040779,"Stoiber, Seiler and Rotter"
+Retail,1096226,"Grabner, Hauer and Hübner"
+Technology,1037392,Pauer LLC
+Technology,1039880,Kasper-Klammer
+Retail,1077843,Reichl-Edlinger
+Healthcare,1058615,Teufl LLC
+Manufacturing,1021133,Waldner-Schwab
+Food and Beverage,1000049,Lang-Plank
+Manufacturing,1018013,Kiss-Mitteregger
+Technology,1084039,Schaffer-Bernhard
+Retail,1068599,Hölzl Group
+Transportation,1030331,Reitbauer-Bachmann
+Food and Beverage,1067441,"Hoffmann, Gross and Reisinger"
+Education,1085446,Grabner and Sons
+Education,1092861,"Stocker, Rieder and Riedl"
+Healthcare,1012096,Hufnagl-Klingler
+Transportation,1077445,Oberndorfer and Sons
+Food and Beverage,1012131,Stadlbauer-Reitinger
+Retail,1086295,"Hinteregger, Ackerl and Neumüller"
+Healthcare,1013390,Pesendorfer-Schweighofer
+Technology,1084029,"Leibetseder, Schmuck and Schrittwieser"
+Entertainment,1030846,Zeilinger-Reitbauer
+Retail,1025984,Hartl Inc
+Healthcare,1021365,"Stütz, Müllner and Leber"
+Healthcare,1041919,Froschauer and Sons
+Manufacturing,1093173,Tanzer-Karrer
+Food and Beverage,1030652,Reich-Blauensteiner
+Transportation,1022175,Rottensteiner-Weiser
+Healthcare,1038151,"Greiner, Taucher and Klaus"
+Manufacturing,1045137,"Moser, Scheucher and Grabher"
+Energy,1091964,"Resch, Mayerhofer and Bräuer"
+Technology,1050145,Hirschmann Ltd
+Education,1085181,"Fellinger, Kössler and Fritz"
+Food and Beverage,1044719,Wiesbauer-Herbst
+Transportation,1071773,Hattinger PLC
+Manufacturing,1016605,Riepl and Sons
+Manufacturing,1011127,"Loidl, Schartner and Froschauer"
+Retail,1076858,"Renner, Pfeffer and Grabher"
+Education,1015024,Roth-Biedermann
+Entertainment,1086174,Wilfinger LLC
+Food and Beverage,1004970,Stockhammer Ltd
+Healthcare,1092827,Schütz LLC
+Manufacturing,1055827,"Schwendinger, Klotz and Renner"
+Manufacturing,1043493,Draxler LLC
+Healthcare,1032113,Schäfer-Müller
+Retail,1025404,"Stangl, Bräuer and Holl"
+Food and Beverage,1058845,"Mader, Steinböck and Zeiner"
+Healthcare,1070830,Galler-Pöll
+Energy,1008611,Eberharter-Eibl
+Entertainment,1079240,Herrmann-Hutterer
+Manufacturing,1016015,Schiller-Haslauer
+Entertainment,1047227,"Scholz, Pfister and Hammer"
+Education,1028761,"Danner, Bergmann and Trattner"
+Manufacturing,1074508,Ladner Group
+Healthcare,1046277,Hell Inc
+Technology,1091884,Klocker Group
+Manufacturing,1068786,Stoiber-Blum
+Manufacturing,1037351,Jöbstl LLC
+Transportation,1055936,Springer Ltd
+Energy,1070129,"Farkas, Baldauf and Mörth"
+Manufacturing,1002014,"Staudinger, Kain and Wenzl"
+Transportation,1032455,Bitschnau-Paulitsch
+Healthcare,1007344,Kronberger-Sieberer
+Healthcare,1091532,Reiner-Schatzl
+Healthcare,1088341,Walch-Brandstätter
+Energy,1000999,"Traxler, Graf and Auer"
+Entertainment,1086752,"Jovanovic, Rosenberger and Rausch"
+Entertainment,1064758,"Moosbrugger, Böck and Lipp"
+Manufacturing,1033779,"Schindler, Hell and Stern"
+Healthcare,1040286,"Hödl, Roth and Kugler"
+Entertainment,1016368,"Steinbauer, Gabriel and Reinprecht"
+Healthcare,1014042,"Wallner, Bachinger and Sieber"
+Healthcare,1089856,Hermann-Tischler
+Technology,1018100,"Strauß, Schöpf and Kaindl"
+Transportation,1030935,Scheucher-Nagl
+Education,1067856,"Mayrhofer, Vogler and Felder"
+Healthcare,1061117,"Trimmel, Köck and Haas"
+Healthcare,1023005,Landl-Rauter
+Healthcare,1037388,Kocher-Trauner
+Education,1074681,Blum PLC
+Retail,1081101,Engel-Laimer
+Technology,1010856,Fischer Group
+Transportation,1085851,Dobler-Gärtner
+Healthcare,1041352,Paul Ltd
+Retail,1094188,Kunz-Fuhrmann
+Healthcare,1074511,"Gratz, Ladner and Forstner"
+Education,1096593,Windisch PLC
+Retail,1050840,Hosp PLC
+Manufacturing,1049301,Haslinger Inc
+Food and Beverage,1021065,"Gschaider, Wiesbauer and Biedermann"
+Transportation,1063819,Weinberger and Sons
+Energy,1047900,"Schön, Penz and Fellinger"
+Entertainment,1002861,Heim-Mitteregger
+Energy,1014847,Stiegler-Schwendinger
+Food and Beverage,1058641,"Strauss, Schwab and Engel"
+Healthcare,1053353,Mohr-Huemer
+Education,1061619,Ulrich-Sigl
+Transportation,1016172,Schmölzer-Kogler
+Transportation,1020082,"Stangl, Grünwald and Weigl"
+Healthcare,1075322,"Ferstl, Ferstl and Rotter"
+Entertainment,1076914,Trauner-Schrittwieser
+Transportation,1022971,Thurner-Sauer
+Manufacturing,1057943,Fellinger-Sperl
+Transportation,1080464,Kölbl-Schmidinger
+Education,1093740,Erler Ltd
+Education,1049233,Gassner Group
+Healthcare,1058946,Held-Gasser
+Healthcare,1019889,Forstner PLC
+Education,1066818,Zeilinger Group
+Entertainment,1079229,Stütz-Burger
+Transportation,1054878,"Seiwald, Klocker and Paier"
+Healthcare,1096242,Payer Ltd
+Food and Beverage,1051221,"Schmuck, Engel and Singer"
+Education,1017582,"Wurzer, Hölzl and Köberl"
+Energy,1048797,Fischer Inc
+Healthcare,1044761,"Rainer, Stütz and Denk"
+Food and Beverage,1012921,Schwaiger-Suppan
+Transportation,1076759,Arnold Group
+Energy,1096089,Steinberger-Wandl
+Technology,1011299,Singer-Bachinger
+Retail,1069121,"Friedl, Höfler and Ostermann"
+Entertainment,1083023,"Nussbaumer, Waldner and Riegler"
+Manufacturing,1009827,"Schröder, Gratzl and Stöger"
+Energy,1088921,"Mühlbacher, Gasser and Meixner"
+Transportation,1079341,Krainer Group
+Entertainment,1036934,Neuhauser-Hofer
+Transportation,1034086,Stockhammer-Stückler
+Food and Beverage,1026822,Huter-Neumayer
+Manufacturing,1038181,Fink and Sons
+Entertainment,1059325,Brandtner-Bachinger
+Energy,1082493,"Dallinger, Achleitner and Stummer"
+Transportation,1009984,Egger-Hirschmann
+Retail,1066079,"Stark, Scherzer and Böhler"
+Manufacturing,1075396,Bichler-Zehetner
+Healthcare,1042555,Dietl-Kronsteiner
+Transportation,1043288,"Mathis, Bauer and Mann"
+Entertainment,1076913,Horak-Schwarz
+Manufacturing,1010556,Weissenböck Inc
+Entertainment,1091113,"Gross, Bogner and Nemeth"
+Education,1045155,Wieser PLC
+Technology,1076072,Dietl Ltd
+Retail,1036217,Pauer Group
+Manufacturing,1012436,Jung and Sons
+Energy,1035474,Neuhold and Sons
+Transportation,1003717,"Haindl, Stummer and Schöffmann"
+Energy,1061419,Geiger PLC
+Retail,1017749,Schiller and Sons
+Education,1094701,Leber-Kaltenböck
+Food and Beverage,1062448,Brandner-Muhr
+Energy,1094569,"Kager, Amann and Juen"
+Energy,1010282,Stelzl-Paulitsch
+Retail,1007915,"Praxmarer, Kral and Pichler"
+Manufacturing,1007096,Rieger-Nußbaumer
+Manufacturing,1001415,Karner-Vogt
+Retail,1022755,Zeiner LLC
+Food and Beverage,1007103,"Heinz, Paul and Berger"
+Education,1040213,Häusler-Sammer
+Transportation,1094104,"Gritsch, Schmidt and Fleischhacker"
+Healthcare,1049433,"Steiger, Sommer and Frisch"
+Healthcare,1068991,Stocker LLC
+Retail,1034624,Schiestl and Sons
+Healthcare,1013253,Macher Group
+Healthcare,1038011,Hofstätter-Leeb
+Technology,1027336,Krall-Fabian
+Manufacturing,1068929,Neuner and Sons
+Transportation,1018651,"Fasching, Parzer and Lampl"
+Healthcare,1057186,Rauscher-Strohmayer
+Healthcare,1084348,Köberl PLC
+Energy,1058726,"Scheucher, Denk and Breuer"
+Manufacturing,1053041,Weinberger-Niederl
+Healthcare,1026739,Staudinger-Huber
+Retail,1023474,"Neureiter, Kolb and Rieger"
+Manufacturing,1064108,Pucher and Sons
+Technology,1011868,Horn Ltd
+Retail,1097193,Tiefenbacher Ltd
+Manufacturing,1035573,Fiedler-Reiter
+Healthcare,1071237,Sorger Ltd
+Energy,1026042,"Jank, Haider and Hell"
+Manufacturing,1007981,"Holzer, Huber and Klammer"
+Food and Beverage,1028743,"Strohmayer, Bayer and Grassl"
+Retail,1042952,"Rohrer, Decker and Stummer"
+Technology,1050502,"Hinteregger, Karner and Lammer"
+Transportation,1063008,Jenewein Ltd
+Manufacturing,1062972,"Leitgeb, Dietl and Zeiner"
+Entertainment,1097420,Reinbacher and Sons
+Transportation,1018360,Schreiber-Achleitner
+Entertainment,1014426,Weber PLC
+Food and Beverage,1028927,Hollaus-Leibetseder
+Education,1070790,Meister PLC
+Energy,1081747,Erlacher PLC
+Entertainment,1000078,Weiss-Schober
+Education,1086498,"Prantl, Hofbauer and Kraft"
+Technology,1082756,Burger and Sons
+Education,1002677,"Lederer, Karner and Prenner"
+Energy,1080327,Schrammel-Reichel
+Entertainment,1050778,Oberhauser Group
+Retail,1086568,Scherzer-Lang
+Entertainment,1006036,Pöll-Berner
+Healthcare,1023179,Ernst LLC
+Food and Beverage,1057034,Geiger Ltd
+Entertainment,1024326,Wiedner Group
+Technology,1039816,Stummer-Wiesbauer
+Retail,1088653,Kargl Inc
+Healthcare,1064010,Fuchs-Herbst
+Healthcare,1047846,Biedermann-Eisl
+Healthcare,1047433,"Schiller, Dorfer and Gross"
+Healthcare,1035228,Heinzl and Sons
+Transportation,1015777,"Dorner, Schmidl and Pirker"
+Energy,1095343,Ullmann PLC
+Retail,1043815,Unger-Sonnleitner
+Entertainment,1074929,"Gross, Rosner and Unterweger"
+Healthcare,1053543,Hochleitner Group
+Healthcare,1078899,"Schöffmann, Jost and Neumeister"
+Entertainment,1024400,Niederl-Peter
+Entertainment,1006380,Schaffer Inc
+Transportation,1047845,Schubert-Hammerer
+Healthcare,1021746,"Markl, Albrecht and Zangerl"
+Transportation,1058882,"Eberhard, Pokorny and Sammer"
+Manufacturing,1074547,Lintner-Fürst
+Healthcare,1048810,Schuster-Rossmann
+Food and Beverage,1070497,"Stefan, Danner and Reitinger"
+Energy,1070613,Thurner-Fichtinger
+Energy,1046333,Reinbacher Inc
+Retail,1081083,Jauk-Mühlberger
+Food and Beverage,1074259,Dietrich-Steinbauer
+Education,1033127,"Toth, Schinagl and Riepl"
+Transportation,1019922,"Kraxner, Held and Lampert"
+Healthcare,1081105,"Mitterlehner, Zotter and Schöpf"
+Food and Beverage,1094773,Winter and Sons
+Healthcare,1060935,Taferner PLC
+Entertainment,1093581,"Neuwirth, Reischl and Schwendinger"
+Entertainment,1072287,Fink-Gabriel
+Healthcare,1096835,Schinagl-Brandstetter
+Transportation,1020233,"Gschwandtner, Windisch and Fleischhacker"
+Education,1050217,Baldauf-Bogner
+Retail,1035679,"Heller, Kummer and Bacher"
+Manufacturing,1026145,"Gmeiner, Rohrer and Hörmann"
+Retail,1043015,Schiestl Ltd
+Retail,1070892,Gindl Group
+Education,1030164,"Kaltenegger, Petz and Bader"
+Entertainment,1069853,Mitteregger PLC
+Energy,1081791,Zimmermann and Sons
+Retail,1067602,"Hammerer, Kucera and Geisler"
+Energy,1077867,Schmied-Vogl
+Healthcare,1027228,Polzer LLC
+Transportation,1087265,Stiegler and Sons
+Entertainment,1077219,"Lagler, Maringer and Putz"
+Entertainment,1091445,"Hochreiter, Adler and Pilz"
+Manufacturing,1048709,"Hollaus, Unterweger and Toth"
+Technology,1025634,Landl LLC
+Healthcare,1082469,Gratz-Spreitzer
+Entertainment,1050922,"Achleitner, Neumayr and Bachler"
+Energy,1049056,Kucera LLC
+Technology,1031928,Frick Inc
+Entertainment,1064635,Pock Group
+Food and Beverage,1037773,"Kessler, Meusburger and Hübner"
+Manufacturing,1033207,"Reithofer, Grünwald and Kainz"
+Entertainment,1019295,Wallner Group
+Healthcare,1094496,Hafner-Meixner
+Manufacturing,1053253,Draxler Inc
+Energy,1016778,Bräuer-Lerch
+Entertainment,1046361,Nußbaumer LLC
+Entertainment,1079505,Bucher-Posch
+Entertainment,1067871,Fellinger LLC
+Retail,1078935,Wittmann-Pauer
+Entertainment,1089449,Fleck and Sons
+Entertainment,1038895,Koppensteiner-Sailer
+Entertainment,1098503,"Martin, Unterberger and Riegler"
+Retail,1022754,"Kreidl, Taferner and Dorner"
+Transportation,1080268,Holler-Bock
+Energy,1010866,Hochreiter-Lerch
+Food and Beverage,1020242,Harrer-Teufl
+Transportation,1053854,Ecker Inc
+Education,1084739,Strohmaier Ltd
+Entertainment,1017788,List LLC
+Education,1035336,"Rausch, Nagele and Winkler"
+Food and Beverage,1041664,"Schrammel, Kolm and Frick"
+Manufacturing,1013350,"Eder, Steininger and Dünser"
+Healthcare,1002226,Grabher-Pfeiffer
+Food and Beverage,1075737,"Reichel, Eller and Albrecht"
+Retail,1034884,Kaspar-Prinz
+Healthcare,1045418,Blum Group
+Manufacturing,1046535,Bayer-Hackl
+Technology,1075702,Jung-Berthold
+Energy,1085324,Handl Group
+Healthcare,1060745,Rabitsch-Mayr
+Healthcare,1029014,Wild Ltd
+Retail,1076559,"Guggenberger, Bachmann and Wallner"
+Manufacturing,1009784,Mair-Wolf
+Entertainment,1034680,Froschauer-Margreiter
+Retail,1015130,Ritter LLC
+Transportation,1032222,Wenzl and Sons
+Energy,1096473,Kellner LLC
+Entertainment,1038285,"Walch, Pammer and Neuhold"
+Technology,1030713,"Hauer, Lechner and Seifert"
+Retail,1004112,Punz-Holler
+Education,1037697,"Sommer, Kolar and Jandl"
+Manufacturing,1086150,"Simic, Yilmaz and Ortner"
+Technology,1028154,Lederer-Markl
+Healthcare,1013651,"Wagner, Oberndorfer and Zenz"
+Energy,1092237,"Schubert, Petz and Kraxner"
+Healthcare,1072039,Stockhammer Group
+Retail,1093047,Heiss-Fröschl
+Entertainment,1071505,Klausner Ltd
+Energy,1093461,Gutmann-Hafner
+Manufacturing,1033195,Schmölzer PLC
+Healthcare,1091829,Feichter Inc
+Healthcare,1003039,Schwarzinger Group
+Education,1051205,"Pauer, Wimmer and Hinterleitner"
+Entertainment,1022816,Erhart-Weiss
+Entertainment,1005567,Kreiner LLC
+Education,1041067,Holzer Inc
+Education,1011401,Bachinger-Macher
+Healthcare,1030686,Moser-Eisner
+Manufacturing,1003204,Kral Inc
+Transportation,1038495,Sperl PLC
+Education,1044864,Eberharter PLC
+Education,1004272,"Rudolf, Tischler and Hemetsberger"
+Healthcare,1033786,"Kalcher, Unterberger and Rudolf"
+Education,1064207,Kammerer-Trauner
+Technology,1014923,Vogt Group
+Entertainment,1029183,Dorfer-Groß
+Manufacturing,1072099,"Weiss, Kastner and Resch"
+Energy,1093634,"Weissenböck, König and Bodner"
+Energy,1063244,Steininger Ltd
+Technology,1028204,"Schaffer, Kocher and Friedrich"
+Education,1084985,Neubauer-Leopold
+Healthcare,1023866,Mettler and Sons
+Healthcare,1013738,"Ott, Imhof and Schmid"
+Technology,1078401,Pfister-Häfliger
+Food and Beverage,1053801,"Frick, Schaub and Schmidt"
+Energy,1020354,Hauser Group
+Food and Beverage,1053373,Schärer-Bachmann
+Healthcare,1085935,Schlatter-Sigrist
+Transportation,1033599,"Sidler, Weber and Schwarz"
+Education,1059807,"Grob, Ernst and Portmann"
+Energy,1051926,"Lüthi, Hauser and Martin"
+Manufacturing,1091021,Baumgartner Group
+Retail,1067085,Schnyder-Frei
+Manufacturing,1077720,Spörri LLC
+Retail,1021720,"Aebi, Felder and Stutz"
+Manufacturing,1057389,"Steiner, Stauffer and Hofer"
+Education,1084468,Wagner Ltd
+Retail,1028734,"Schwarz, Braun and Spörri"
+Retail,1002867,Peter Group
+Retail,1051474,Schürch-Häfliger
+Technology,1075776,Studer Group
+Entertainment,1013636,Gut-Vogel
+Food and Beverage,1016742,Merz PLC
+Transportation,1056040,"Hess, Frei and Frei"
+Healthcare,1022258,Zimmermann-Lanz
+Healthcare,1066857,Baumgartner LLC
+Entertainment,1013974,Meister Group
+Healthcare,1017780,Furrer Ltd
+Healthcare,1044849,Ziegler Inc
+Technology,1051747,"Hoffmann, Eugster and Isler"
+Technology,1038338,Herzog-Grob
+Food and Beverage,1096911,Senn-Lutz
+Education,1054251,Forster-Wüthrich
+Food and Beverage,1022079,Zimmermann-Rüegg
+Technology,1011685,Hodel Group
+Education,1082866,Frick LLC
+Entertainment,1024412,Roos-Schneider
+Entertainment,1018831,"Bär, Wirth and Leu"
+Retail,1050028,"Schlatter, Wenger and Ackermann"
+Food and Beverage,1060112,Zürcher Group
+Technology,1096333,"Huber, Weber and Keller"
+Healthcare,1021613,Kohler-Kälin
+Transportation,1095679,"Bühler, Wyss and Egli"
+Transportation,1051369,Egger Ltd
+Healthcare,1099287,Albrecht-Knecht
+Entertainment,1058242,Stalder Ltd
+Healthcare,1060558,Egli and Sons
+Education,1067328,"Amrein, Haas and Gfeller"
+Energy,1020106,"Keller, Gasser and Bianchi"
+Technology,1018324,"Suter, Gross and Widmer"
+Manufacturing,1006441,Moser-Kägi
+Education,1095945,"Walter, Berger and Kohler"
+Entertainment,1090481,Näf-Lüthi
+Technology,1065702,Gloor-Stutz
+Manufacturing,1079839,Stöckli-Bär
+Entertainment,1053309,Mayer Inc
+Healthcare,1077350,"Wegmann, Ott and Bosshard"
+Technology,1089286,Keller Inc
+Transportation,1095807,Albrecht-Egli
+Education,1019137,Fuchs-Eichenberger
+Retail,1059545,"Fischer, Kunz and Hofer"
+Healthcare,1084190,"Kaiser, Hasler and Wyss"
+Food and Beverage,1070568,Schneider-Schlatter
+Education,1020517,Hunziker-Graf
+Retail,1079577,Meister Inc
+Retail,1094467,Amrein-Burri
+Manufacturing,1092921,"Koch, Kunz and Schnyder"
+Manufacturing,1080946,Steiger-Hürlimann
+Healthcare,1045254,Isler-Meier
+Food and Beverage,1025343,Meister-Imhof
+Retail,1054250,Merz-Spörri
+Transportation,1088561,Lutz-Felber
+Healthcare,1038066,Tanner-Beck
+Energy,1011421,"Schwab, Pfister and Fehr"
+Entertainment,1094248,Zimmermann-Siegrist
+Retail,1026764,Aebi-Blaser
+Healthcare,1014252,Fehr-Sidler
+Technology,1023894,Ziegler-Lustenberger
+Education,1044274,"Furrer, Walter and Fischer"
+Retail,1028458,Egli Ltd
+Transportation,1006452,Hug Group
+Healthcare,1090890,Wüthrich-Mäder
+Technology,1097460,Schuler Ltd
+Healthcare,1068862,"Egger, Hofstetter and Schneider"
+Food and Beverage,1099506,Schwab and Sons
+Transportation,1052427,Bühler-Portmann
+Food and Beverage,1027707,"Ernst, Wüthrich and Ackermann"
+Entertainment,1022013,"Wehrli, Scherrer and Vogel"
+Education,1092225,Grob-Bernasconi
+Food and Beverage,1062488,Wenger-Schärer
+Retail,1016774,Ott-Lüthi
+Food and Beverage,1087668,Bieri Inc
+Technology,1097072,Thommen-Bosshard
+Healthcare,1055029,Fuchs-Hofmann
+Entertainment,1050722,"Kaufmann, Kern and Lüscher"
+Technology,1017209,Imhof-Ackermann
+Entertainment,1034682,"Blaser, Steinmann and Meili"
+Healthcare,1033319,"Scherrer, Brunner and Lüscher"
+Retail,1069521,"Weber, Lutz and Erni"
+Energy,1089534,"Stutz, Schoch and Zimmermann"
+Entertainment,1012301,Royer
+Retail,1007925,Bousquet
+Entertainment,1083309,Barbe S.A.
+Energy,1078086,Da Silva Torres SA
+Food and Beverage,1038469,Paris
+Transportation,1073699,Legrand
+Entertainment,1025980,Rodrigues
+Manufacturing,1035377,Georges Gilles S.A.S.
+Energy,1026920,Chrétien
+Healthcare,1090508,Moreno
+Retail,1099847,Laporte
+Food and Beverage,1092050,Besson Dumas S.A.R.L.
+Education,1054838,Le Goff
+Healthcare,1055079,Allard
+Healthcare,1021501,Benoit S.A.R.L.
+Manufacturing,1008298,Allain
+Technology,1056258,Lebrun Moreau S.A.S.
+Energy,1020017,Chartier
+Food and Beverage,1064983,Le Goff et Fils
+Manufacturing,1085836,Labbé
+Technology,1076258,Thibault
+Energy,1059543,Payet
+Healthcare,1065544,Martineau Bertrand S.A.R.L.
+Energy,1004510,Da Costa
+Manufacturing,1020373,Ollivier Pelletier SARL
+Technology,1057113,Lemoine Jacquet S.A.R.L.
+Transportation,1033640,Gay Leblanc et Fils
+Healthcare,1075199,Gilles Vallée et Fils
+Entertainment,1033011,Guillaume Samson S.A.
+Entertainment,1025003,Thierry et Fils
+Education,1061862,Blanchard
+Education,1025851,Wagner S.A.
+Energy,1088761,Sanchez
+Retail,1033324,Turpin
+Healthcare,1052273,Blanchet Lopez S.A.
+Education,1084207,Alves Perrin SARL
+Retail,1023557,Jacquet
+Manufacturing,1004088,Guibert S.A.S.
+Healthcare,1049474,Perez SARL
+Transportation,1097728,Foucher S.A.S.
+Energy,1016332,Vidal S.A.S.
+Food and Beverage,1009688,Leduc S.A.
+Healthcare,1087497,Menard SARL
+Healthcare,1011954,Garnier Guyot S.A.R.L.
+Retail,1098208,Lévêque S.A.
+Food and Beverage,1022116,Gros SARL
+Manufacturing,1013195,Charrier
+Healthcare,1012029,Antoine Daniel S.A.
+Food and Beverage,1022912,Masse SA
+Entertainment,1027559,Duval
+Entertainment,1072501,Roche S.A.
+Manufacturing,1039608,Boulanger SA
+Food and Beverage,1034686,Da Silva
+Food and Beverage,1053122,Jean S.A.S.
+Healthcare,1098844,Lamy
+Manufacturing,1043183,Ledoux Besnard SARL
+Entertainment,1094554,Navarro
+Manufacturing,1038545,Rossi
+Transportation,1048126,Coste
+Food and Beverage,1009073,Schmitt
+Retail,1026468,Garcia et Fils
+Retail,1060787,Faure SARL
+Manufacturing,1030511,Bigot
+Education,1021722,Ruiz
+Education,1034504,Chauvet
+Energy,1051592,Bruneau
+Energy,1006292,Étienne S.A.
+Education,1017541,Dufour
+Energy,1073427,Leclerc
+Transportation,1045236,Andre Mallet S.A.S.
+Manufacturing,1022583,Blondel SARL
+Food and Beverage,1028673,Roy S.A.R.L.
+Transportation,1054759,Besnard
+Energy,1019248,Laine S.A.R.L.
+Healthcare,1022313,Delaunay
+Healthcare,1026636,Blanchard et Fils
+Transportation,1034485,Verdier SA
+Manufacturing,1057433,Lesage S.A.S.
+Transportation,1057714,Duhamel
+Healthcare,1066539,Lucas
+Manufacturing,1078139,Gomes Coulon et Fils
+Technology,1084680,Jean
+Education,1052114,Pages
+Manufacturing,1094772,Marchal
+Retail,1050058,Thomas
+Healthcare,1002290,Rousset
+Food and Beverage,1033114,Noël SARL
+Healthcare,1027824,De Oliveira
+Manufacturing,1081338,Renaud
+Technology,1049182,Delahaye
+Technology,1080015,Loiseau Chevalier S.A.
+Healthcare,1041165,Bouvier
+Retail,1014397,Faure Bouchet S.A.
+Entertainment,1027293,Robin
+Food and Beverage,1081906,Moulin
+Manufacturing,1001469,Carpentier
+Technology,1025177,Bodin
+Technology,1073539,Pichon S.A.
+Energy,1023684,Mace et Fils
+Energy,1032065,Boulanger Laurent S.A.S.
+Education,1032011,Salmon
+Transportation,1075005,Rivière SARL
+Food and Beverage,1008123,Jourdan Maury S.A.R.L.
+Retail,1081238,Delmas
+Healthcare,1098405,Bernier S.A.S.
+Retail,1055279,Lamy SA
+Retail,1008438,Jacquot
+Retail,1024556,Benoit
+Entertainment,1033370,Couturier
+Retail,1053555,Pottier
+Retail,1046203,Leconte S.A.R.L.
+Technology,1005027,Klein S.A.
+Healthcare,1054242,Lebreton
+Entertainment,1017359,Mahe Camus SARL
+Energy,1014102,Godard
+Entertainment,1069305,Morin S.A.S.
+Retail,1008609,Voisin SARL
+Food and Beverage,1013139,Dupré
+Entertainment,1009319,Valentin
+Energy,1056082,Boucher Garnier et Fils
+Transportation,1020564,Evrard SA
+Education,1073352,Turpin Arnaud SA
+Education,1066429,Bertrand Lacombe et Fils
+Entertainment,1043658,Torres Launay et Fils
+Healthcare,1044626,Julien SA
+Healthcare,1070463,Neveu Salmon S.A.
+Manufacturing,1047293,Moreno Dufour S.A.R.L.
+Retail,1068966,Lejeune Valette SARL
+Technology,1049734,Pelletier Cordier S.A.R.L.
+Manufacturing,1009767,Bertrand S.A.S.
+Education,1041154,Lemonnier Lecomte SARL
+Transportation,1089093,Torres
+Retail,1058555,Verdier
+Food and Beverage,1006870,Hubert S.A.S.
+Healthcare,1009820,Petit Delahaye S.A.
+Entertainment,1041641,Dias et Fils
+Food and Beverage,1049213,Brunet
+Energy,1075924,Daniel SA
+Healthcare,1031791,Guibert SA
+Healthcare,1065965,Lelièvre Renault S.A.S.
+Food and Beverage,1057859,Diaz
+Transportation,1084131,Courtois SA
+Food and Beverage,1011582,Richard S.A.S.
+Technology,1062684,Fouquet Laroche et Fils
+Food and Beverage,1068531,Techer
+Entertainment,1032698,Guérin SARL
+Healthcare,1043998,Humbert et Fils
+Retail,1033539,Alves
+Manufacturing,1041749,Le Roux
+Retail,1051664,Dumas
+Retail,1071307,Marchand S.A.S.
+Healthcare,1040433,Berthelot S.A.S.
+Entertainment,1012423,Adam Rolland et Fils
+Transportation,1028250,Pineau Salmon S.A.S.
+Food and Beverage,1001397,Pottier Langlois S.A.R.L.
+Healthcare,1067405,Leroux Berger S.A.S.
+Healthcare,1087950,Lagarde
+Transportation,1081910,Albert Poulain SARL
+Healthcare,1020467,Laurent
+Manufacturing,1080308,Perrot
+Healthcare,1021434,Henry S.A.S.
+Healthcare,1040981,Germain SA
+Healthcare,1087648,Simon
+Food and Beverage,1083784,Charles S.A.R.L.
+Technology,1087255,Bousquet SA
+Food and Beverage,1060138,Cordier Auger SARL
+Education,1092696,Morin
+Technology,1089498,Bourgeois Rivière S.A.
+Retail,1079692,Maury Martineau SA
+Education,1075046,Clément
+Retail,1011405,Guibert Maillot SARL
+Technology,1011255,Hoarau
+Energy,1014267,Robert
+Technology,1046548,Ledoux
+Transportation,1038925,Auger Daniel SARL
+Healthcare,1018484,Auger S.A.R.L.
+Entertainment,1086345,Delaunay Guillaume SA
+Education,1068379,Leclercq
+Retail,1021769,Munoz
+Healthcare,1085830,Traore
+Entertainment,1035010,Paris Bailly S.A.R.L.
+Entertainment,1091790,Lefebvre Michaud SARL
+Food and Beverage,1036228,Ferrand SA
+Education,1061385,Chevalier Roy et Fils
+Transportation,1051517,Aubert SA
+Food and Beverage,1052924,Antoine
+Healthcare,1037340,Pires
+Manufacturing,1090334,Petitjean
+Education,1057788,Jourdan S.A.
+Manufacturing,1075865,Godard S.A.S.
+Healthcare,1023192,Roche
+Entertainment,1024457,Barbe et Fils
+Transportation,1090815,Bonneau Ledoux S.A.S.
+Energy,1048809,Raynaud
+Transportation,1037562,Guibert
+Food and Beverage,1012730,Grondin
+Healthcare,1093872,Klein SARL
+Food and Beverage,1045705,Delaunay S.A.
+Energy,1075379,Vincent
+Education,1070108,Barbe
+Manufacturing,1060116,Toussaint SARL
+Technology,1031236,Fabre
+Food and Beverage,1004982,Caron SA
+Energy,1021603,Bonnet
+Energy,1081424,De Sousa S.A.R.L.
+Transportation,1068746,Seguin
+Food and Beverage,1061969,Boulanger Faure SA
+Education,1051612,Nguyen Pascal S.A.
+Entertainment,1037308,Michel Tanguy S.A.R.L.
+Healthcare,1036735,Pichon
+Education,1038054,Mary
+Healthcare,1025026,Leroy et Fils
+Education,1012045,Pierre S.A.R.L.
+Technology,1060035,Leroy Gautier S.A.S.
+Education,1055424,Hardy
+Entertainment,1069740,Sauvage
+Healthcare,1083952,Hoareau Julien et Fils
+Transportation,1032471,Lecoq
+Technology,1082938,Potier Maillet S.A.S.
+Education,1098010,Huet
+Healthcare,1059646,Alexandre
+Transportation,1038302,Clerc Guyon SA
+Healthcare,1064277,Marin
+Healthcare,1084734,Neveu
+Manufacturing,1047817,Mahe S.A.R.L.
+Technology,1063867,Pineau Reynaud S.A.
+Entertainment,1096711,Grégoire
+Education,1093285,Giraud
+Energy,1070203,Mercier SARL
+Healthcare,1045827,Laporte S.A.S.
+Food and Beverage,1003738,Lemaire SA
+Healthcare,1080131,Schneider Denis S.A.S.
+Retail,1035059,Thibault et Fils
+Education,1010975,Pineau Lefebvre SA
+Education,1039564,Chevalier Caron S.A.S.
+Entertainment,1045226,Lesage
+Entertainment,1075872,Allard Blanc et Fils
+Energy,1078658,Vasseur S.A.R.L.
+Energy,1045128,Pasquier S.A.S.
+Energy,1092188,Jean Hoareau SA
+Manufacturing,1066740,Guichard
+Technology,1055436,Dupont
+Technology,1011031,Rémy
+Technology,1017215,Hervé
+Transportation,1055554,Lopes
+Energy,1093984,Gérard
+Education,1049158,Maillot S.A.S.
+Manufacturing,1012953,Regnier Royer S.A.S.
+Manufacturing,1042958,Laurent Delannoy et Fils
+Healthcare,1005298,Jourdan
+Transportation,1093028,Bouvier S.A.S.
+Healthcare,1093170,Faivre S.A.R.L.
+Energy,1030961,Guillaume Garcia S.A.R.L.
+Healthcare,1073552,Barbier
+Healthcare,1094522,Pelletier SARL
+Food and Beverage,1094995,Benard S.A.R.L.
+Healthcare,1026864,Jacquot S.A.S.
+Technology,1015333,Devaux S.A.S.
+Technology,1038710,Jacques
+Healthcare,1000665,Gros
+Education,1076004,Dos Santos
+Manufacturing,1097727,Guillet
+Manufacturing,1005995,Colas
+Manufacturing,1035629,Boucher Rousset S.A.R.L.
+Retail,1035975,Boyer
+Energy,1092626,Lejeune SARL
+Education,1066093,Vincent Texier SA
+Transportation,1037081,Gillet
+Energy,1012736,Joubert
+Energy,1035165,Mendès Bouvet SA
+Transportation,1079075,Delaunay S.A.S.
+Healthcare,1081782,Perret S.A.
+Technology,1073609,Roche SA
+Retail,1034646,Gaillard
+Transportation,1029784,Chevallier
+Healthcare,1004072,Prévost S.A.R.L.
+Technology,1021791,Lefebvre SA
+Manufacturing,1072434,Klein S.A.R.L.
+Energy,1090687,Rocher
+Retail,1098563,Andre
+Energy,1013208,Vallet
+Technology,1015534,Caron Ollivier S.A.R.L.
+Healthcare,1052487,Ledoux Breton S.A.S.
+Healthcare,1097467,Garnier
+Education,1090764,Lopez
+Technology,1090159,Breton Dupré S.A.
+Education,1059965,Hernandez Leleu SARL
+Entertainment,1067883,Maréchal
+Transportation,1005091,Schneider
+Education,1003697,Guillot
+Retail,1022384,Charpentier
+Education,1066347,Guilbert
+Healthcare,1070258,Lelièvre S.A.S.
+Entertainment,1055514,Guichard S.A.R.L.
+Energy,1006499,Fouquet
+Food and Beverage,1085953,Thierry Delaunay SARL
+Healthcare,1095363,Pereira Bouvet SA
+Manufacturing,1037600,Weber S.A.
+Healthcare,1010633,Pereira et Fils
+Healthcare,1028554,Valette Arnaud S.A.S.
+Food and Beverage,1028980,Vidal
+Education,1044178,Toussaint S.A.R.L.
+Energy,1058254,Bègue
+Healthcare,1093419,Tessier S.A.R.L.
+Manufacturing,1072241,Gaudin S.A.
+Healthcare,1092541,Guillou et Fils
+Manufacturing,1032807,Weber
+Healthcare,1093694,Normand
+Healthcare,1095085,Paul S.A.R.L.
+Technology,1032114,Léger
+Retail,1085969,Marques Cohen et Fils
+Energy,1037756,Samson
+Entertainment,1001693,Ruiz Vallet SARL
+Food and Beverage,1005956,Leblanc SARL
+Education,1086036,Gomes
+Technology,1093851,Rodriguez et Fils
+Technology,1004115,Descamps
+Energy,1095593,Fournier
+Energy,1076207,Collet
+Education,1083161,Martin
+Technology,1053354,Auger Lelièvre et Fils
+Manufacturing,1095419,Marie
+Energy,1039333,Prévost
+Food and Beverage,1085373,Klein et Fils
+Technology,1037215,Rolland S.A.S.
+Transportation,1014434,Raymond
+Transportation,1015909,Bernard Prévost S.A.S.
+Manufacturing,1095403,Berthelot S.A.
+Healthcare,1069677,Lebrun S.A.
+Retail,1095111,Muller
+Energy,1083894,Lombard
+Energy,1026338,Gaudin Guibert S.A.S.
+Technology,1013699,Aubert
+Manufacturing,1024586,Laroche Marty SA
+Retail,1058881,Fernandes
+Entertainment,1076092,Dupuis Vidal S.A.S.
+Healthcare,1023806,Charpentier S.A.S.
+Entertainment,1077502,Barbier Martineau S.A.S.
+Healthcare,1085012,Alves Letellier S.A.S.
+Food and Beverage,1005104,Vaillant S.A.R.L.
+Healthcare,1009417,Evrard
+Education,1060038,Richard Potier SARL
+Entertainment,1026343,Toussaint Marques et Fils
+Healthcare,1074140,Barthelemy
+Education,1010481,Dupuis
+Food and Beverage,1008735,Baron Joubert S.A.R.L.
+Energy,1010214,Hoareau S.A.S.
+Transportation,1003521,Monnier Bonnin SA
+Transportation,1072604,Prévost Delahaye SA
+Healthcare,1097298,Leblanc Barre et Fils
+Healthcare,1078325,Boulanger
+Transportation,1081676,Munoz SARL
+Technology,1072659,Marin Rivière S.A.
+Entertainment,1004106,Hervé Guichard S.A.S.
+Technology,1022284,Brunet S.A.S.
+Education,1022429,Jacob S.A.
+Education,1006826,Simon De Sousa SARL
+Retail,1066596,Paul
+Food and Beverage,1025220,Delorme
+Manufacturing,1085817,Moreau François S.A.
+Transportation,1031449,Bouvet Buisson et Fils
+Education,1074750,Fernandez et Fils
+Transportation,1039618,Guyon S.A.R.L.
+Technology,1097137,Lucas S.A.R.L.
+Technology,1077795,Nicolas SARL
+Manufacturing,1064019,Chauveau SARL
+Technology,1033110,Baron S.A.S.
+Energy,1033784,Letellier
+Technology,1083287,Brunel Legros S.A.
+Education,1041084,Martinez S.A.S.
+Healthcare,1061820,Leconte
+Food and Beverage,1032411,Étienne
+Entertainment,1011201,Navarro Fouquet S.A.S.
+Energy,1091873,Martin Maury S.A.R.L.
+Education,1099804,Bouvet
+Healthcare,1007910,Foucher Munoz SARL
+Education,1064076,Ferrand S.A.
+Food and Beverage,1078998,Devaux et Fils
+Manufacturing,1050639,Tanguy
+Transportation,1094804,Legendre Delmas SA
+Retail,1087207,Lecoq et Fils
+Manufacturing,1019971,Loiseau
+Healthcare,1062462,Barbier Morel et Fils
+Entertainment,1051485,Blin
+Energy,1025051,Coulon S.A.R.L.
+Technology,1092291,Martin S.A.R.L.
+Education,1058361,Dumont SARL
+Healthcare,1090116,Diallo Besnard S.A.
+Healthcare,1032190,Legrand SARL
+Technology,1019879,Perez
+Entertainment,1038991,Lambert
+Manufacturing,1093404,Morin SA
+Entertainment,1044423,Laroche
+Food and Beverage,1032095,Briand
+Retail,1098046,Noël S.A.R.L.
+Manufacturing,1024119,Voisin
+Education,1044057,Gérard et Fils
+Education,1029729,Hernandez Ramos S.A.R.L.
+Healthcare,1051194,Chevalier SARL
+Transportation,1045499,Brunel S.A.S.
+Food and Beverage,1061022,Garnier SARL
+Technology,1006852,Maillet SA
+Healthcare,1015366,Vasseur Gilbert S.A.
+Healthcare,1031613,Lebon
+Transportation,1051114,Didier
+Food and Beverage,1022777,Petit Albert SA
+Transportation,1019856,Chauvet Charles S.A.S.
+Entertainment,1075497,Turpin S.A.R.L.
+Retail,1078837,Bourgeois
+Energy,1093382,Millet Lopes S.A.
+Education,1064134,Bonnin Royer S.A.
+Technology,1090579,Nicolas
+Healthcare,1086718,Picard
+Education,1060655,Normand SARL
+Entertainment,1055039,Colin S.A.
+Healthcare,1051817,Samson S.A.R.L.
+Energy,1071683,Gaudin
+Healthcare,1066081,Foucher S.A.R.L.
+Manufacturing,1025266,Bonnin
+Healthcare,1026433,Guyot
+Transportation,1007176,Gomez
+Healthcare,1020639,Guillaume
+Healthcare,1033543,Guillou Georges SARL
+Transportation,1022367,Dias
+Food and Beverage,1083883,Maillard Merle S.A.
+Education,1097058,Coulon et Fils
+Education,1097596,Buisson SA
+Education,1025520,Germain Michel SARL
+Retail,1025147,Lagarde Dupuy S.A.S.
+Energy,1091570,Dufour S.A.S.
+Manufacturing,1022786,Marques S.A.S.
+Technology,1066825,Durand
+Energy,1020922,Descamps S.A.R.L.
+Retail,1003287,Blin Klein et Fils
+Food and Beverage,1097837,Camus
+Education,1083971,Berger SARL
+Healthcare,1040693,Marion Roux SARL
+Entertainment,1041738,Delattre
+Energy,1097019,Mace
+Manufacturing,1083596,Deschamps Guillot S.A.R.L.
+Transportation,1030082,Boucher SA
+Transportation,1030947,Pelletier
+Food and Beverage,1072054,Cordier S.A.R.L.
+Education,1055389,Joseph
+Entertainment,1000184,Louis S.A.R.L.
+Manufacturing,1000192,Meunier
+Energy,1003220,Le Roux Jacquot S.A.S.
+Entertainment,1067872,Lévêque
+Entertainment,1020525,Valette
+Retail,1094211,Bertin S.A.S.
+Entertainment,1035539,Rey SARL
+Manufacturing,1085749,Masse
+Healthcare,1099712,Da Costa Simon SARL
+Food and Beverage,1083718,Fernandez
+Technology,1050206,Girard
+Education,1036195,Deschamps
+Energy,1017182,Guilbert S.A.R.L.
+Healthcare,1063690,Lemaître
+Education,1009564,Bertrand
+Entertainment,1011090,Durand Berthelot et Fils
+Transportation,1015027,Millet Weber S.A.
+Education,1057024,Grenier S.A.R.L.
+Transportation,1034964,Cohen SA
+Manufacturing,1000841,Hubert Fournier SARL
+Healthcare,1084403,Michaud Mercier SARL
+Manufacturing,1014729,Vallée
+Energy,1066912,Humbert S.A.S.
+Education,1040605,Humbert
+Food and Beverage,1054819,Delattre SARL
+Entertainment,1025252,Gimenez Dupont S.A.S.
+Energy,1083164,Denis S.A.S.
+Food and Beverage,1029791,Sanchez SARL
+Technology,1016116,Bernier SARL
+Healthcare,1078025,Bazin
+Energy,1027599,Legros
+Food and Beverage,1024260,Brun SA
+Technology,1085834,Gay
+Healthcare,1029473,Collin Foucher S.A.
+Healthcare,1061808,Lecomte
+Education,1012441,Da Silva S.A.
+Food and Beverage,1072843,Michel et Fils
+Transportation,1044288,Legros Le Roux S.A.S.
+Food and Beverage,1061307,Aubry
+Manufacturing,1059852,Gomes S.A.S.
+Technology,1075959,Colin et Fils
+Entertainment,1006059,Bonnet S.A.
+Transportation,1033249,Vaillant Fernandez et Fils
+Manufacturing,1030757,Renaud SA
+Technology,1084194,Riou SA
+Manufacturing,1014518,Lecomte et Fils
+Food and Beverage,1042844,Grégoire Bazin SARL
+Manufacturing,1067395,Godard Costa S.A.S.
+Food and Beverage,1085494,Coulon S.A.
+Healthcare,1021821,Lemaire
+Manufacturing,1074440,Martineau
+Retail,1057922,Hamel S.A.S.
+Education,1003057,Maillard SARL
+Healthcare,1021900,Chevallier SARL
+Healthcare,1013040,Dubois-Eloy
+Healthcare,1086769,Abrassart-Mathy
+Retail,1088696,"Dumont, Delvaux and Thomas"
+Transportation,1055795,Muller-Georges
+Transportation,1029315,Henry-Pirson
+Manufacturing,1062672,Massart Ltd
+Transportation,1008772,Lecomte Group
+Healthcare,1028031,"Mignon, Grosjean and Guillaume"
+Technology,1062834,Lemaire-Pire
+Education,1069558,"Collard, Noël and Denis"
+Healthcare,1067778,"Bertrand, Constant and Delvaux"
+Energy,1078364,"Duchesne, Thiry and Remy"
+Energy,1063122,"Noel, Antoine and Vandenberghe"
+Retail,1015610,"Duquesne, Marchal and Bovy"
+Entertainment,1000869,Parmentier-Henry
+Transportation,1023942,Gillet Ltd
+Retail,1054199,Mathot Group
+Energy,1093293,Huberty-Mathieu
+Education,1066086,Lefebvre-Leclercq
+Healthcare,1066160,Noël Ltd
+Technology,1065594,Gillain-Lefebvre
+Energy,1070849,Noël LLC
+Manufacturing,1047164,George PLC
+Healthcare,1031101,"Collet, Fabry and André"
+Entertainment,1097289,Barbieux LLC
+Healthcare,1072780,Petitjean-Delhaye
+Food and Beverage,1023429,Adam Inc
+Healthcare,1074356,Fontaine-Thomas
+Retail,1070544,Collard Inc
+Education,1047476,Schumacher-Verhaeghe
+Transportation,1045463,Stevens-Gilson
+Entertainment,1089858,Wauters-Schumacher
+Energy,1038340,"Charlier, Lardinois and Lejeune"
+Transportation,1054973,Michaux Group
+Manufacturing,1056295,Durant Inc
+Transportation,1034263,"Simon, Huet and Jadoul"
+Healthcare,1012930,"Godart, Coulon and Simon"
+Retail,1061514,"Compère, Romain and Delmotte"
+Food and Beverage,1016985,Henrotte and Sons
+Energy,1082473,Claes LLC
+Education,1039245,Lucas-Lefebvre
+Transportation,1016108,Lefebvre-Dupont
+Healthcare,1076218,"Diallo, Thonon and Maréchal"
+Energy,1079008,Thonon-Remacle
+Healthcare,1022181,Marchal-Evrard
+Education,1088387,Wouters LLC
+Entertainment,1015994,Vincent and Sons
+Education,1021912,Leclercq-Gérard
+Energy,1045446,Lejeune-Lecomte
+Healthcare,1036574,Piron PLC
+Technology,1090444,"Godefroid, Grandjean and Boland"
+Retail,1060702,Maton Group
+Transportation,1023451,Louis PLC
+Food and Beverage,1018587,Léonard-Delcroix
+Entertainment,1012154,"Maréchal, Gobert and Materne"
+Food and Beverage,1072451,Messina-François
+Retail,1017180,"Peeters, Demaret and Ernst"
+Food and Beverage,1026919,Leclercq PLC
+Retail,1099608,Simon-Lecomte
+Healthcare,1007391,"Salmon, Collard and Wathelet"
+Technology,1038220,Bodson Inc
+Technology,1062821,Libert LLC
+Technology,1064383,Parent and Sons
+Healthcare,1084886,Toussaint Inc
+Energy,1069065,Gallez-Lefebvre
+Retail,1018331,Smets Inc
+Healthcare,1001231,Gillain-Sacré
+Transportation,1036950,"Leclercq, Pire and Anciaux"
+Transportation,1035930,Demir Ltd
+Entertainment,1087812,"Ruelle, Pirlot and Servais"
+Entertainment,1086696,Duez-Berger
+Education,1020670,Delcourt LLC
+Technology,1055268,Noel-Guillaume
+Food and Beverage,1070329,"Hubert, Godin and Dufrasne"
+Entertainment,1075461,"Janssen, Brasseur and Toubeau"
+Technology,1043126,"Lenaerts, Nguyen and Bourguignon"
+Retail,1011179,André-Henry
+Education,1046926,"Lefebvre, Masset and Paul"
+Food and Beverage,1000579,Henry Group
+Manufacturing,1049092,Benoit Group
+Manufacturing,1025659,Delforge LLC
+Healthcare,1099587,Collignon-Thomas
+Energy,1084140,Michaux-Desmet
+Retail,1092354,Petit-Vanderlinden
+Healthcare,1054263,Delvaux Inc
+Education,1007652,"Poncelet, Mahieu and Evrard"
+Healthcare,1060017,Bouchat Group
+Food and Beverage,1036786,"Cornez, Paul and Grandjean"
+Transportation,1016297,Humblet PLC
+Entertainment,1015056,"Latour, Leclercq and Renard"
+Healthcare,1076213,Dessart Inc
+Food and Beverage,1032973,Descamps LLC
+Entertainment,1049582,Jacquet-Jacobs
+Technology,1092528,Dethier-Hardy
+Transportation,1026282,Maréchal-Sauvage
+Entertainment,1070725,Gillard-Lecocq
+Education,1032603,Wilkin PLC
+Energy,1050601,Delhaye Inc
+Technology,1096599,Wauters-Motte
+Food and Beverage,1047660,"Remacle, Marchal and Pierre"
+Entertainment,1091444,"Robert, De Clercq and Lardinois"
+Food and Beverage,1000873,Godin-François
+Education,1013856,Etienne-Nys
+Retail,1093536,Delhez-Yilmaz
+Energy,1097103,Nyssen Inc
+Energy,1057126,Poncelet-Pollet
+Entertainment,1049124,Gilson-Fontaine
+Retail,1004292,Herman Inc
+Technology,1077613,"Mahieu, Janssen and François"
+Entertainment,1040888,Salmon Ltd
+Education,1034292,"Jacques, Bury and Claes"
+Transportation,1018256,Goossens-Collin
+Manufacturing,1058238,Joly Inc
+Education,1001519,"Thys, Gerard and Closset"
+Technology,1071313,Robert and Sons
+Manufacturing,1067957,"Lambotte, Maes and Hermans"
+Education,1029512,"Roland, Hubert and Detry"
+Transportation,1020677,Remy-Jacquet
+Entertainment,1022572,Lange PLC
+Energy,1095311,"Guillaume, Huart and Mathieu"
+Food and Beverage,1091551,Collette-Hardy
+Technology,1056435,"Motte, Maton and Hermans"
+Education,1020105,Piette Group
+Entertainment,1028616,Delcourt Inc
+Retail,1070650,Motte-Charles
+Energy,1087781,Berger-Paquet
+Technology,1041225,"Léonard, Denis and Degueldre"
+Transportation,1016616,"Franck, Henrard and Godfroid"
+Retail,1009413,Masson-Donnay
+Transportation,1008361,"Jacquet, Bodart and Constant"
+Retail,1029913,Bovy-Servais
+Education,1087488,"Michiels, Legrand and Charles"
+Healthcare,1082604,"Servais, Peeters and Guillaume"
+Entertainment,1001768,Bodart Ltd
+Manufacturing,1001314,Lucas Ltd
+Manufacturing,1039336,Orban-Guillaume
+Food and Beverage,1086103,"Limbourg, Dumortier and Lepage"
+Entertainment,1035134,Sauvage LLC
+Technology,1064224,Ledent Inc
+Education,1017608,"Lucas, Demoulin and Maquet"
+Healthcare,1050398,Mahy LLC
+Education,1046062,Lemoine-Maton
+Transportation,1050488,Grégoire Ltd
+Energy,1019669,Orban-Doumont
+Healthcare,1085172,Renier-Beaujean
+Food and Beverage,1029890,"Bodart, Ernst and Thys"
+Retail,1075171,Gérard Inc
+Retail,1004252,"Dubois, Cornet and Claus"
+Education,1060667,"Vincent, Paquet and Closset"
+Food and Beverage,1072199,Carlier LLC
+Energy,1054833,Smeets-Dhondt CommV
+Education,1034037,Van Bogaert VOF
+Retail,1064135,Breugelmans VOF
+Healthcare,1030173,"Bruyninckx, Boon en Lievens NV"
+Education,1036967,De Pauw-De Keyser NV
+Healthcare,1014238,Segers-De Paepe NV
+Technology,1044735,Verbruggen CommV
+Healthcare,1051656,"Leemans, Vanhove en Deconinck BV"
+Energy,1006928,"Vanbrabant, Maes en Willems CV"
+Transportation,1025396,Casier BV
+Healthcare,1005131,"Van den Brande, Smeets en Stevens CommV"
+Manufacturing,1069351,"Van den Berghe, Timmermans en Gevaert CommV"
+Education,1078919,"Mahieu, Stas en Stevens CV"
+Food and Beverage,1076260,"Peters, Polfliet en Jacobs VOF"
+Technology,1039797,Demeyer-De Wachter CV
+Energy,1066838,Van Assche NV
+Technology,1061149,Desmedt BV
+Manufacturing,1017124,"De Smet, Verbruggen en Vanhee CV"
+Manufacturing,1075312,Van de Voorde CommV
+Transportation,1004858,Janssen-Peeters BV
+Transportation,1050081,Bracke-De Paepe BV
+Retail,1065703,Hermans CV
+Manufacturing,1072012,"Ramaekers, Verlinden en Ali CV"
+Technology,1090741,Van Dyck-Vermeulen VOF
+Energy,1095255,Van den Bosch VOF
+Transportation,1001813,"Van Damme, Bracke en Geerts VOF"
+Food and Beverage,1059717,"Van Hecke, Van de Velde en Baeten BV"
+Retail,1092238,Callens-Martens CommV
+Food and Beverage,1001313,Pauwels-Vervaet VOF
+Retail,1058404,"Janssens, Vanhoutte en Willems CommV"
+Manufacturing,1025142,"Bossuyt, François en Bollen VOF"
+Energy,1061367,"Dobbelaere, Huybrechts en Mertens NV"
+Manufacturing,1095432,"De Bruyn, Vermeulen en Verhaegen VOF"
+Healthcare,1084917,"Van Damme, De Wilde en Bruggeman NV"
+Entertainment,1038956,Kaur CommV
+Food and Beverage,1043714,"Demeyer, Willems en Breugelmans CommV"
+Education,1035049,Buelens CommV
+Education,1085484,"Renders, Maes en Willems VOF"
+Education,1040293,"Vanhoutte, Joos en Van Assche CV"
+Education,1037995,Buyse-Vergauwen CommV
+Manufacturing,1012976,"De Smedt, Van Praet en Bauwens NV"
+Food and Beverage,1076603,"Mertens, Vrancken en Luyten CV"
+Healthcare,1038092,Vranken NV
+Technology,1007505,"Bauwens, Dubois en Baert VOF"
+Technology,1003368,Bogaert-De Boeck CommV
+Manufacturing,1074705,"Van Damme, Claes en De Smet BV"
+Healthcare,1080423,Vercauteren-Van den Broeck VOF
+Education,1034133,"De Bruyn, Declerck en Nuyts VOF"
+Transportation,1051212,Vlaeminck NV
+Manufacturing,1091537,"Boonen, Bruyninckx en De Schutter CV"
+Entertainment,1096962,Martens-Janssens VOF
+Energy,1067092,Van de Velde-Vanhee NV
+Entertainment,1065074,De Winter-Declerck VOF
+Energy,1005358,"De Schepper, Aerts en Decoster CommV"
+Food and Beverage,1021336,Malfait CV
+Education,1050634,Mertens-Verhoeven CommV
+Transportation,1051433,Wouters-Rutten CV
+Technology,1026987,Buelens BV
+Healthcare,1042993,Huys CommV
+Transportation,1077918,Mees-Geens CV
+Food and Beverage,1053758,"Peeters, Samyn en Dhondt CommV"
+Education,1035497,"Van Hoecke, Declercq en Stevens CV"
+Food and Beverage,1064514,Cuyvers CommV
+Technology,1050192,Vanhove-Stroobants BV
+Healthcare,1018600,Lenaerts-Brouwers VOF
+Healthcare,1092524,"Singh, Adriaensen en De Smet CommV"
+Technology,1022751,Vanderlinden-De Muynck CV
+Entertainment,1059036,"De Smet, De Ridder en Martens CV"
+Retail,1038534,Pattyn VOF
+Food and Beverage,1031443,Jans-Mortier NV
+Energy,1083407,Van Belle CV
+Technology,1042174,Mariën NV
+Energy,1062574,Smet CV
+Entertainment,1096007,Segers-Verhulst CV
+Healthcare,1029797,"Peeters, Lemmens en Smets CV"
+Retail,1003365,Devos-Deprez CommV
+Healthcare,1045920,Claeys NV
+Transportation,1067970,"Bauwens, Willems en Troch CV"
+Education,1036652,Geerts NV
+Food and Beverage,1075275,De Coster CV
+Food and Beverage,1020718,Op de Beeck-Vos BV
+Entertainment,1049442,Van Rompaey CV
+Healthcare,1044290,Cornelis CommV
+Food and Beverage,1086753,"Van Damme, Heyvaert en Smets CommV"
+Entertainment,1046338,Willems-Pauwels NV
+Energy,1034129,"Cools, Geeraerts en Ooms NV"
+Food and Beverage,1032702,"Vandenbussche, Bauwens en De Wolf VOF"
+Energy,1028903,"Goossens, Vermeir en Samyn VOF"
+Technology,1051381,Everaert CV
+Education,1061445,Dewitte BV
+Education,1028858,Baert BV
+Retail,1012537,"Dhondt, Goossens en Peeters CommV"
+Education,1072341,Verschueren-De Smet VOF
+Technology,1042662,Maes VOF
+Healthcare,1041990,"Vermeersch, Beckers en De Rycke CommV"
+Energy,1005342,Beeckman-Tanghe NV
+Healthcare,1092040,Ali BV
+Technology,1077490,Borremans-Verhaeghe CommV
+Retail,1073282,Dewilde-Van Hove CommV
+Retail,1083018,Hendrickx BV
+Retail,1063599,Geudens-Bogaert CommV
+Education,1084376,Declercq CommV
+Retail,1099008,"Vercammen, Michiels en Peeters CV"
+Manufacturing,1024601,"Yilmaz, Coppens en Callens BV"
+Education,1015862,Claesen-Wuyts CommV
+Healthcare,1004449,"Pollet, Van Dyck en D'Hondt VOF"
+Transportation,1076705,"Van der Linden, Devriendt en Verwimp VOF"
+Food and Beverage,1056750,"Goethals, Baeten en Claes CommV"
+Energy,1060130,Daems-Heyvaert NV
+Retail,1000444,Cornelis NV
+Healthcare,1047778,De Smet-Van den Broeck VOF
+Healthcare,1057508,Vandenberghe CommV
+Healthcare,1065637,"Willems, Van Landeghem en Poppe CV"
+Healthcare,1068912,Coppens-Goris CommV
+Food and Beverage,1093150,"Somers, Mertens en Martens BV"
+Manufacturing,1047422,"Vermeersch, De Schrijver en Martens BV"
+Manufacturing,1026644,"Smets, Leysen en Bonte VOF"
+Transportation,1032032,Schepens-Dewitte CommV
+Healthcare,1074515,Vandewalle-Kaya VOF
+Healthcare,1097102,Van Hove-Aerts CommV
+Healthcare,1007054,Verstraeten-De Bruyne NV
+Education,1051032,"De Winter, Vaes en Lievens BV"
+Education,1039392,Vandekerckhove NV
+Manufacturing,1095932,Everaert BV
+Food and Beverage,1080554,"Goris, Claes en De Witte CommV"
+Energy,1092735,Wouters CommV
+Energy,1032931,Segers NV
+Healthcare,1059698,Verfaillie-Desmet BV
+Food and Beverage,1066498,"Vereecken, De Baets en Vereecken CommV"
+Technology,1071961,Stroobants NV
+Retail,1066199,Poppe-Aerts NV
+Education,1075852,Hendrickx-De Pauw VOF
+Food and Beverage,1034643,"Devolder, Jacobs en Bracke CommV"
+Food and Beverage,1018680,"Jonckheere, Vanderheyden en Verstraete NV"
+Retail,1049710,"Van Roy, Van Hove en Parmentier CV"
+Energy,1058047,"Mertens, Smets en Dierickx CV"
+Technology,1050649,"Dierick, Van den Broeck en Goossens VOF"
+Energy,1073638,"Vanhoutte, Decock en Baeyens CV"
+Food and Beverage,1032404,Van Genechten-Vermeulen CV
+Education,1033442,Van Hecke BV
+Energy,1039687,Beckers CV
+Transportation,1013557,"De Baets, Dewulf en Verstraete VOF"
+Energy,1049351,Vandecasteele-Verheyen CV
+Technology,1058727,"Dewulf, Buelens en Vranken BV"
+Food and Beverage,1095097,Martens CV
+Transportation,1059605,Desmet CV
+Technology,1085504,Martens-Vercammen NV
+Healthcare,1039443,"Coppens, Dierckx en Raes VOF"
+Food and Beverage,1088310,Vermeir-Lenaerts NV
+Technology,1035413,Peeters CommV
+Manufacturing,1081674,"Van de Walle, Roels en Samyn BV"
+Entertainment,1051979,Peeters VOF
+Retail,1044392,Van Dyck NV
+Food and Beverage,1045816,Ceuppens-Geudens NV
+Food and Beverage,1072263,Van Rompaey VOF
+Healthcare,1007318,"Vandenberghe, De Ridder en De Backer NV"
+Food and Beverage,1068580,Heymans CV
+Transportation,1091388,Janssens CV
+Technology,1032713,Nuyts NV
+Food and Beverage,1057719,"Van Loock, Beckers en Verbeke NV"
+Retail,1087169,De Wilde-De Waele BV
+Entertainment,1016203,"Ceulemans, Bekaert en Temmerman NV"
+Food and Beverage,1057876,Matthijs CommV
+Retail,1028539,Beckers-De Block BV
+Healthcare,1044277,Verhulst CV
+Energy,1005498,Colman NV
+Food and Beverage,1091328,De Bock-Maes CV
+Transportation,1054557,De Wilde NV
+Education,1086684,"Lambrechts, Boeckx en Vandaele CommV"
+Technology,1085066,Deconinck CommV
+Healthcare,1040522,Verhaeghe NV
+Technology,1092519,"De Paepe, Christiaens en Van Raemdonck NV"
+Technology,1032905,Van Nuffel CommV
+Technology,1001298,Wouters-De Muynck CommV
+Food and Beverage,1068448,Hermans-De Block BV
+Entertainment,1032736,Claes-Lemmens VOF
+Healthcare,1094833,Mees NV
+Transportation,1086427,"Pauwels, De Waele en De Cock CommV"
+Energy,1062420,Decock CV
+Transportation,1078175,"Deprez, De Cuyper en Beernaert NV"
+Technology,1027194,"Nijs, Peeters en Bosmans VOF"
+Technology,1065950,"Janssens, Temmerman en Casteleyn BV"
+Healthcare,1060438,Wuyts BV
+Energy,1080791,Pattyn-Vanhoutte VOF
+Manufacturing,1095087,De Coster-Viaene BV
+Transportation,1016244,Vandewalle CommV
+Manufacturing,1005742,"Claus, Vermeulen en Andries NV"
+Healthcare,1074450,"Renders, Van den Bergh en Dierckx CV"
+Entertainment,1011979,Schepers NV
+Entertainment,1056007,Peeters NV
+Manufacturing,1082872,"De Clercq, Devos en Martens CommV"
+Healthcare,1001975,Dewaele VOF
+Energy,1008060,"Van den Eynde, Willems en Van de Velde CV"
+Healthcare,1084302,"Jacobs, Melis en Wouters BV"
+Healthcare,1020405,"Hermans, Huyghe en Dupont VOF"
+Technology,1016464,Martens-Mortier VOF
+Transportation,1032017,Voet-Hermans CV
+Retail,1040066,Van Poucke-Martens NV
+Technology,1054230,Rosseel NV
+Healthcare,1040297,"Huys, Van Praet en Goris CommV"
+Food and Beverage,1009846,Poelmans-Hendrickx BV
+Transportation,1018161,"D'hondt, Thijs en Vanderstraeten NV"
+Energy,1050674,"Vandekerckhove, Hermans en De Groote VOF"
+Food and Beverage,1050900,De Decker CommV
+Education,1030994,"Vandevelde, Torfs en Verheyden NV"
+Entertainment,1004772,"Heymans, Bruggeman en Verlinden BV"
+Transportation,1029637,Janssen BV
+Healthcare,1029469,Somers CommV
+Transportation,1096100,"Van Genechten, Van Belle en Feys BV"
+Transportation,1067584,Dewaele-Hermans VOF
+Manufacturing,1062575,Van Campenhout VOF
+Technology,1096669,Vermeylen BV
+Retail,1037946,Vermeersch BV
+Healthcare,1084787,"Hendrickx, Baetens en De Clerck BV"
+Entertainment,1033614,"Desmedt, Verhoeven en De Wolf BV"
+Education,1007061,Engelen CV
+Healthcare,1027456,Van Hove-Vanderstraeten VOF
+Transportation,1068772,Lievens VOF
+Manufacturing,1048942,"Verheyden, Goossens en Van Daele NV"
+Food and Beverage,1094500,Aerts-De Bruyne NV
+Manufacturing,1089871,Vrancken-Celis NV
+Food and Beverage,1016449,Adams VOF
+Transportation,1029385,Nuyts CommV
+Education,1079345,"De Ridder, Nys en De Bruycker VOF"
+Healthcare,1003843,Verlinden VOF
+Food and Beverage,1007922,"Claeys, Dewaele en Loos VOF"
+Healthcare,1040736,Cornelis-Ceuppens CommV
+Healthcare,1004133,Peeters CV
+Education,1046607,Van Baelen CommV
+Education,1080337,Martens VOF
+Healthcare,1084143,Goossens BV
+Education,1070673,Stevens BV
+Technology,1001434,Martens NV
+Healthcare,1042971,Verheyen-D'hondt BV
+Food and Beverage,1019419,"Janssens, Vermeersch en De Neve CV"
+Education,1082539,Hendrickx-Vandaele CV
+Healthcare,1002410,"Boone, Vanhoutte en Fransen NV"
+Transportation,1046275,Van Landeghem NV
+Energy,1077392,De Bie-De Smet CV
+Technology,1031967,"Callens, Singh en De Cuyper VOF"
+Food and Beverage,1037509,Viaene-Verdonck CV
+Technology,1031975,Claeys-Van Hoof NV
+Entertainment,1073012,David-De Bie NV
+Food and Beverage,1026512,Jacobs CommV
+Retail,1028171,"Pieters, Verheyen en Smits VOF"
+Healthcare,1083003,De Bondt VOF
+Retail,1070815,"Hendrickx, Hermans en Goethals CommV"
+Education,1075415,Moens CV
+Transportation,1038071,"Beckers, Hermans en Stevens VOF"
+Healthcare,1073737,"Verhoeven, Dewaele en Claes CommV"
+Energy,1001899,"De Ridder, Lambrechts en Simoens VOF"
+Technology,1079046,Vaes-Bertels CV
+Entertainment,1014485,Van Hecke-Vercruysse VOF
+Education,1057851,Jonckheere-Holvoet NV
+Transportation,1039979,"Heymans, Desmet en Janssens CV"
+Manufacturing,1068335,Bertels-Huysmans NV
+Manufacturing,1099065,Raeymaekers BV
+Technology,1053190,"Parmentier, Van den Eynde en Pauwels NV"
+Energy,1069555,Bosmans CV
+Retail,1090051,Dewulf-Peters CV
+Manufacturing,1091980,"Van Dyck, Mertens en Vanbrabant NV"
+Food and Beverage,1058246,Bollen NV
+Manufacturing,1014369,Meersman CV
+Healthcare,1076940,Poppe VOF
+Food and Beverage,1063709,Bracke-Thomas VOF
+Healthcare,1060733,Lemmens-Meeus CommV
+Food and Beverage,1087163,Wauters-Janssens NV
+Entertainment,1072291,Van Laere-Peeters BV
+Entertainment,1023471,De Bruyne-De Groote NV
+Food and Beverage,1092912,"Bosmans, Vercauteren en Jacobs VOF"
+Technology,1057060,Moors-Van Looy BV
+Energy,1043272,Willems-Verstraete VOF
+Manufacturing,1076256,Goossens-Mariën CommV
+Manufacturing,1056342,Demeulenaere-Pattyn NV
+Healthcare,1002481,Segers VOF
+Food and Beverage,1029460,"Wynants, Celis en Verheyen BV"
+Food and Beverage,1057210,De Leeuw-De Smet BV
+Healthcare,1005812,Verbist BV
+Manufacturing,1025762,Matthys-De Clercq NV
+Manufacturing,1020469,De Waele BV
+Manufacturing,1042294,Verheyen CV
+Healthcare,1065501,Neirynck-Parmentier VOF
+Education,1007623,Smits-Boon VOF
+Healthcare,1014688,Smets-Ceulemans CommV
+Healthcare,1055496,"Verheyden, Verfaillie en Janssens CommV"
+Food and Beverage,1045066,"Pattyn, Deckers en Horemans BV"
+Food and Beverage,1012748,"Willaert, Nys en De Wilde VOF"
+Transportation,1003642,Smolders CV
+Retail,1015281,Van Camp VOF
+Transportation,1016199,"Vandamme, Claeys en Celis BV"
+Entertainment,1083957,Pollet-Timmermans VOF
+Retail,1083002,De Baets CommV
+Healthcare,1064828,Roose-De Cock VOF
+Education,1073274,"Matthijs, Vandenbroucke en Wouters NV"
+Manufacturing,1098071,Roelandt-Van der Auwera CommV
+Healthcare,1014288,Bekaert NV
+Manufacturing,1045169,Engels BV
+Retail,1007722,Ooms-Claessens NV
+Transportation,1057462,Dejonghe VOF
+Technology,1002017,D'hondt CommV
+Entertainment,1083969,"Boone, Vandekerckhove en Meyers VOF"
+Healthcare,1097469,"Michiels, Boone en Put CV"
+Food and Beverage,1024904,Tack CommV
+Energy,1053492,"Debruyne, Van Acker en Van Hoof BV"
+Technology,1037759,Lemmens CV
+Healthcare,1065097,Dierick NV
+Technology,1081789,Verhelst-Michiels VOF
+Food and Beverage,1095782,Wauters-Goossens CV
+Technology,1023827,Thijs NV
+Transportation,1082784,Hoste CV
+Technology,1040899,Eeckhout-Raes NV
+Technology,1094092,De Smedt CV
+Healthcare,1064734,Segers-Pieters CV
+Retail,1095304,Callewaert-Cornelis VOF
+Education,1064197,Vermeiren CommV
+Healthcare,1051257,"Adriaenssens, De Bruyn en Lenaerts VOF"
+Manufacturing,1089928,Lemmens-Herman NV
+Technology,1092452,"Verlinden, Broeckx en De Keyser VOF"
+Technology,1026561,"Driesen, Janssen en Goossens CommV"
+Technology,1024713,Van den Broeck VOF
+Healthcare,1082787,"Pauwels, Deconinck en De Jonghe CV"
+Entertainment,1058886,De Bruyn NV
+Healthcare,1017762,Tack-Martens VOF
+Education,1086362,Goossens CV
+Manufacturing,1067107,Jacobs BV
+Retail,1003159,"Thijs, Bauwens en Borremans VOF"
+Entertainment,1038621,Vandevelde-Van den Broeck NV
+Healthcare,1041940,Nijs-Swinnen NV
+Healthcare,1002843,Dupont-Yildirim CommV
+Manufacturing,1077291,Bossuyt-Hoste BV
+Entertainment,1002611,"Jacobs, Heremans en Joris CV"
+Retail,1078863,Van den Broeck BV
+Energy,1007756,"Pauwels, Vos en Vermeersch CommV"
+Entertainment,1004840,Van Goethem-Verhoeven NV
+Manufacturing,1015219,Wouters-De Bruyne NV
+Education,1085793,Meert BV
+Healthcare,1086622,"Maes, Temmerman en Stas VOF"
+Healthcare,1069530,Hoste-Goossens VOF
+Technology,1066067,"Callewaert, Baeyens en De Smedt CommV"
+Manufacturing,1057282,Bruggeman CommV
+Manufacturing,1077012,Heymans-De Bock CommV
+Manufacturing,1007742,Daniels CV
+Food and Beverage,1048880,Bogaert VOF
+Energy,1077612,Vos VOF
+Entertainment,1091391,Verschueren BV
+Energy,1070233,De Meyer NV
+Retail,1078833,Deckers-Hermans BV
+Transportation,1049418,Baeyens NV
+Energy,1006310,"De Ridder, Standaert en Aerts VOF"
+Energy,1067009,Claessens BV
+Manufacturing,1062620,Jorrisen & van der Laar
+Transportation,1050098,Rabobank
+Transportation,1024555,BNP Paribas
+Retail,1068716,Royal van den Broek
+Food and Beverage,1016810,Rutten NV
+Retail,1070742,Martens BV
+Retail,1067455,Hagendoorn BV
+Energy,1078516,Verda & van Opper-Lotharingen
+Transportation,1087291,Latier & Hermans
+Retail,1015177,Royal Peronne
+Manufacturing,1080019,de Bruyn & Beijring
+Energy,1095558,Royal Ponci
+Entertainment,1040080,Lieshout & Huel
+Healthcare,1060366,Boon Edam
+Manufacturing,1049955,Koninklijke van Grinsven
+Technology,1002173,Cosman & Willemsen
+Technology,1005476,Perkins BV
+Transportation,1090789,Royal Bos
+Energy,1062016,de Koning Groep
+Retail,1089751,Flynth Adviseurs en Accountants
+Manufacturing,1023530,van Allemanië Groep
+Education,1055098,van Cuijck & Hemma van Allemanië
+Manufacturing,1009572,Vermeulen & van den Nieuwenhuijsen
+Food and Beverage,1090087,Koster NV
+Entertainment,1059658,Dries Groep
+Manufacturing,1057191,Tins & Diesbergen
+Technology,1090720,Koninklijke Geerts
+Education,1049880,Koninklijke Lips
+Entertainment,1099769,van den Wittenboer & van der Strigt
+Transportation,1031948,Cargill
+Healthcare,1074057,Koninklijke van Dalem
+Healthcare,1078285,Jumbo
+Healthcare,1077714,Landal Greenparks
+Education,1037200,Rademaker NV
+Entertainment,1085049,van Gemert & Willems
+Manufacturing,1094562,Bouthoorn & van de Eerenbeemt
+Manufacturing,1048988,Mammoet
+Transportation,1097739,Stichting van Leeuwen
+Entertainment,1036775,Stichting Kruns
+Education,1086393,Stichting Ferran
+Retail,1058971,Royal Roosenboom
+Healthcare,1067813,Arens BV
+Entertainment,1037883,Blaak BV
+Transportation,1019900,Pauwels BV
+Transportation,1002452,Stichting Kok
+Healthcare,1090101,Appelman NV
+Entertainment,1005717,Levesque & Pieters
+Technology,1069091,van den Velden & Beourgeois
+Healthcare,1063675,Kerkhof NV
+Transportation,1079304,van den Berg NV
+Education,1028068,van het Heerenveen BV
+Education,1085870,Feenstra
+Technology,1045642,Royal Oversteeg
+Transportation,1071440,Bakker Logistiek
+Healthcare,1024489,Royal Bijlsma
+Education,1075088,Stichting van Dooren
+Healthcare,1042408,Le Grand & van de Leemput
+Food and Beverage,1035154,B&S
+Transportation,1092146,Wavin
+Technology,1092368,Koninklijke van Buuren
+Food and Beverage,1000104,van de Velden & Slaetsdochter
+Technology,1061353,Fujitsu
+Healthcare,1078483,Koninklijke Luster
+Healthcare,1077791,Konings & Höning
+Food and Beverage,1019941,Backer & The Elder
+Healthcare,1053266,van de Darnau & Coolen
+Healthcare,1011280,Stichting van Heusden
+Retail,1058079,Peak-IT
+Manufacturing,1005049,Mercedes-Benz
+Education,1017755,Postma Groep
+Technology,1042398,Stichting Hemma van Allemanië
+Manufacturing,1008358,Aertsz NV
+Food and Beverage,1037692,Lips Groep
+Healthcare,1051535,Oemencs Groep
+Energy,1052321,NIBC Bank
+Energy,1030694,Lucas & Blom
+Retail,1000304,Schelvis Groep
+Transportation,1000329,van den Hoek & Kok
+Manufacturing,1069431,van Santen BV
+Energy,1086627,Welf Groep
+Education,1032545,Blokland Groep
+Healthcare,1099253,Winnrich Groep
+Transportation,1089309,Koninklijke Stook
+Education,1052364,Miner & Zwijsen
+Food and Beverage,1093279,Roukes BV
+Manufacturing,1094009,Ordina
+Entertainment,1062364,Royal van der Schuijt
+Healthcare,1053004,Hoppenbrouwer & Cadefau
+Education,1046839,Scuylenborchs & Spruit
+Transportation,1006934,Ooms & van Eck
+Energy,1028206,Rutten Groep
+Transportation,1033738,Bleijenberg & Hendrikse
+Food and Beverage,1052614,Boer & de Boer
+Transportation,1035415,Keijzer BV
+Education,1023215,Marel
+Education,1076205,de Vos NV
+Energy,1096575,Post & Dachgelder
+Technology,1084345,Nestle
+Technology,1081375,Zijlemans BV
+Transportation,1021748,Unruoch Hunerik BV
+Energy,1066475,Tuithof NV
+Transportation,1035322,van 't Riet NV
+Education,1037968,Stichting Spies
+Healthcare,1096795,Koninklijke van de Ven
+Energy,1070174,Dirven NV
+Healthcare,1001957,Koninklijke van den Broek
+Healthcare,1057456,Janssen NV
+Manufacturing,1025202,Atos
+Energy,1016883,Royal Mangel
+Healthcare,1001000,Loep BV
+Education,1088862,Hakker BV
+Entertainment,1087334,Koninklijke Meis
+Entertainment,1074022,Saxo Groep
+Retail,1063036,Royal de Vos
+Energy,1038555,Heyne NV
+Healthcare,1022031,Lieshout BV
+Healthcare,1041753,Vrancken BV
+Manufacturing,1060776,Lekkerland
+Retail,1076180,van den Nuwenhijsen & Bresse
+Retail,1024055,Koninklijke van Hostaden
+Healthcare,1020921,Heinrichs NV
+Healthcare,1078704,The Phone House
+Retail,1078463,Symons NV
+Food and Beverage,1065764,Royal Verschut
+Manufacturing,1074589,Royal de Keijzer
+Technology,1062001,Kuilenburg BV
+Healthcare,1075387,Marchal & Schenk
+Food and Beverage,1075179,Koninklijke van Dam
+Transportation,1078900,Joosten NV
+Entertainment,1020812,van der Velden Groep
+Food and Beverage,1071450,Stichting van de Leemput
+Food and Beverage,1096896,Stichting Recers
+Healthcare,1078730,De Persgroep
+Energy,1070079,SBM Offshore
+Retail,1038025,Stichting Kortman
+Transportation,1053941,Koninklijke Verhoeven
+Technology,1091380,van Soest & Hoppenbrouwer
+Retail,1036456,Wilcken Groep
+Education,1047716,Govarts & Coret
+Entertainment,1096178,Koninklijke van der Meer
+Healthcare,1037888,van Velthoven & Langevoort
+Technology,1040168,Menzis
+Healthcare,1059546,Korstman & van de Wal
+Entertainment,1007068,Verbeek Groep
+Energy,1069678,Verhaar BV
+Food and Beverage,1097354,van de Wal Groep
+Food and Beverage,1063658,Vitens
+Manufacturing,1008050,Weijland BV
+Transportation,1023642,Koninklijke van Drenthe
+Education,1079237,van Embden & Zwart
+Education,1061386,Value8
+Healthcare,1005081,Mens BV
+Transportation,1084267,Horrocks BV
+Healthcare,1010200,Ouwerkerk & Boer
+Manufacturing,1024896,Huisman
+Food and Beverage,1067848,Brandt Groep
+Education,1063800,van Mook Groep
+Energy,1056452,Stichting Dachgeldt
+Retail,1095831,Brumleve & Timmermans
+Retail,1058681,Doornhem BV
+Technology,1040395,van Formbach & Giselmeyer
+Entertainment,1070841,Koninklijke Le Marec
+Entertainment,1077449,de Man NV
+Manufacturing,1057232,van der Schuijt Groep
+Retail,1016017,Huurdeman & van der Heyden
+Retail,1088797,Royal le Briel
+Healthcare,1048733,Dekker & Buijs
+Healthcare,1054427,Royal van der Linden
+Transportation,1052256,Beernink NV
+Education,1060756,Stichting van Wel
+Retail,1027996,VDL Group
+Entertainment,1022353,Avery Dennison
+Technology,1060990,Stichting Eelman
+Retail,1094492,van der Laar Groep
+Healthcare,1065289,Walter NV
+Healthcare,1009931,Brabant Alucast
+Food and Beverage,1034310,Stinis NV
+Transportation,1074129,Vergeer BV
+Healthcare,1015839,van den Wittenboer NV
+Retail,1004761,Unica
+Manufacturing,1033327,Stichting van Arnsberg
+Transportation,1023720,RFS Holland
+Retail,1063251,Koninklijke van Allemanië
+Energy,1052277,CBRE Group
+Manufacturing,1080004,Rackham NV
+Healthcare,1055976,Stichting van Laarhoven
+Food and Beverage,1037984,Scheffers & Claassen
+Retail,1073696,Blom & Brizee
+Retail,1002196,ING
+Entertainment,1066346,Bidvest Deli XL
+Manufacturing,1012638,de Gruil & Cornelisz
+Technology,1069050,Frankhuizen BV
+Entertainment,1029070,Wutke & van Ginneke
+Healthcare,1097311,Remeha Group
+Education,1018721,Gerritse & Weyland
+Entertainment,1050885,Royal Jorlink
+Food and Beverage,1046842,Chrodtrud Groep
+Healthcare,1051786,van der Noot & Jdotte
+Food and Beverage,1050877,Everde Groep
+Healthcare,1067108,Royal Hoes
+Manufacturing,1015493,Stichting Kronenberg
+Transportation,1088241,Emté
+Healthcare,1031528,van der Velde NV
+Energy,1061427,Royal van 't Wel
+Food and Beverage,1061585,Centraal Boekhuis
+Healthcare,1097259,Stichting van de Ven
+Technology,1045002,Royal Hollander
+Healthcare,1086707,Booking.com
+Retail,1045172,Zaal Groep
+Energy,1010677,Stichting Knuf
+Education,1099894,Koninklijke Schagen
+Healthcare,1082244,Moet & le Gulcher
+Education,1020660,Salet & van Hoevel en van Zwindrecht
+Education,1029501,Koninklijke Honing
+Transportation,1006487,Koninklijke van Mispelen
+Entertainment,1098390,van Mare & Mulder
+Technology,1044716,Zevenboom & Westerburg
+Retail,1022200,Köster & Prins
+Transportation,1011855,Stichting Ligtvoet
+Energy,1019720,NFI
+Food and Beverage,1072697,de Hoog BV
+Manufacturing,1078108,Alphabet Nederland
+Energy,1052968,Stichting Smith
+Technology,1041304,Scherms BV
+Food and Beverage,1066876,van Luinenburg Groep
+Manufacturing,1002259,Royal van Dooren
+Retail,1094223,Royal Cammel
+Entertainment,1091789,Galijn Groep
+Technology,1092888,Koninklijke Tammerijn
+Manufacturing,1088357,Koninklijke Tuithof
+Technology,1053052,Koninklijke Geertsen
+Food and Beverage,1077719,Rek NV
+Healthcare,1018260,Gepa van Bourgondië BV
+Energy,1008096,Honing BV
+Energy,1042899,Damen Shipyard
+Transportation,1024747,Koninklijke van Laar
+Entertainment,1022766,van Beeck & van der Meer
+Retail,1053601,Molenaar Groep
+Food and Beverage,1094164,Meyer BV
+Food and Beverage,1029601,Blom & de Vries
+Energy,1041575,Nek Groep
+Healthcare,1052362,VastNed
+Manufacturing,1043964,van Breugel & Kamp
+Retail,1012132,van Dooren NV
+Education,1033924,van Vlaanderen NV
+Entertainment,1065001,Royal Schilt
+Food and Beverage,1010212,Klein BV
+Healthcare,1032637,Royal van Landen
+Energy,1066265,Fiat Chrysler Automobiles
+Education,1007304,Bol.com
+Education,1088101,Olympia uitzendbureau
+Energy,1023123,Royal Frerichs
+Manufacturing,1052520,Koster & Lafleur
+Technology,1050625,Stichting Wouters van Eijndhoven
+Healthcare,1095763,Royal Hoelen
+Manufacturing,1055298,KPN
+Food and Beverage,1045067,AFAS
+Transportation,1069089,van Kusen Groep
+Food and Beverage,1099383,Verheuvel BV
+Healthcare,1097468,Geneart BV
+Transportation,1065686,Sterkman NV
+Healthcare,1033443,van den Brand BV
+Technology,1085162,Pearle
+Energy,1067093,Burger King
+Entertainment,1076315,SBS Broadcasting
+Retail,1099711,Stichting van Embden
+Healthcare,1048215,van Northeim Groep
+Retail,1026251,de Koning & van der Sloot
+Education,1075926,Portaal
+Transportation,1020819,Schouten BV
+Energy,1049179,Royal van Orleans
+Education,1071566,Koninklijke van der Horst
+Education,1056357,Stichting van Nederlotharingen
+Energy,1019371,van der Horst & Geerling
+Transportation,1001213,Hoogvliet
+Energy,1075325,Koninklijke Nihoe
+Technology,1027893,Koninklijke Verschuere
+Food and Beverage,1042415,Koninklijke Mosa
+Retail,1099822,CCV Holland
+Energy,1096655,Kwaadland NV
+Healthcare,1000367,DSV
+Transportation,1092366,Bouthoorn NV
+Education,1042747,Sarneel & Beourgeois
+Energy,1044737,van Brunswijk & Kunen
+Education,1097106,Oostveen & Verschut
+Manufacturing,1042161,van Doorn & Spruit
+Healthcare,1001286,Dutch Flower Group
+Transportation,1099443,Brugman & van de Berg
+Energy,1097219,de Bruijn NV
+Entertainment,1050670,Royal Woudenberg
+Healthcare,1082744,Koninklijke de Haas
+Transportation,1063779,Stichting van Velthoven
+Technology,1094896,Verharen & Lambers
+Retail,1098495,Stichting Bertho
+Education,1042709,Royal Diesbergen
+Manufacturing,1088075,Opmans & van Dongen
+Retail,1062285,Eijkelboom Groep
+Technology,1064435,Royal Spanhaak
+Education,1078780,Ponci & van Daal
+Energy,1023286,Wright & van 't Wel
+Entertainment,1013564,Osterhoudt & de Kok
+Technology,1020659,Friehus BV
+Food and Beverage,1074443,Royal Bierstraten
+Retail,1011743,Kuijpers NV
+Entertainment,1082155,van de Wiel BV
+Energy,1030819,Jacobs
+Education,1086423,Royal Hulskes
+Food and Beverage,1064638,van de Pavert Groep
+Energy,1098275,Stichting de Keijzer
+Healthcare,1091719,van Bunschoten BV
+Healthcare,1026171,van Laon & Keijser
+Entertainment,1072756,van der Klijn NV
+Energy,1000442,die Pelser & van Nus
+Energy,1026267,Koninklijke van Ooste
+Transportation,1068200,Mens & Schulten
+Energy,1083624,Royal Bleijenberg
+Transportation,1062921,Stichting van Mispelen
+Entertainment,1013158,Stichting Scardino
+Education,1056549,E.On
+Food and Beverage,1030247,Kunen NV
+Healthcare,1087277,van Bruchem & Janssens
+Healthcare,1066744,Atradius
+Transportation,1027096,Hulshouts & Tamsma
+Food and Beverage,1071031,Eaton Industries
+Entertainment,1080953,Foot Locker Europe
+Education,1008042,Beekman & Wright
+Healthcare,1043655,Courtier & Verbeek
+Energy,1054160,Koninklijke Muller
+Healthcare,1008933,Wolfswinkel & Bruynzeels
+Manufacturing,1002073,Stage Entertainment
+Food and Beverage,1085302,Stichting Scuylenborchs
+Food and Beverage,1026775,Vegt BV
+Transportation,1064601,van Drenthe & Everts
+Manufacturing,1074200,De Bijenkorf
+Healthcare,1012526,Royal Walter
+Education,1001711,Stichting van Venrooy
+Healthcare,1068909,Koninklijke Garret
+Food and Beverage,1086990,Koninklijke Backer
+Technology,1006451,van Praagh & Volcke
+Entertainment,1044294,van den Bergh & Huls
+Entertainment,1053145,Geldens Groep
+Entertainment,1019069,ASML
+Transportation,1008092,Stichting Mahieu
+Transportation,1093746,Zeldenrust Groep
+Technology,1042907,Stichting Volcke
+Education,1093145,Relx
+Healthcare,1008420,Muller & Geneart
+Food and Beverage,1044736,In Person
+Transportation,1093440,Cefetra
+Entertainment,1069906,Groen NV
+Food and Beverage,1056225,HDI Global SE
+Food and Beverage,1011008,Becht & van Dokkum
+Education,1010502,Continental Bakeries
+Manufacturing,1001333,Stichting Mulder
+Healthcare,1023502,Koninklijke van de Velden
+Entertainment,1018014,le Floch & Saxo
+Energy,1080745,Stichting Levesque
+Entertainment,1075385,de Gruson & Spanhaak
+Transportation,1028041,Nederlandse Publieke Omroep
+Technology,1036835,van der Smeede Groep
+Healthcare,1039724,Hazenveld NV
+Healthcare,1056311,van der Klijn & van Wallaert
+Manufacturing,1049618,Becht BV
+Education,1086035,van der Brink & van Wassenaar
+Energy,1001841,de Bont & Beourgeois
+Retail,1018892,TenneT
+Education,1023070,SIF group
+Transportation,1083746,van Oirschot NV
+Manufacturing,1076232,Zeldenrust BV
+Energy,1082596,Q-Park
+Energy,1092795,Potters & van der Pouw
+Transportation,1048378,Royal van Daal
+Manufacturing,1062152,van Westfalen & van het Heerenveen
+Entertainment,1054793,Kalman & van Northeim
+Healthcare,1094973,van Oostendorp & van de Pol
+Manufacturing,1047001,Hemma van Allemanië Groep
+Healthcare,1074804,Stichting Schilt
+Energy,1084754,L'Oreal Nederland B.V.
+Energy,1002877,Haring & Jorlink
+Transportation,1004209,Koopman International
+Energy,1033654,Vestia
+Healthcare,1041271,SDU uitgevers
+Technology,1011064,van Dalem & Pauwels
+Healthcare,1090688,Stichting van Gils
+Transportation,1024552,de Jode Vastraedsd NV
+Manufacturing,1054705,Royal van Berkel
+Retail,1077022,Bosch BV
+Transportation,1051930,Sanoma
+Energy,1072438,Stichting Ramaker
+Education,1097018,BDO
+Healthcare,1034341,Royal Holthuis
+Food and Beverage,1010251,Stichting Stettyn
+Retail,1054765,Brunel
+Technology,1062635,Stichting van der Stael de Jonge
+Education,1075611,Bud NV
+Healthcare,1096520,de Wit & Verschut
+Manufacturing,1011232,Ohra Verzekeringen
+Manufacturing,1052184,Hendriks & Lage
+Transportation,1017748,Claassen & Ulrich
+Healthcare,1058633,Wolffel BV
+Transportation,1053699,van Wickerode & van Hagen
+Food and Beverage,1011023,Chotzen & Schakelaar
+Healthcare,1082011,Brandon & Smith
+Transportation,1095285,van Boulogne BV
+Technology,1088860,Gasunie
+Technology,1046608,Gervais & van Gelder
+Healthcare,1019541,Royal van der Meer
+Technology,1015216,Stichter Groep
+Healthcare,1069244,Stichting Timmermans
+Retail,1024846,Stichting Labado
+Transportation,1072753,Koninklijke van Beeck
+Energy,1022260,Perfetti Van Melle
+Transportation,1057019,van het Heerenveen & de Korte
+Healthcare,1076791,Goedhart NV
+Healthcare,1064535,van Holland & van der Maath
+Healthcare,1062206,Gerrits NV
+Healthcare,1099453,Eckhardt & Slaetsdochter
+Healthcare,1054276,Schellekens Groep
+Manufacturing,1043841,NDC Mediagroep
+Technology,1075077,Stichting d' Heripon
+Food and Beverage,1015152,Vandenbergh NV
+Healthcare,1005775,Koninklijke Langevoort
+Healthcare,1068755,Arcadis
+Entertainment,1045890,de Bruin NV
+Manufacturing,1006584,Ten Brinke Groep
+Transportation,1035288,Koninklijke Stoffelsz
+Energy,1013391,Bresse & Latier
+Education,1007179,Royal Grondel
+Healthcare,1086401,Koninklijke Lamotte
+Food and Beverage,1018134,de Marduras NV
+Technology,1030265,van Vermandois & van der Ploeg
+Healthcare,1083321,Croon Elektrotechniek
+Food and Beverage,1081597,Jonker & Lemmens
+Healthcare,1092075,De Heus Diervoeders
+Transportation,1024197,Strik NV
+Entertainment,1040291,Bolsius
+Transportation,1045762,Rouwhorst & Spanhaak
+Energy,1048501,Maas Groep
+Healthcare,1002555,Amalrada & Rehorst
+Healthcare,1000961,Royal van Beek
+Manufacturing,1007935,Royal Jansen
+Healthcare,1062556,Royal de Bock
+Energy,1069332,Veen Bosch & Keuning Uitgeversgroep
+Transportation,1043532,Royal Overdijk
+Energy,1066005,van Dagsburg NV
+Retail,1020815,GVB Amsterdam
+Transportation,1031941,Stichting Lelijveld
+Education,1044169,Bijlsma BV
+Energy,1052752,Mathurin NV
+Technology,1071517,Stichting Bierstraten
+Entertainment,1085929,Jansen & Wigman
+Technology,1001492,Theodoor Gilissen
+Retail,1019825,Mercks & van der Kint
+Healthcare,1018916,Nijman Groep
+Food and Beverage,1062226,Royal Wilcken
+Retail,1017195,Staples Nederland
+Food and Beverage,1098422,Slagmolen & Bakker
+Education,1019352,van Dooren BV
+Transportation,1023330,Royal Heijmen
+Manufacturing,1008850,MSD
+Healthcare,1095309,van den Brink BV
+Healthcare,1080986,Adryaens & Perrono
+Manufacturing,1003792,van Kempen & Oude Heer
+Healthcare,1000647,Rituals
+Education,1092898,van der Avoirt & le Floch
+Manufacturing,1064951,Stichting van der Sloot
+Technology,1033122,van Henegouwen NV
+Technology,1003995,Royal van Luin
+Manufacturing,1045981,Geerts & Heerkens
+Entertainment,1057411,Stichting Die Bont
+Energy,1083904,Meijer & Demmendaal
+Manufacturing,1054510,Stichting Zaal
+Technology,1014473,Royal Die Bont
+Healthcare,1012252,Stichting de Bruijn
+Energy,1009886,Royal van der Loo
+Entertainment,1015408,Lemmens & de Gratie
+Retail,1089609,Royal Palman
+Healthcare,1045853,Wooning Groep
+Manufacturing,1049754,van Ochten & van 't Wel
+Manufacturing,1000862,Mediamarkt
+Transportation,1092636,VodafoneZiggo
+Energy,1065634,Roosenboom BV
+Food and Beverage,1060034,Coreth von und zu Coredo und Starkenberg & van Oirschot
+Food and Beverage,1033822,Unilever
+Manufacturing,1007598,Gamma
+Retail,1023879,van Dillen NV
+Food and Beverage,1097868,Stichting Rousselet
+Healthcare,1035509,McDonalds
+Healthcare,1060323,Schagen Groep
+Healthcare,1011338,van Asten Groep
+Transportation,1036500,Aebi Schmidt Nederland
+Healthcare,1069201,Stichting van der Spaendonc
+Education,1057756,Koninklijke Gepa van Bourgondië
+Healthcare,1022729,PostNL
+Healthcare,1000644,Bosch & van Parijs
+Retail,1071487,Aschman & van Lucel
+Healthcare,1037014,AgruniekRijnvallei
+Education,1041095,Molen BV
+Healthcare,1021047,Koninklijke Haack
+Food and Beverage,1018873,van Rijnsbergen NV
+Food and Beverage,1087888,de Gruil NV
+Healthcare,1086869,Postma & Bolkesteijn
+Healthcare,1018710,van der Veiver & van der Laarse
+Education,1066443,Bluewater
+Technology,1038153,Royal Sanders
+Retail,1040050,le Matelot BV
+Transportation,1023407,Levesque Groep
+Technology,1066989,van Dalem & Bosch
+Manufacturing,1092911,Baker Tilly Berk
+Education,1089673,Lorreijn & van Loon
+Retail,1005957,Simon Loos
+Retail,1020960,Koninklijke Chotzen
+Transportation,1080848,Mansvelt NV
+Technology,1077208,Multi Corporation
+Retail,1074729,Fiere & van Oirschot
+Transportation,1043671,Beernink & van Dommelen
+Entertainment,1088982,Stichting Gellemeyer
+Education,1077275,Koninklijke le Gallen
+Healthcare,1099385,Wagenvoort & Hoppenbrouwer
+Transportation,1073243,Uittenbosch & Stook
+Transportation,1036105,Gerritse BV
+Healthcare,1093883,Koninklijke van der Wal
+Manufacturing,1081040,Stichting Jansen
+Entertainment,1030227,Sanders & Mallien
+Food and Beverage,1085598,FloraHolland
+Education,1049121,van Ginkel Groep
+Healthcare,1095229,Royal van den Bergh
+Retail,1008029,Royal Aelftrud van Wessex
+Education,1044890,Neways
+Entertainment,1042706,de Beer BV
+Healthcare,1079813,Blewanus NV
+Healthcare,1095157,Stichting van der Leek
+Transportation,1025791,BMW Nederland
+Education,1080402,Jansdr & de Bruin
+Manufacturing,1023536,Alcatel-Lucent
+Energy,1004737,Broeshart NV
+Energy,1064965,Koninklijke Wolfsdr
+Energy,1082194,Henric van den Nuwenhuse & Dachgeldt
+Transportation,1088497,Koninklijke Kalman
+Healthcare,1059292,van Zwaben & Lambregt
+Technology,1008618,Oda & van Wickerode
+Healthcare,1050324,Stichting van Goerle
+Healthcare,1070955,Koninklijke Sitters
+Entertainment,1097395,Hekker & de Nijs
+Healthcare,1085586,Stichting Ulrich
+Entertainment,1009949,Adryaens & Terry
+Food and Beverage,1053305,Kuipers Groep
+Transportation,1077466,Royal Uittenbosch
+Manufacturing,1083970,Beernink & Buijs
+Manufacturing,1072292,Warner Bros/Eyeworks
+Energy,1012316,Wilson Groep
+Transportation,1085058,Koninklijke van Holland
+Energy,1033891,Linschoten & Coret
+Healthcare,1023029,Koninklijke Bruynzeels
+Retail,1073448,Kirpenstein BV
+Entertainment,1066497,Arriva
+Healthcare,1028926,Harvey Nash
+Transportation,1095110,Jdotte BV
+Manufacturing,1071705,Royal Glasses
+Food and Beverage,1056431,DAS
+Technology,1087736,der Kijnder NV
+Entertainment,1037814,Dorsman Groep
+Education,1082664,van der Pol BV
+Entertainment,1050797,van Gent & Hendriks
+Entertainment,1055726,Bosch Groep
+Energy,1084603,Stichting Massa
+Education,1076442,van den Oever & van Venrooy
+Food and Beverage,1097818,Achmea
+Retail,1063770,Passchiers Groep
+Transportation,1058000,van Schweinfurt & Aeije
+Technology,1072564,Capgemini
+Technology,1075363,Strik Groep
+Energy,1078153,Kramp
+Technology,1068377,Hanos
+Retail,1046327,Stichting Claesner
+Food and Beverage,1004837,BMC
+Healthcare,1058364,Roukes & van Kempen
+Manufacturing,1096469,Beourgeois & van Bovene
+Transportation,1009425,van den Berg & Mol
+Healthcare,1096979,Overeem & van Bernicia
+Manufacturing,1023954,van Este Groep
+Manufacturing,1016580,de Jager & Verbeek
+Retail,1011792,van Herstal BV
+Healthcare,1009012,Huijben Groep
+Entertainment,1075496,Royal Adelaar
+Technology,1013227,Cisco
+Healthcare,1071048,Stichting Schenkel
+Energy,1014647,Stichting van Hemert
+Healthcare,1039684,Stichting van Enschot
+Manufacturing,1016723,Gerritsen BV
+Food and Beverage,1044903,Stichting Buijs
+Transportation,1017235,Nyrstar holding
+Energy,1058530,Verbeek BV
+Technology,1074095,Stichting Bosman
+Food and Beverage,1053139,Hoelen BV
+Entertainment,1074003,Gerrits & Hanegraaff
+Manufacturing,1066209,Acer
+Transportation,1009907,Raben Group
+Education,1075315,Zwart Groep
+Education,1068075,Solsona Ltd
+Retail,1002340,Enríquez LLC
+Education,1057878,"Canet, Rueda and Pelayo"
+Transportation,1034379,"Portero, Reina and Sanz"
+Manufacturing,1027039,Galindo-Galvez
+Healthcare,1088142,"Diaz, Montalbán and Sotelo"
+Energy,1000164,Mur and Sons
+Healthcare,1078420,Galan PLC
+Healthcare,1091133,Arjona Ltd
+Healthcare,1094519,Carrera-Dominguez
+Manufacturing,1077916,Almeida-Blazquez
+Transportation,1031982,Abad-Ferrer
+Healthcare,1009355,"Castrillo, Álvaro and Romero"
+Healthcare,1052610,Peralta-Mateu
+Energy,1012680,Aguiló Ltd
+Healthcare,1019072,Atienza LLC
+Healthcare,1098734,Calvo Inc
+Healthcare,1006602,"Espada, Coello and Fernandez"
+Transportation,1015514,Corbacho-Criado
+Education,1043026,Becerra-Luz
+Technology,1094197,Morcillo-Rodríguez
+Transportation,1018976,Sanz PLC
+Education,1011799,Sánchez Ltd
+Healthcare,1088938,"Ferrández, Barral and Quero"
+Healthcare,1022219,Echevarría-Nogués
+Food and Beverage,1021254,Villanueva-Ramírez
+Healthcare,1061926,"Huguet, Berenguer and Domínguez"
+Transportation,1046520,"Solsona, Bellido and Franch"
+Education,1001266,Barranco-Arjona
+Retail,1086135,Vilalta-Quevedo
+Education,1044673,Porras-Batalla
+Energy,1092882,"Beltran, Jódar and Gárate"
+Healthcare,1084994,Madrigal-Castrillo
+Education,1008518,"Pardo, Gomis and Guillén"
+Entertainment,1021086,"Moliner, Ferrándiz and Romero"
+Food and Beverage,1033977,Sanz-Pujadas
+Healthcare,1048970,Cortes-Lluch
+Healthcare,1069471,Guijarro Ltd
+Energy,1032851,Múñiz-Frías
+Technology,1092557,Redondo PLC
+Retail,1031353,"Gimenez, Andrés and Escrivá"
+Retail,1001320,Figuerola-Lloret
+Healthcare,1056512,Haro-Pedro
+Technology,1075087,Chamorro-Ledesma
+Healthcare,1049228,Crespi-Iglesia
+Entertainment,1083468,"Diez, Rivas and Iborra"
+Retail,1003404,"Luís, Gallego and Castro"
+Energy,1090684,Sancho-Conesa
+Healthcare,1049612,Lloret and Sons
+Transportation,1099404,"Asensio, Iniesta and Barroso"
+Retail,1000855,Valentino SPA
+Technology,1046558,"Tebaldi, Antonioni e Battelli SPA"
+Retail,1045238,Ginese-Ovadia e figli
+Healthcare,1097347,"Bernini, Agnesi e Matteotti SPA"
+Entertainment,1022619,Angeli-Mengolo s.r.l.
+Entertainment,1021293,Traversa-Perozzo Group
+Education,1063017,"Morgagni, Berrè e Jacuzzi SPA"
+Healthcare,1021152,Cuomo SPA
+Healthcare,1011982,Durante s.r.l.
+Transportation,1026991,"Leblanc, Turrini e Bresciani SPA"
+Energy,1084966,Polesel-Tamburi SPA
+Entertainment,1069900,"Borroni, Coardi e Giannuzzi s.r.l."
+Retail,1081940,"Nonis, Duse e Mercalli s.r.l."
+Technology,1031780,"Molesini, Barcella e Trapani s.r.l."
+Food and Beverage,1056005,"Trotta, Buscetta e Trentin s.r.l."
+Entertainment,1016349,Comencini-Guidotti e figli
+Food and Beverage,1030318,Mogherini Group
+Retail,1071032,Berengario-Rusticucci Group
+Entertainment,1013531,Gori SPA
+Healthcare,1006696,Pelli-Cesaroni SPA
+Healthcare,1093725,Maspero-Tremonti s.r.l.
+Healthcare,1044693,Carnera e figli
+Retail,1023871,Ferrara SPA
+Manufacturing,1024371,Calarco s.r.l.
+Technology,1087040,Borsiere Group
+Retail,1090537,Spółdzielnia Sondej-Sterna i syn s.c.
+Healthcare,1016283,Groborz-Zbróg Sp. z o.o. Sp.k.
+Manufacturing,1021048,PPUH Drygas-Amanowicz Sp. z o.o.
+Entertainment,1045216,Stowarzyszenie Hamerla
+Energy,1078209,Grupa Fabiszak Sp. z o.o. Sp.k.
+Food and Beverage,1028286,Gabinety Błażejczak
+Healthcare,1044233,Szramka-Olas s.c.
+Retail,1008767,PPUH Gosz s.c.
+Energy,1067195,FPUH Jasina-Gzyl Sp.k.
+Transportation,1099558,Stowarzyszenie Cyganik-Małycha Sp. z o.o.
+Transportation,1071220,PPUH Liss Sp. z o.o. Sp.k.
+Food and Beverage,1068089,Spółdzielnia Krzempek-Kopała Sp. z o.o.
+Food and Beverage,1052647,Stowarzyszenie Żołądkiewicz
+Healthcare,1021317,FPUH Połetek-Krenc Sp. z o.o.
+Retail,1084549,Fundacja Zbroja
+Retail,1096761,PPUH Falba
+Energy,1015154,Spółdzielnia Kononowicz
+Food and Beverage,1020607,Fundacja Poleszak-Jacak S.A.
+Transportation,1099204,PPUH Chojna Sp. z o.o.
+Education,1087272,Nagel Sp. z o.o. Sp.k.
+Food and Beverage,1004624,FPUH Rembisz-Misiaszek i syn s.c.
+Technology,1069726,PPUH Noculak s.c.
+Technology,1018015,Janc Sp.j.
+Retail,1090312,Fundacja Walasik Sp. z o.o. Sp.k.
+Food and Beverage,1060649,Łuczka-Dumin i syn s.c.
+Education,1091361,Bazyluk Sp. z o.o.
+Entertainment,1081565,Fundacja Hanus S.A.
+Entertainment,1086628,Kolbusz Sp.j.
+Education,1083247,Gabinety Żurawik Sp. z o.o. Sp.k.
+Retail,1007770,Henke-Sochaj Sp.k.
+Energy,1021494,Fundacja Czupryna Sp.k.
+Healthcare,1080059,Demiańczuk-Gadzina Sp.k.
+Transportation,1058320,Kazana Sp.k.
+Healthcare,1025831,Kapciak-Sałuda Sp. z o.o.
+Entertainment,1061043,Neubauer-Labocha Sp.j.
+Technology,1052403,Gabinety Rabiej-Prejs S.A.
+Entertainment,1036584,Stowarzyszenie Siwka S.A.
+Healthcare,1020491,Kohut-Balcewicz Sp.j.
+Education,1034908,Grupa Pazik-Kościukiewicz Sp.k.
+Healthcare,1076018,Lenik Sp. z o.o.
+Healthcare,1030001,Cecot-Walenciak Sp. z o.o.
+Transportation,1041645,Smoter-Falba Sp.k.
+Healthcare,1071200,Grupa Drewnik
+Retail,1045525,Spółdzielnia Jeżyna Sp. z o.o.
+Manufacturing,1018881,Rychert Sp.k.
+Transportation,1073755,Grupa Wasyluk Sp.j.
+Transportation,1061439,Spółdzielnia Bazela-Nalazek Sp. z o.o.
+Entertainment,1040063,Stowarzyszenie Bittner Sp. z o.o.
+Entertainment,1030228,Fura-Pacura Sp. z o.o. Sp.k.
+Education,1061068,Spółdzielnia Szajda-Krzyśko Sp.k.
+Healthcare,1045085,Gabinety Walus-Duc i syn s.c.
+Retail,1051428,Fundacja Rubin S.A.
+Healthcare,1093131,Marat Sp.j.
+Manufacturing,1098857,Grupa Stypa Sp. z o.o.
+Transportation,1004309,Spółdzielnia Siejak s.c.
+Healthcare,1075733,Spółdzielnia Miszkurka
+Energy,1018900,Gabinety Tryc
+Transportation,1006401,Wojtyś Sp. z o.o.
+Manufacturing,1044001,Gabinety Szczechowicz i syn s.c.
+Food and Beverage,1060941,Zaraś-Pawlonka Sp. z o.o.
+Retail,1029739,Gabinety Deszcz s.c.
+Manufacturing,1027752,Skwira i syn s.c.
+Healthcare,1045719,Nalewajko S.A.
+Food and Beverage,1011292,Chalimoniuk Sp. z o.o.
+Manufacturing,1093393,Stowarzyszenie Józefczak Sp.k.
+Healthcare,1073296,Budych-Superson Sp. z o.o.
+Healthcare,1061965,FPUH Kus Sp.k.
+Technology,1072206,Gabinety Cis s.c.
+Entertainment,1093219,Stowarzyszenie Oczko Sp. z o.o.
+Healthcare,1093830,Grupa Zera S.A.
+Entertainment,1076360,PPUH Łaś Sp.k.
+Technology,1054776,FPUH Godzisz Sp. z o.o.
+Energy,1085021,Worach-Rogula s.c.
+Healthcare,1046946,Stowarzyszenie Szott-Kudra Sp.j.
+Transportation,1096496,Ochnik s.c.
+Entertainment,1034874,Björklund & Petersson HB
+Technology,1097136,Berglund Gustavsson HB
+Technology,1070574,Olsson & Franzén HB
+Transportation,1028920,Johansson & Lindgren AB
+Retail,1067204,Johansson HB
+Healthcare,1068522,Johansson AB
+Retail,1017176,Bengtsson Hallberg HB
+Entertainment,1057142,Pettersson AB
+Transportation,1036718,Mårtensson & Larsson HB
+Healthcare,1063856,Svensson Strömberg AB
+Healthcare,1050553,Andersson Johansson AB
+Retail,1015284,Pettersson Lindblom HB
+Energy,1001894,Pettersson Jonsson AB
+Education,1077562,Gustavsson Johansson HB
+Healthcare,1000260,Nilsson Svensson HB
+Healthcare,1033416,Olsson HB
+Entertainment,1009578,Jonsson AB
+Transportation,1083937,Persson Samuelsson HB
+Healthcare,1067915,Nyberg AB
+Food and Beverage,1002559,Öhman AB
+Food and Beverage,1046137,Jaakkola Saari Tmi
+Manufacturing,1062397,Kemppainen Ky
+Healthcare,1089490,Korhonen Sallinen Oyj
+Transportation,1015658,Koivisto Oyj
+Entertainment,1023850,Peltonen Kokko Ky
+Healthcare,1063809,Asikainen ry
+Healthcare,1026626,Tuomi Oyj
+Retail,1098602,Heiskanen Nykänen Ky
+Energy,1097076,Mattila Lehto As Oy
+Education,1096863,Aaltonen Halonen Oy
+Transportation,1021240,Härkönen Hyvönen Oyj
+Education,1010407,Ikonen Tmi
+Food and Beverage,1012331,Ruotsalainen
+Technology,1009488,Heikkinen
+Healthcare,1014619,Kangas ry
+Transportation,1059591,Korpela
+Entertainment,1047736,Peltonen
+Transportation,1055684,Koivula Salminen Oyj
+Healthcare,1007831,Ahonen Tmi
+Technology,1007658,Lindholm Vuorinen Oy
+Healthcare,1046849,Manninen Sihvonen ry
+Entertainment,1086602,Heinonen Kemppainen Oyj
+Retail,1084531,Kallio ry
+Entertainment,1011913,Kyllönen
+Healthcare,1029916,Hirvonen
+Education,1074616,Pulkkinen Niskanen Oy
+Manufacturing,1004177,Parkkinen
+Energy,1039229,Holmström Eskola Oyj
+Energy,1059096,Lehtinen Juntunen Tmi
+Energy,1094774,Jokela
+Retail,1017716,Koivunen Kujala Oyj
+Healthcare,1090389,Koskinen
+Transportation,1071548,Matilainen Leino ry
+Energy,1035701,Hautala Mäkelä ry
+Healthcare,1058978,Ahokas Uusitalo Oy
+Technology,1022721,Mattsson Pasanen Osk
+Manufacturing,1042616,Mäkinen Salo Osk
+Food and Beverage,1052975,Koivisto Oy
+Technology,1051934,Niemelä Lepistö Osk
+Manufacturing,1043166,Holm As Oy
+Food and Beverage,1076874,Makkonen Seppälä As Oy
+Energy,1029772,Kankaanpää Osk
+Technology,1079507,Penttilä Meriläinen Oyj
+Healthcare,1060964,Tähtinen Osk
+Technology,1050329,Saarinen Salmi Oyj
+Healthcare,1033420,Korhonen
+Transportation,1081077,Karttunen
+Healthcare,1071559,Parviainen
+Manufacturing,1024998,Salminen As Oy
+Transportation,1094265,Kärkkäinen Karjalainen Osk
+Entertainment,1007196,Moilanen Lindroos Osk
+Technology,1099154,Lindfors Lahti Oy
+Manufacturing,1031959,Halonen Salonen Ky
+Entertainment,1078954,Savolainen As Oy
+Retail,1070465,Valtonen
+Education,1096348,Kovanen Immonen Ky
+Entertainment,1043437,Linna Eklund Oy
+Healthcare,1042054,Laukkanen Kettunen Oy
+Healthcare,1054650,Immonen Oy
+Technology,1025372,Hokkanen
+Energy,1071392,Jaatinen
+Retail,1099931,Martikainen Määttä Osk
+Healthcare,1018255,Immonen Nieminen Ky
+Energy,1030177,Ahonen Heinonen Oyj
+Education,1081279,Virtanen Markkanen As Oy
+Manufacturing,1020824,Hytönen Jussila Oyj
+Technology,1004459,Rantala
+Food and Beverage,1001114,Leino ry
+Energy,1095514,Heino Keinänen Oy
+Healthcare,1089542,Lindroos
+Technology,1049427,Ranta
+Retail,1087467,Kilpeläinen
+Food and Beverage,1052099,Laine
+Retail,1025539,Korhonen Venäläinen Osk
+Energy,1064837,Leinonen Rinne Tmi
+Healthcare,1015442,Niemi As Oy
+Transportation,1040202,Haapaniemi Mäkelä ry
+Entertainment,1056025,Leppänen
+Food and Beverage,1006012,Hietanen Turpeinen Ky
+Entertainment,1042898,Kiviniemi
+Food and Beverage,1054692,Hautamäki Laakkonen Tmi
+Retail,1027756,Nuutinen Laurila Osk
+Manufacturing,1000947,Tamminen
+Transportation,1050855,Halonen Helin ry
+Healthcare,1015519,Leinonen Keränen As Oy
+Healthcare,1064003,Heikkilä Lehtinen Ky
+Energy,1019875,Nuutinen Kallio Ky
+Healthcare,1048669,Kainulainen Pääkkönen ry
+Entertainment,1075061,Laaksonen Rantanen Ky
+Healthcare,1057112,Marttila Karppinen Osk
+Healthcare,1052041,Kallio
+Food and Beverage,1053767,Lahti Valkama Oy
+Healthcare,1000985,Aho Oy
+Healthcare,1031057,Taipale
+Transportation,1058093,Haapala Mäntylä Oy
+Healthcare,1071741,Räisänen Vuorela Osk
+Transportation,1004954,Aalto
+Entertainment,1077165,Laakkonen Vainio Oy
+Education,1075480,Pelkonen Ikonen Osk
+Education,1082735,Laiho Salminen Oy
+Retail,1052512,Daniels PLC
+Healthcare,1085070,"Nash, Arnold and Wilson"
+Healthcare,1070384,Williams-Hernandez
+Education,1033579,"Davidson, Ryan and Hinton"
+Education,1034875,West Ltd
+Retail,1054517,"Ferguson, Cuevas and Morgan"
+Manufacturing,1081179,Simmons and Sons
+Healthcare,1001987,"Scott, Wagner and Jimenez"
+Healthcare,1095308,Coleman PLC
+Manufacturing,1070139,Arellano LLC
+Manufacturing,1041384,Howard-Harris
+Food and Beverage,1015763,Ibarra-Anderson
+Transportation,1033343,"Gonzalez, Baker and Thompson"
+Healthcare,1054516,"Miller, Andersen and Brown"
+Healthcare,1025968,Blake-Adkins
+Manufacturing,1085902,Jimenez Ltd
+Entertainment,1007648,Suarez PLC
+Transportation,1087894,Koch-Washington
+Entertainment,1044270,"Wiley, Ellison and Murray"
+Healthcare,1003288,Nelson-Kelly
+Healthcare,1030938,Cummings-Smith
+Technology,1005687,Johnson-Hester
+Education,1090003,"Johnston, Jackson and Phillips"
+Entertainment,1087107,Rodriguez Inc
+Education,1037912,Brown and Sons
+Transportation,1039397,"Bowman, Simon and Pierce"
+Entertainment,1005749,Porter-Ford
+Healthcare,1098932,Smith Group
+Energy,1029991,"White, Wood and Mitchell"
+Energy,1015222,Kelly LLC
+Technology,1006587,Dixon and Sons
+Entertainment,1075760,"Williams, Walker and Brandt"
+Transportation,1016422,Clark-Bright
+Entertainment,1041502,Foster-Cuevas
+Technology,1046621,Johnson-Russell
+Entertainment,1039458,"Ramirez, Rice and Harris"
+Education,1070023,Lopez-Winters
+Technology,1097478,Grimes PLC
+Retail,1019718,Harrison LLC
+Transportation,1097381,Davis-Byrd
+Food and Beverage,1011321,Lawson-Thomas
+Energy,1074454,"Dyer, Johnson and Harper"
+Healthcare,1068319,Casey-Lane
+Healthcare,1097701,Vazquez-Campbell
+Technology,1093575,"Kim, Coffey and Ortega"
+Education,1012936,Lynch-Smith
+Food and Beverage,1005648,"Lewis, Webb and Hickman"
+Transportation,1028320,"Johnson, Monroe and Mcbride"
+Energy,1022206,Taylor-Howard
+Healthcare,1034400,"Hamilton, Brooks and Diaz"
+Manufacturing,1036665,"Reed, Johnson and Nichols"
+Transportation,1038600,"Ray, Dickson and Jones"
+Manufacturing,1064691,Powell LLC
+Transportation,1078117,Hernandez-Guzman
+Food and Beverage,1041181,"Hendrix, Murray and Ramirez"
+Transportation,1009726,"Stevens, Baker and Duncan"
+Healthcare,1001756,Chavez-Dodson
+Entertainment,1012138,Greene PLC
+Healthcare,1053670,Combs-Thompson
+Healthcare,1097139,Hawkins LLC
+Manufacturing,1069947,Osborne Ltd
+Healthcare,1004939,Ford Group
+Entertainment,1020774,Hickman Ltd
+Transportation,1033584,"Richardson, Lang and Smith"
+Manufacturing,1007523,"Massey, Cooper and Bates"
+Healthcare,1098175,Green and Sons
+Healthcare,1033586,"Ferrell, Duncan and Reilly"
+Food and Beverage,1040122,"Campbell, Sawyer and Jackson"
+Energy,1024353,Parker-Price
+Healthcare,1080862,"Cross, Butler and Wilson"
+Food and Beverage,1091125,Hardin-Phillips
+Education,1022349,"Stevenson, Robinson and Murphy"
+Technology,1010987,Miller-Rodriguez
+Technology,1097043,White-Reynolds
+Education,1097764,Smith Ltd
+Healthcare,1012527,"Flores, Newman and Fernandez"
+Energy,1096802,Decker Ltd
+Food and Beverage,1022014,Hill Group
+Healthcare,1012467,Stevens Ltd
+Food and Beverage,1042605,"Murphy, Jones and Garza"
+Education,1025145,Mann Inc
+Manufacturing,1002257,"Manning, Graham and Stephens"
+Manufacturing,1008450,Ali-Thompson
+Transportation,1070317,"Mckinney, George and Jones"
+Healthcare,1035435,"Garcia, Smith and Harrison"
+Energy,1049004,"Cannon, Brown and Carrillo"
+Retail,1016658,Jimenez-Smith
+Transportation,1021822,"Arellano, Golden and Johnson"
+Energy,1084019,"Hall, Page and Thomas"
+Education,1045360,Gilbert-James
+Entertainment,1000459,Francis PLC
+Food and Beverage,1074585,"Vargas, Zhang and Chandler"
+Food and Beverage,1017943,Torres-Olson
+Healthcare,1009811,"Rubio, Sherman and Washington"
+Healthcare,1016603,Ball Group
+Entertainment,1095880,Thompson Ltd
+Transportation,1036805,Mcdonald-Hansen
+Retail,1059481,Daugherty-Brown
+Energy,1039499,Stephens PLC
+Retail,1038134,White-Dean
+Transportation,1025611,Nguyen LLC
+Education,1028747,Avila-Werner
+Transportation,1057167,"Chang, Thompson and Cherry"
+Retail,1060460,Blake-Kidd
+Transportation,1032220,Hernandez-Adams
+Technology,1002710,Ramirez Ltd
+Healthcare,1085653,Hanson Inc
+Food and Beverage,1055788,"Smith, Alexander and Evans"
+Energy,1070495,Hicks-Trevino
+Healthcare,1015214,"Hawkins, Mendoza and Graves"
+Food and Beverage,1005763,Campbell Ltd
+Technology,1095062,Jones Inc
+Retail,1098354,"Brennan, Myers and Johnson"
+Healthcare,1053220,Bell-Olson
+Education,1062441,"Fitzgerald, Orr and Rodriguez"
+Healthcare,1021506,Valentine Inc
+Transportation,1065749,Baxter Ltd
+Food and Beverage,1036963,"Sawyer, Norris and Avila"
+Healthcare,1083600,"Stein, Perez and Acosta"
+Healthcare,1062339,Simmons Inc
+Energy,1094890,Lang LLC
+Education,1049162,Hall-Davis
+Transportation,1030710,Horne and Sons
+Transportation,1097401,Howard-Chavez
+Retail,1077750,"Jackson, May and Anderson"
+Manufacturing,1083835,"Armstrong, Mosley and Lyons"
+Transportation,1034569,Kennedy Group
+Education,1021717,Mack-Horton
+Education,1027301,"Garcia, Griffin and Watson"
+Entertainment,1080677,"Delacruz, Daniels and Rogers"
+Healthcare,1072196,Brewer-Holder
+Transportation,1068192,Oliver Ltd
+Technology,1010838,"Smith, Rice and Stone"
+Retail,1078966,"Schaefer, Nelson and Alvarez"
+Manufacturing,1061943,Wilson PLC
+Manufacturing,1048124,Campos Inc
+Retail,1089213,Washington-Soto
+Manufacturing,1033267,Adams and Sons
+Retail,1066352,Bernard Inc
+Manufacturing,1037618,Garcia LLC
+Food and Beverage,1053795,"Williams, Melton and Hughes"
+Healthcare,1075331,Hensley-Hale
+Manufacturing,1059613,"Hensley, Jones and Silva"
+Technology,1035595,"Terry, Stone and Booth"
+Technology,1090602,Myers Inc
+Technology,1064736,"Ross, Singleton and Garcia"
+Energy,1068324,Davis Ltd
+Food and Beverage,1054347,Garcia-Dean
+Food and Beverage,1029055,Mendoza Group
+Transportation,1049396,Young-Lambert
+Energy,1076848,Powell and Sons
+Transportation,1080378,"David, Meyer and Romero"
+Transportation,1020046,Petty PLC
+Healthcare,1090914,"Pierce, Moreno and Smith"
+Retail,1071069,"Ford, Jones and Jackson"
+Manufacturing,1015163,"Juarez, Macias and Hall"
+Healthcare,1076302,Wheeler-Powell
+Healthcare,1020935,Dunn Inc
+Education,1054709,Davidson LLC
+Healthcare,1057215,Wiley and Sons
+Transportation,1019629,"Fischer, Rodgers and Wood"
+Food and Beverage,1074761,Duarte-Curtis
+Energy,1018508,Gregory Inc
+Manufacturing,1012394,Davenport Inc
+Energy,1031326,Watkins Group
+Entertainment,1067794,Jones-Oliver
+Education,1040552,Hall-Simpson
+Healthcare,1083027,Reyes-Sullivan
+Food and Beverage,1085867,"Greer, Miller and Ramirez"
+Manufacturing,1087973,"Anderson, Evans and Howe"
+Healthcare,1075217,"Flores, Perry and Hoffman"
+Entertainment,1033966,Williams-Atkinson
+Transportation,1043376,"Johnson, Patrick and White"
+Healthcare,1029031,Black and Sons
+Energy,1013624,Chavez-Bass
+Food and Beverage,1079364,Anderson Inc
+Manufacturing,1052399,Parks Inc
+Entertainment,1071201,"Hunter, Gonzalez and Ward"
+Entertainment,1086034,Turner-Patterson
+Education,1083051,"Gordon, Hall and Walker"
+Retail,1032385,Moreno Ltd
+Retail,1003934,"Wheeler, Fox and Scott"
+Entertainment,1096137,"Harrington, Chung and Davis"
+Energy,1074562,Mccoy Ltd
+Entertainment,1039869,Lynch-Boyer
+Energy,1071182,Oliver-Calderon
+Entertainment,1000070,"Haynes, Hunt and Bowman"
+Education,1056969,Morris-Smith
+Transportation,1020219,"Calderon, Rosales and Boyd"
+Manufacturing,1094384,Holloway-Clark
+Healthcare,1016132,Sanchez-Reynolds
+Energy,1080185,Miller LLC
+Education,1064630,"Lynch, Moore and Hopkins"
+Healthcare,1091545,West-Holder
+Healthcare,1039164,Hutchinson-Anderson
+Manufacturing,1008666,Blanchard-Harris
+Technology,1092336,Bennett-Davis
+Energy,1090569,Potter and Sons
+Entertainment,1014465,Moore-Logan
+Food and Beverage,1035796,"Leon, Jackson and Perez"
+Technology,1058257,"Wallace, Brandt and Gray"
+Healthcare,1045258,Page-Martinez
+Healthcare,1000974,Dawson-Ortiz
+Energy,1012058,Green Ltd
+Technology,1049472,Pennington-Harrington
+Transportation,1043085,Drake-Arnold
+Food and Beverage,1059795,Castillo-Johnson
+Healthcare,1036762,"Bush, Jones and Castillo"
+Energy,1011001,"Reed, Alexander and Whitaker"
+Education,1031862,Soto Ltd
+Retail,1079700,"Bates, Stewart and Williams"
+Healthcare,1062012,Romero-Cisneros
+Energy,1067697,Romero-Martinez
+Healthcare,1050330,Ramirez-Lee
+Food and Beverage,1040852,Young and Sons
+Food and Beverage,1021710,"Franco, Reynolds and Reynolds"
+Retail,1052378,Carter Ltd
+Retail,1046404,Walker Group
+Transportation,1086477,Chen and Sons
+Food and Beverage,1008896,"Chen, Ryan and Black"
+Energy,1063266,Simmons PLC
+Manufacturing,1050905,Caldwell LLC
+Technology,1019156,Turner PLC
+Transportation,1081319,Preston-Whitaker
+Food and Beverage,1060086,Moore-Anderson
+Food and Beverage,1063044,Richards PLC
+Food and Beverage,1001934,Robinson and Sons
+Transportation,1085173,"Dennis, Rosario and Ward"
+Entertainment,1000948,Pollard-Richards
+Education,1016784,Serrano-Caldwell
+Retail,1021042,Hernandez-Rush
+Manufacturing,1057037,"Johnson, Simmons and Lawrence"
+Energy,1090115,Mcclure and Sons
+Retail,1025342,Jones Ltd
+Technology,1036675,Williams-Campbell

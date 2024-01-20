@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title> qnn</title>
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script src="https://code.highcharts.com/modules/series-label.js"></script>
+    <script src="https://code.highcharts.com/modules/histogram-bellcurve.js"></script>
+    <script src="https://code.highcharts.com/modules/heatmap.js"></script>
+    <script type="text/javascript" src="https://code.highcharts.com/modules/stock.js"></script>
+    <script type="text/javascript" src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script type="text/javascript" src="https://code.highcharts.com/modules/accessibility.js"></script>
+  <script>
+    $(document).ready(async () => {
+      (async () => {
+        const usdeur = [{% for item in energy_data %}
+                            {{item|safe}},
+                        {% endfor %}];
+        Highcharts.stockChart('chart', {
+
+          title: {
+            text: 'Energy price at hour {{ time_hr }} in {{ selected_place }}'
+          },
+
+          navigator: {
+            maskInside: false
+          },
+
+          rangeSelector: {
+            selected: 4
+          },
+
+          scrollbar: { enabled: false },
+          navigator: { enabled: false },
+
+          series: [{
+            name: 'Price (EUR/MWh)',
+            data: usdeur
+          }]
+        });
+      })();
+
+
+      // HISTOGRAM chart
+      const data = [{% for item in histogram_data %}
+                            {{item|safe}},
+                        {% endfor %}];
+
+Highcharts.chart('chart3', {
+    title: {
+        text: 'Data Distribution'
+    },
+
+    xAxis: [{
+        title: { text: 'Data' },
+        alignTicks: false
+    }, {
+        title: { text: 'Histogram' },
+        alignTicks: false,
+        opposite: true
+    }],
+
+    yAxis: [{
+        title: { text: 'Data' }
+    }, {
+        title: { text: 'Histogram' },
+        opposite: true
+    }],
+
+    plotOptions: {
+        histogram: {
+            accessibility: {
+                point: {
+                    valueDescriptionFormat: '{index}. {point.x:.3f} to {point.x2:.3f}, {point.y}.'
+                }
+            }
+        }
+    },
+
+    series: [{
+        name: 'Histogram',
+        type: 'histogram',
+        xAxis: 1,
+        yAxis: 1,
+        baseSeries: 's1',
+        zIndex: -1
+    }, {
+        name: 'Data',
+        type: 'scatter',
+        data: data,
+        id: 's1',
+        marker: {
+            radius: 1.5
+        }
+    }]
+});
+
+
+    //HEATMAP chart
+    // Substring template helper for the responsive labels
+Highcharts.Templating.helpers.substr = (s, from, length) =>
+    s.substr(from, length);
+
+// Create the chart
+Highcharts.chart('heatmapchart', {
+
+    chart: {
+        type: 'heatmap',
+        marginTop: 40,
+        marginBottom: 80,
+        plotBorderWidth: 1
+    },
+
+
+    title: {
+        text: 'Attributes correlation',
+        style: {
+            fontSize: '1em'
+        }
+    },
+
+    xAxis: {
+        categories: ['price_actual_nom']
+    },
+
+    yAxis: {
+        categories: [{% for item in attr_values %}
+                            '{{item|safe}}',
+                        {% endfor %}],
+        title: null,
+        reversed: true
+    },
+
+    accessibility: {
+        point: {
+            descriptionFormat: '{(add index 1)}. ' +
+                '{series.xAxis.categories.(x)} has correlation value ' +
+                '{series.yAxis.categories.(y)}, {value}.'
+        }
+    },
+
+    colorAxis: {
+        min: 0,
+        minColor: '#FFFFFF',
+        maxColor: Highcharts.getOptions().colors[0]
+    },
+
+    legend: {
+        align: 'right',
+        layout: 'vertical',
+        margin: 0,
+        verticalAlign: 'top',
+        y: 12,
+        symbolHeight: 280
+    },
+
+    tooltip: {
+        format: '<b>{series.yAxis.categories.(point.y)}</b> has<br>' +
+            '<b>{point.value}</b> correlation value <br>'
+    },
+
+    series: [{
+        name: 'Correlation value',
+        borderWidth: 1,
+        data: [{% for item in corr_value %}
+                    [0, {{ loop.index0 }}, {{ item|safe}}],
+                {% endfor %}],
+        dataLabels: {
+            enabled: true,
+            color: '#000000'
+        }
+    }],
+
+    responsive: {
+        rules: [{
+            condition: {
+                maxWidth: 200
+            },
+            chartOptions: {
+                yAxis: {
+                    labels: {
+                        format: '{substr value 0 1}'
+                    }
+                }
+            }
+        }]
+    }
+
+});
+
+
+    //Multiple Line Chart for 24hours prediction
+    Highcharts.chart('mullinechart', {
+
+    title: {
+        text: '24 Hours Price Prediction on {{date_str}}',
+        align: 'left'
+    },
+
+    subtitle: {
+        text: '10 percentile to 90 percentile value',
+        align: 'left'
+    },
+
+    yAxis: {
+        title: {
+            text: 'Price (EUR/MWh)'
+        }
+    },
+
+    xAxis: {
+        accessibility: {
+            rangeDescription: 'Range: 10 to 90'
+        }
+    },
+
+    legend: {
+        layout: 'vertical',
+        align: 'right',
+        verticalAlign: 'middle'
+    },
+
+    plotOptions: {
+        series: {
+            label: {
+                connectorAllowed: false
+            },
+            pointStart: 1
+        }
+    },
+
+    series: [{% for item in date_hr_pred %}
+            {name: '{{hr_cols[loop.index-1]}}', data: {{ item|safe}}},
+            {% endfor %}]
+    ,
+
+    responsive: {
+        rules: [{
+            condition: {
+                maxWidth: 500
+            },
+            chartOptions: {
+                legend: {
+                    layout: 'horizontal',
+                    align: 'center',
+                    verticalAlign: 'bottom'
+                }
+            }
+        }]
+    }
+});
+
+// actual and range chart
+const ranges = [
+         {% for item in range_data %}
+                            {{item|safe}},
+                        {% endfor %}
+
+    ],
+    averages = [
+        {% for item in range_y_data %}
+                            [{{item|safe}}],
+                        {% endfor %}
+    ];
+
+
+Highcharts.chart('rangechart', {
+
+    title: {
+        text: 'Prediction Range and Actual Price at hour {{time_hr}} in {{selected_place}}',
+        align: 'left'
+    },
+
+    subtitle: {
+        text: 'Min is 10 percentile and max is 90 percentile',
+        align: 'left'
+    },
+
+    xAxis: {
+        type: 'datetime'
+    },
+
+    yAxis: {
+        title: {
+            text: 'Price (EUR/MWh)'
+        }
+    },
+
+    tooltip: {
+        crosshairs: true,
+        shared: true
+    },
+
+    plotOptions: {
+        series: {
+            pointStart: Date.UTC(2021, 12, 9),
+            pointIntervalUnit: 'day'
+        }
+    },
+
+    series: [{
+        name: 'Price (EUR/MWh)',
+        data: averages,
+        zIndex: 1,
+        marker: {
+            fillColor: 'white',
+            lineWidth: 2,
+            lineColor: Highcharts.getOptions().colors[0]
+        }
+    }, {
+        name: 'Range',
+        data: ranges,
+        type: 'arearange',
+        lineWidth: 0,
+        linkedTo: ':previous',
+        color: Highcharts.getOptions().colors[0],
+        fillOpacity: 0.3,
+        zIndex: 0,
+        marker: {
+            enabled: false
+        }
+    }]
+});
+
+
+
+(async () => {
+
+        const names = ['actual_price', 'predict_price'];
+
+        function createChart(series) {
+
+          Highcharts.stockChart('2linechart', {
+
+            rangeSelector: {
+              selected: 4
+            },
+
+            yAxis: {
+
+              plotLines: [{
+                value: 0,
+                width: 2,
+                color: 'silver'
+              }]
+            },
+
+
+
+            tooltip: {
+              pointFormat: '<span style="color:{series.color}">{series.name}</span>: <b>{point.y}</b> <br/>',
+              valueDecimals: 2,
+              split: true
+            },
+
+            scrollbar: { enabled: false },
+            navigator: { enabled: false },
+
+            series
+          });
+
+        }
+
+        const series = [{name:'actual_price',
+        data: [
+        {% for item in energy_data %}
+         {{ item|safe}},
+        {% endfor %}
+        ]},
+        {name:'predict_price',
+        data: [
+        {% for item in predict_data %}
+         {{ item|safe}},
+        {% endfor %}
+        ]}];
+
+
+        createChart(series);
+
+      })();
+
+
+
+    });
+
+  </script>
+</head>
+<body>
+    <header class="site-header">
+        <h1> GROUP 3 QNN </h1>
+        <div style="display: flex; width: 100%;">
+            <div style="width: 60%;">
+                <h2> ENERGY PRICE </h2>
+            </div>
+            <div align="right" style="width: 40%;">
+                <h3><a href="/test">Go to My Data</a></h3>
+            </div>
+        </div>
+    </header>
+    <form method="POST">
+        <select name="place" id="place">
+            <option value="italy" {% if selected_place == 'italy' %}selected{% endif %}>Italy </option>
+            <option value="belgium" {% if selected_place == 'belgium' %}selected{% endif %}>Belgium </option>
+        </select>
+        <select name="time_hr" id="time_hr">
+            <option value="0" {% if time_hr == '0' %}selected{% endif %}>0 </option>
+            <option value="1" {% if time_hr == '1' %}selected{% endif %}>1 </option>
+            <option value="2" {% if time_hr == '2' %}selected{% endif %}>2 </option>
+            <option value="3" {% if time_hr == '3' %}selected{% endif %}>3 </option>
+            <option value="4" {% if time_hr == '4' %}selected{% endif %}>4 </option>
+            <option value="5" {% if time_hr == '5' %}selected{% endif %}>5 </option>
+            <option value="6" {% if time_hr == '6' %}selected{% endif %}>6 </option>
+            <option value="7" {% if time_hr == '7' %}selected{% endif %}>7 </option>
+            <option value="8" {% if time_hr == '8' %}selected{% endif %}>8 </option>
+            <option value="9" {% if time_hr == '9' %}selected{% endif %}>9 </option>
+            <option value="10" {% if time_hr == '10' %}selected{% endif %}>10 </option>
+            <option value="11" {% if time_hr == '11' %}selected{% endif %}>11 </option>
+            <option value="12" {% if time_hr == '12' %}selected{% endif %}>12 </option>
+            <option value="13" {% if time_hr == '13' %}selected{% endif %}>13 </option>
+            <option value="14" {% if time_hr == '14' %}selected{% endif %}>14 </option>
+            <option value="15" {% if time_hr == '15' %}selected{% endif %}>15 </option>
+            <option value="16" {% if time_hr == '16' %}selected{% endif %}>16 </option>
+            <option value="17" {% if time_hr == '17' %}selected{% endif %}>17 </option>
+            <option value="18" {% if time_hr == '18' %}selected{% endif %}>18 </option>
+            <option value="19" {% if time_hr == '19' %}selected{% endif %}>19 </option>
+            <option value="20" {% if time_hr == '20' %}selected{% endif %}>20 </option>
+            <option value="21" {% if time_hr == '21' %}selected{% endif %}>21 </option>
+            <option value="22" {% if time_hr == '22' %}selected{% endif %}>22 </option>
+            <option value="23" {% if time_hr == '23' %}selected{% endif %}>23 </option>
+        </select>
+        <button type="submit">Submit</button>
+    </form>
+    <br>
+    <hr>
+    <h4> Input Insight</h4>
+  <div class="chart-container" style="display: flex; width: 100%;">
+    <div id="chart" style="width: 40%;"></div>
+    <div id="chart3" style="width: 40%;"></div>
+      <div id="heatmapchart" style="width: 20%;"></div>
+  </div>
+    <h4> Output Insight</h4>
+
+    <div class="chart-container" style="display: flex; width: 100%;">
+        <div id="mullinechart" style="width: 50%;"></div>
+        <div id="rangechart" style="width: 50%;"></div>
+    </div>
+
+    <br>
+
+    <div class="chart-container" style="display: flex; width: 100%;">
+        <div id="2linechart" style="width: 50%;"></div>
+        <div align="center" style="width: 50%; height:400px">
+            <div align="center" style="width: 40%; height:100px; border: 2px solid #2196F3">
+                <h3> MSE Value: {{mae}}</h3>
+                <h3> RMSE Value: {{rmse}}</h3>
+            </div>
+        </div>
+
+    </div>
+
+    <table align="center" id="pred_hr">
+    {% for table in table_pred_data %}
+            {{table_pred_cols[loop.index]}}
+            {{ table|safe }}
+{% endfor %}
+        </table>
+</body>
+</html>

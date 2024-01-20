@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <form method="POST" enctype="multipart/form-data">
+      <input type="file" name="file" id="file" accept=".csv"/>
+<!--      <select name="head" id="head" disabled>-->
+<!--        <option>Choose Header</option>-->
+<!--      </select>-->
+<!--      <input type="submit" id="submit" disabled />-->
+    </form>
+
+    <script type="text/javascript">
+      (() => {
+        const fileElem = document.getElementById('file');
+        fileElem.addEventListener('change', evt => {
+          const formData = new FormData();
+          formData.append('file', evt.target.files[0]);
+          fetch('/headers', { method: 'POST', body: formData })
+            .then(resp => resp.json())
+            .then(data => {
+              // clear select options
+              const selectElem = document.getElementById('head');
+              for (let i=selectElem.options.length-1; i >= 0; --i) {
+                  selectElem.remove(i);
+              }
+
+              // populate select options
+              const headers = data['headers'];
+              for (const head of headers) {
+                const optElem = document.createElement('option');
+                optElem.value = head;
+                optElem.innerHTML = head;
+                selectElem.append(optElem);
+              }
+              selectElem.disabled = false;
+
+              const elem = document.getElementById('submit');
+              elem.disabled = false;
+            });
+        });
+      })();
+    </script>
+  </body>
+</html>
