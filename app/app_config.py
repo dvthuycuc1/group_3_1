@@ -8,11 +8,11 @@ QUANTILES = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
 QUANTILES_COL = ['q1', 'q2', 'q3', 'q4', 'q5', 'q6', 'q7', 'q8', 'q9']
 
 class AppConfig(BaseModel):
-    DATABASE: str = 'qn_prediction'
-    USER: str = 'postgres'
-    PASSWORD: str = 'password123'
-    HOST: str = "localhost"
-    PORT: str = '5432'
+    DATABASE: str = environ.get('DATABASE_NAME')
+    USER: str = environ.get('DATABASE_USER')
+    PASSWORD: str = environ.get('DATABASE_PASSWORD')
+    HOST: str = environ.get('DATABASE_HOST')
+    PORT: str = environ.get('DATABASE_PORT')
 
     FASTAPI_HOST: str = "0.0.0.0"
     FASTAPI_PORT: int = 2177

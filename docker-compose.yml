@@ -1,0 +1,44 @@
+version: '3'
+
+services:
+
+  db:
+    image: postgres
+    container_name: db
+    networks:
+      - app_network
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - 5432:5432
+
+  app:
+    container_name: app
+    depends_on:
+      - db
+    environment:
+      - FLASK_APP=main.py
+      - DATABASE_HOST=db
+      - DATABASE_PORT=5432
+      - DATABASE_USER=postgres
+      - DATABASE_PASSWORD=postgres
+      - DATABASE_NAME=postgres
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    command: flask run --host=0.0.0.0 --port=80
+    volumes:
+      - shared-volume:/usr/src/app
+    networks:
+      - app_network
+    ports:
+      - 5000:80
+
+volumes:
+  shared-volume:
+
+networks:
+  app_network:
+    driver: bridge
