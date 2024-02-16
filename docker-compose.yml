@@ -12,8 +12,8 @@ services:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
     ports:
-      - 5432:5432 
-    restart: always
+      - 5432:5432
+    restart:always
 
   app:
     container_name: app
@@ -35,8 +35,8 @@ services:
     networks:
       - app_network
     ports:
-      - 80:80 
-    restart: always
+      - 80:80
+    restart:always
 
 volumes:
   shared-volume:
