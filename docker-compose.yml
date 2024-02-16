@@ -7,13 +7,13 @@ services:
     container_name: db
     networks:
       - app_network
+    restart: always
     environment:
       - POSTGRES_DB=postgres
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
     ports:
       - 5432:5432
-    restart: always
 
   app:
     container_name: app
@@ -34,9 +34,9 @@ services:
       - shared-volume:/usr/src/app
     networks:
       - app_network
+    restart: always
     ports:
       - 80:80
-    restart: always
 
 volumes:
   shared-volume:
